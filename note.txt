@@ -1,0 +1,3822 @@
+        int counter = 0;
+        for (; counter < mIsSlotForCT.length; counter++) {
+            if (mIsSlotForCT[counter] == true) {
+                break;
+            }
+        }
+
+        if (couter == mIsSlotForCT.length) {
+            return false;
+        }
+
+new Exception().printStackTrace();
+
+[]
+al-Khwārizmī
+Ebers Papyrus
+Esagil-kin-apli
+
+[]
+seatower.com
+
+[adb remount]
+adb disable-verity
+adb reboot
+
+adb root
+adb remount
+
+[]
+《题临安湖山画壁》： 
+自古车书一混同，南人何事费车工。 
+提师百万临江上，立马吴山第一峰。 
+
+《念奴娇》： 
+天丁震怒，掀翻银海，散乱珠箔。六出奇花飞滚滚，平填了，山中丘壑。皓虎癫狂，素麟猖獗，掣断真珠索。飞龙酣战，鳞甲满天飘落。 
+谁念万里关山，征夫僵立，缟带占旗脚。色映戈矛，光摇剑戢，杀气横戎幕。貔虎豪雄，偏裨真勇，非与谈兵略。须拼一醉，看取碧空寥落。 
+
+[]
+玩海滩的话
+还是斐济、大溪地之类的地方
+
+[]
+往往不会讲道理，只会宣泄情绪
+
+[]
+魔幻现实主义是我们今天的日常
+
+[]
+打社保电话，12333
+
+[Kraft]
+One of my strategies in life, no matter what I do, is try to collect good people. And then have continuity.
+
+[tariff / exchange rate]
+
+假设你上班的公司所生产的产品，进口5美元的原材料，完全成本9美元，10美元出口到美国，剩1美元的利润。
+
+假设现在汇率是6，也就是进口原料30元，制造成本、财务成本、管理成本、销售成本一共24元，卖60元，赚了6块人民币。
+
+现在贸易战美国加了10%的关税，也就是10美元你出口，到了美国，美国政府收1美元，到了你的客户手里是11美元。
+
+客户说，你这个东西没啥门槛，可选供应商很多，可以买越南供应商的产品替代，除非你还让我10美元买。
+
+那你公司就只能9美元出口，让美国政府收1美元，到客户手里10美元不变。
+
+现在汇率也变动了，贬值到7了。对应的是，买原料花了35，其余成本还是24，卖了63元，只赚4元。
+
+然后你公司老板可能会说年终奖没有了，或者甚至给你降薪了。
+
+你平常花钱也要节省一些了，然后就内需不振了，就消费降级了。
+
+你老板可能比你更惨，他在外面可能有股权质押融资，他赚了10块钱可能有8块钱都是还利息的，现在只赚4块钱了，现金流就断了，债务就违约了，这就是股市上常说的大股东暴雷、需要纾困。
+
+川普把税又加到25%了，你们公司要么赔本卖，要么订单流失到越南企业，最终你们公司关了，你也失业了。
+
+这就是最近一年多国内经济发生的事。
+
+
+或者天朝不选择贬值，汇率还是6。那就是30元买原料，24元其它成本，卖价54元，直接就没利润了，比不贬值凉的更快。
+
+[]
+According to the data from the US Department of Defense, the US suffered 33,686 battle deaths, along with 2,830 non-battle deaths, during the Korean War. American combat casualties were over 90 percent of non-Korean UN losses.[307] U.S. battle deaths were 8,516 up to their first engagement with the Chinese on 1 November 1950.[308] The first four months of the Korean War, that is, the war prior to the Chinese intervention (which started near the end of October), were by far the bloodiest per day for the US forces as they engaged and destroyed the comparatively well-equipped KPA in intense fighting. American medical records show that from July to October 1950, the US Army sustained 31 percent of the combat deaths it would ultimately accumulate in the whole 37-month war.[309] The U.S. spent $30 billion in total on the war.[310] Some 1,789,000 American soldiers served in the Korean War, accounting for 31 percent of the 5,720,000 Americans who served on active-duty worldwide from June 1950 to July 1953.[20] [check quotation syntax] South Korea reported some 137,899 military deaths and 24,495 missing. Deaths from the other non-American U.N. militaries totaled 3,730, with another 379 missing.[17]
+
+[sms]
+In WCDMA, we injected the SMS message into a DCCH channel and send it to the destination. It means that we carried the message over a control channel, not over a data channel.
+SG SMS is also using a similar concept, we send the message over a control channel.
+
+[How virtualization works at low level?]
+In this case VM manager takes over the CPU ring 0 (or the "root mode" in newer CPUs) and intercepts all privileged calls made by guest OS to create illusion that guest OS has its own hardware. Fun fact: Before 1998 it was thought to be impossible to achieve this in x86 architecture because there was no way to do this kind of interception. The folks at VMWare were the first who had an idea to rewrite the executable bytes in memory for privileged calls of guest OS to achieve this.
+
+The net effect is that virtualization allows you to run two completely different OS on same hardware. Each guest OS goes through all the process of bootstrapping, loading kernel etc. You can have very tight security, for example, guest OS can't get full access to host OS or other guests and mess things up.
+
+[]
+每天一篇好文章足矣
+   数据控
+易方达元
+测试结果转发到朋友圈
+信息过载，集权，垄断
+
+[]
+社区运营经典案例：Keep是如何在产品冷启动阶段导入大量的精准用户。
+1、埋雷阶段
+在各大健身类的产品/网站上都注册3~10个账号，每天发布优质的健身类文章，注意！这里一定是优质的，优质到可以引起平台的注意，优质到可以吸引足够多的关注，优质到可以在短期内成为1个Kol。
+2、等待阶段
+持续1个月左右高频次优质内容发布，讲自己如何健身等等，和粉丝进行高频互动，基本做到100%覆盖，让这批号在这个圈内形成1股小规模的影响力，内容可以由运营产出，或者雇佣写手的方式完成。
+3、暴雷阶段
+等产品上线当天，100多个账号，发布内容的文末告诉大家，是体验了Keep的产品；短时间内形成健身圈的1个风向标，Keep开始瞬间引爆成1个话题。
+
+[]
+在抖音上投放广告分为两类：一类是CPC(点击收费)，预计2元/点击，1万次点击1万元，预计展示1000万人；另一类是CPM(千人展示)，预计10元/CPM，1000次CPM1万元，预计展示100万人。
+
+[social network payment system]
+https://new.qq.com/omn/20190611/20190611A0Q5BG.html
+
+[study: materialistic]
+HackerNewsClient.java getStories() getItem() (brief)
+StoryRecyclerViewAdapter.java loadItem()
+ 
+[install pytorch]
+pip3 install http://download.pytorch.org/whl/cu80/torch-0.3.0.post4-cp35-cp35m-linux_x86_64.whl 
+pip3 install torchvision
+
+[ipython]
+jupyter notebook *.ipynb
+
+[]
+义正言辞的腔调和厚颜无耻的嘴脸
+天生自由散漫、不守规矩
+歪曲篡改
+纯属捏造
+
+[BD]
+更大的问题是，今夜酒店特价的产品模式缺乏正确的市场判断。“酒店是否真的需要清库存，会不会损害品牌；酒店是否真的愿意剩房打折，会不会有高价购买的客户投诉；酒店剩房量少，是否愿意特意为此增加工作量。”
+
+品牌进驻聊天平台
+
+给WhatsApp提供每月16卢比的套餐
+
+[Marketing]
+我做的所有事情都是一对一的销售。没有召开产品发布会，没有买广告，没有做展位，没有刷榜单，没有去参加任何健康食品行业会议或创投圈交流会，我向身边的所有朋友推荐我们的排毒果蔬汁。大家纷纷觉得这个概念很新鲜，都想尝试，先交了钱
+
+[ideas]
+作为一款由人工智能驱动的手机应用，它不仅可以把培训内容模块化每日推送给用户，以便人们利用通勤、出差等碎片时间学习，还能够针对个人的领导力风格和目标进行灵活调整。
+Virtual labs
+    -- https://spectrum.ieee.org/the-institute/ieee-member-news/remote-learning-made-easier-with-this-startups-online-engineering-labs
+语言单位对齐，应该是NLP的核心？
+用户只需花2美元就可以购买一些高级功能，比如把他们的聊天群或个人资料放在Yubo主页置顶几分钟，获得更多的互动机会。按月订阅高级功能的价值约为10美元/月。
+劳动价值论将多个必要因素视而不见，只突出劳动的作用，这里有语言上的陷阱。必要因素是决定性的，但多个必要因素时，这些都是决定性的因素。还原论的错误，例如，01是现代计算机组织的基础，但算法才是计算机能够为人类提供价值的基础。
+camera+wifi on one chip
+    -- display on cellphone
+    -- used in car, home monitor
+    -- battery?
+要不要举报？app to discuss illegal car (we need cover plate number when discuss.)
+绿森一直跟各家银行的积分商城合作，躺着赚钱
+视频科普就能赚钱
+    -- K12
+    -- Toys/Tools live show
+AI startups are selling images of realistic computer-generated faces, letting clients like dating apps “increase diversity” in their ads without needing people
+    -- make 'face' talk to assist/accompany
+law qa
+    -- bd: sell insurance
+    -- AI unstructured data --> structured data
+       law case match
+dating app that cater exclusively to users over 50
+nlu
+    --big data to do intent evaluation
+    --https://github.com/snipsco/snips-nlu
+loner's gift
+    -- send each other
+交换辅导
+    --多数情况下能教别人家的孩子，教不了自己家的孩子
+https://github.com/lqj679ssn/Hiphop
+    -- https://www.rhymezone.com/r/rhyme.cgi?typeofrhyme=perfect&loc=dmapi4&Word=hip-hop
+    -- upload yours and discuss, and diss
+healthcare chatbot
+    -- survey when waiting on line
+auto complete
+    -- code
+    -- sentence
+    -- next thing?
+work skills accummulation
+    -- knowledge
+    -- news
+AI unstructured data --> structured data
+    law case match
+    similiar issues/scenarios
+        -- Find Similar Quora Questions
+    enterprise productivity
+         knowledge base
+    --> pos/syntax/word2vec
+    --> reasonable data?
+    https://github.com/HazyResearch/snorkel   medicine school
+    http://ilp.mit.edu/newsstory.jsp?id=22979
+    https://github.com/HazyResearch/deepdive
+    https://en.wikipedia.org/wiki/Probabilistic_programming_language
+    https://github.com/nlpyang/structured
+    https://github.com/qq547276542/Agriculture_KnowledgeGraph
+
+how much money to do this?
+    -- all kinds of project management: wedding, travel, fitting, running
+    -- https://github.com/karan/Projects
+    -- https://github.com/opf/openproject
+talking cat alike
+   -- scenario AI language teacher
+emotion chat/reader
+   -- learn from audio
+medium.com alike
+   -- finance, tech, etc.
+   -- compare with jianshu.com
+block chain
+   -- https://github.com/EOSIO/eos
+   -- https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+   -- https://github.com/dvf/blockchain
+discount web
+    -- all aroud the world
+    -- 红包打赏
+    -- similiar stock
+【云帐房官网】智能财税软件_会计财务软件_代理记
+    -- 在代账软件出现之前，代账公司往往需要铺人力，将发票、账单、进销存数据等人工录入，再用Excel等通用性工具进行分类、计算、制成报表。
+howto with pictures
+   -- https://ccm.net/faq/34184-android-enable-sms-and-mms-delivery-report
+Calm.com 是一款用于冥想、助眠等场景的音频软件。它为用户提供冥想指导、健康提示、助眠故事、书籍和视频。
+ugly face video
+   -- skills
+途牛旅游分期贷款乱象
+车队陪游
+Smart fitness company Mirror, maker of a reflective LCD device with two-way audio and video, launches in-home 1:1 personal training at $40 per 30-minute session 
+freelancer website
+    -- contact
+识别增值税发票
+SAAS
+    -- extent "odoo"
+risk analysis
+    -- marriage
+    -- company
+    -- stock
+一款叫无秘的匿名社交软件，这里也成了吐槽公司的重灾区
+SpotHero, which allows users to buy and sell parking spaces,
+新能源汽车
+    -- web/app
+K12/Exam multi-aspect evaluation
+    -- first step: english word AI speaker
+    -- math
+         -- family video
+    -- BD: pay for store, split pay
+multi language news for same thing
+    -- investment feed
+    -- AI tag positive/nagetive
+    -- Polarity, which uses AI to analyze text on employee screens to augment it with context overlays
+https://heavy.com/news/
+    -- N facts you need to know
+长途、短途患者出院转院，吸痰机、氧气、担架、呼吸囊、呼吸机等急救设施齐全，需要的话，还能增加医护人员特护
+virtual museum
+应用很简单，就是你在线的时候，别人可以看到你的位置，然后可以向你请求开直播，可能收点钱啥的，然后其他人可以围观
+对话助理服务boring
+    -- rumors
+    -- “电影助手”
+    -- weekend activity
+    -- play around
+    -- sound making people peace
+    -- text from books: 村上春树
+    -- travel
+    -- driving
+travel mate
+    -- remote AI/people
+TO B在线教育平台
+    -- computer edu platform
+        -- android emulator
+    -- 在线少儿英语平台
+    -- 人事部门引入的HR分身：迎接新员工
+    -- 个简单的道理——有几个学生，放学以后，完成了作业，还有时间主动的在线学习？上网的时候，不去看新闻、聊天，而是做题，看视频？
+med records
+    -- blockchain
+tax caculator/avoid
+    -- personal
+    -- enterprise
+chatbot
+    -- bank
+    -- hotel
+    -- stock
+    -- news
+travle auto plan
+    -- click places, then present plan/budget   
+med
+    -- 药监局上线“化妆品监管”APP，辅助鉴别三无产品
+    -- 进行内容的3D可视化展示
+    -- 健康科普平台
+远程的机械手
+    -- driver
+    -- med operation
+    -- mechanic
+远程手术，远程修机械
+segmentation opportunities
+    -- road segment
+    -- clothing segment
+Building Blocks to Supercharge your App
+    -- rapidapi.com
+    --
+有雾等情形下拍出好片
+理发店/饭店/培训/储值卡的金融集成商
+generate storyboard from your image collection
+列N个最熟悉的人
+    -- 最临近的某专业人(记者..)
+机场火车站旁边的住宿
+识别人在商品边停留的时间
+恒温箱老人小孩
+funiture style change
+    -- deep ai
+    -- BI: add new element such as lamp, painting...
+虚拟偶像，AI 制造
+    for kids
+    for olders
+specific software forum
+    -- word
+    -- autocad
+    -- incoming software
+    -- rank
+town forum
+    -- like yelp(rank)
+    -- 老乡会
+    -- car accident/crimes
+    -- family life 
+    -- road
+    -- 联谊
+    -- family tree
+       -- face recog
+    -- location
+       -- historical picture
+    -- 北欧神话
+    -- badge/symbol
+    -- free giving (1RMB sell)
+    -- daily cooking
+    -- 用户需要提供家庭住址证明自己属于这一社区范围，社区内发布的消息仅仅该小区的用户可以看到
+    -- BD: share taxi/shopping/insurance, app store
+         -- student materials
+         -- kids
+         -- pet
+         -- car accident insurance (not major responsibility)
+         -- second hand car
+         -- referral/recommend system
+    -- bitcoin/blockchain
+    -- https://www.sitejabber.com/reviews/nextdoor.com?page=3#reviews
+    -- 羊毛党
+    -- BirthdayParties.com（一个聚会场所搜索引擎）
+    -- life tip/gadget
+spoken mardarin level
+    -- teacher entrance exam
+远程会议,自动进行语音识别,优先传送文字/translation
+HTC partners with Mozilla to bring Firefox's virtual reality web browser to the Vive headset
+english learning
+    -- live with camera: shopping, watch tv
+        -- https://github.com/indico/indico
+    -- 场景英语
+    -- students in USA
+tinder alike
+    -- pic of place/view/food --> tour plan
+    -- pic of movie/housing
+    -- text abstract
+    -- pic of earring
+clothing replacement
+    -- https://github.com/phillipi/pix2pix
+indico
+    -- https://indico.io/blog/clothing-similarity-how-a-program-is-more-fashionable-than-me/
+review generation
+    https://github.com/openai/generating-reviews-discovering-sentiment
+    https://github.com/Tony607/Yelp_review_generation
+    https://github.com/ajmanser/Yelp
+人脸手机本地自动备份数据
+note/chat with memory
+    -- we have to read again to keep it in memory
+2B: snickers to recycles
+kids talent
+    -- BM: parents, institution, shopping
+门店可以在非码智能操作平台上快速建立聚合支付、电子券、储值卡、会员、第三方外卖、小程序（自外卖、自助下单、扫码购、拼团、砍价、秒杀、抽奖、小游戏等）等互联网业务。
+quizlet.com
+article
+    create questions
+       -- crf    
+    extract summary
+        -- n-gram
+        -- veterbi, hmm
+nlu (natural language understanding)
+    -- use a template
+    -- auto create the template
+         -- crf++
+    -- user generates templates for scenarios
+         -- if facial expression, then
+         -- tempo
+send a cup of coffee to know somebody
+    -- coffee shop to send the coffee
+    -- transmission fee
+red wine ocr
+https://alternativeto.net/
+    -- alternative brands can advertise their own
+    -- such as edu company
+mutual olders
+    -- med.sina.com
+    -- newsmth->medicine
+    -- pet buy/sell
+    -- AI speaker: 4pm stretch legs/exercise team
+    -- 社保 ""
+    -- 对外收的咨询费
+    -- eating life
+    -- weather
+    -- edu: drawing/music/flower
+topic, article
+   -- Mx = \lambda x
+   -- M : selected sentence
+   -- x : topic
+GameFAQs
+与朋友分享的个人爱好
+青少儿创意社交app
+郊区木工房
+新闻专题汇集
+    正负面
+最奇葩的案例
+random group chatting
+article review
+    https://github.com/lqj679ssn/QingningWork
+考古文字
+Having an idea:
+    https://www.huxiu.com/article/264894.html
+logo:
+    -- convert -size 800x120 xc:white -font Times-Roman -pointsize 100 -fill gray -annotate +20+80 'Linux is cool!' -fill black -annotate +23+83 'Linux is cool!' -trim +repage logo.png
+    -- convert -size 32x32 xc:transparent empty2.jpg
+    -- https://github.com/pybites/blog_code/../banner
+       https://pybit.es/pillow-banner-image.html
+https://c1.staticflickr.com/1/530/18767630226_1035699091_b.jpg
+openpose
+   -- 健身教练
+我们组有印度业务，做了一个新闻分类和推荐，针对印度的6种文字
+voice partner
+   -- olders (you all have to listen to me -- business model)
+       老年人需要支付的服务费用为每小时 20 美元，其中 12 美元支付给学生，8 美元支付给 Papa 平台
+       学生，通过与老年人聊天或帮助他们跑腿来赚钱
+reminder (olders)
+   no dismiss/known -> call
+   medicine count
+   birthday/anniversary
+   chinese calendar
+object detection
+   -- saas
+   -- video + shape (min square root)
+   -- dialogue
+大公司招标外包
+消暑避冬旅游
+   -- vacationrentals.com
+移动互联网同城
+   活动发布
+   吃喝玩乐兴趣社交产品
+robots simulation
+   https://github.com/openscad/openscad
+   https://github.com/FreeCAD/FreeCAD
+   https://github.com/dusty-nv/jetson-reinforcement
+   https://github.com/erlerobot/robot_blockly
+   https://en.wikipedia.org/wiki/Visual_programming_language
+lip reading
+   -- language study 
+VR partner
+   -- teacher
+   -- older
+Law
+   Family Law
+   Starting a Business
+   Wills & Trusts
+   Business Contracts
+   Criminal Law
+   Employment Law
+   Personal Injuries
+   Real Estate Law
+用算法控制机械手, bulldozer
+young!play
+   -- wechat 早年被微商透支了一把，现在是被老人和各种城市 谣言攻陷
+Business + Entrepreneur + Economcs + Investment
+   -- speech
+股票其实和街边猜单双的差不多，买单的多，他开双，买双的多，他开单，吃的是中间的差价
+data transfer
+      -- https://github.com/google/data-transfer-project
+https://item.jd.com/29882693102.html
+VPS/host; logo; comments powered by Disqus; 如果需要与客户/同事更加实时地讨论或展示软件，这时就需要一个视讯平台;保险
+通过美途卡、会员制，将低频的旅行产品，和高频的生活方式相关的会员服务、会员权益（包括美途积分、环球保签、海外驾照、肿瘤检测、健身房周卡等）结合。
+用AI算法来对后台积累的22亿条用户数据进行充分利用，从而为用户更精准地推荐课程及训练方法
+将孩子的睡前故事变成特效电影的 Novel Effect : buy thunder, rain, wind, roar etc
+电动割草机
+智能烤箱/DEVICE  adjust procedure according to device conditions
+学习的课程和效果都将被企业雇主看到
+bitcoin travel
+travel + social (nation-wide groupon)
+travel picture qa
+apartment/car info/number to move
+FDroid collect original app from website
+课程/作业模板
+分期存款 travel, 不是付款
+kicker评分
+1. 搞一个App，收录所有政府机关和一些正规大公司的电话号码，进入这个白名单的必须经过严格认证，这样手机上装了这个App以后，可以除了自己号码本里的电话和这个白名单里的电话，一律拒接。
+2. 搜索的话，可以只索引国家的法律法规和办事流程等，并随时保持更新。现在的搜索引擎这一块经常返回过时无用的信息。
+    -- business model: pay for latest collection
+商务massage
+智能音箱用来学习查字典
+周线下影线，可能反弹1%2%.
+AR地球仪
+instant search
+    -- less than 500 words.
+要用一张全身的图片估算三围
+B2C 出租新书
+    -- 合作租书，租新书
+专注特定的图片
+    -- panorama
+    -- http://www.cs.cornell.edu/courses/cs4670/2010fa/projects/final/results/group_of_acc269_ty244_yc563/cs4670_final.html
+商家想要在红信上发布信息，需要先发一个红包，之后信息会推送给店铺方圆一公里的红信用户
+提供手机 App 帮助家庭预订本地的儿童活动，包含体育运动、戏剧课程、手工 DIY 活动等
+freelancer working at home
+    -- pick another freelancer to work together
+    -- virtual coworker
+task
+    -- image label
+    -- dialog correction
+foreign money exchange
+    -- people working in foreign country, have relatives in homeland
+       eg. american in beijing, chinese in miami
+crowded suspect identify
+    -- face recognition
+dropbox
+    -- 2C travel clips
+    -- 2B game replay
+HubSpot provides tools for social media marketing, content management, web analytics, landing pages and search engine optimization.
+Mighty AI originally launched in 2014 as Spare5, debuting an app that enables everyday people to perform short tasks on their smartphone — like photo tagging, price guessing, and sentiment analysis of text —  in exchange for payment.
+dialog on news, picking movie/music/dish/resort, language learning
+voice recognition in high noising environment
+cellphone gpu
+    -- Vulkan
+artworks recognition
+    -- find out boxes
+        -- extract box feature
+        -- box relationship
+    -- https://github.com/magwyz/pastec
+    -- musuem
+
+Box-based essay analysis
+    -- Segment essay as box
+slam + ar
+    -- ShowMeHills
+寻活动场地
+    -- 亲子
+Auto compose thread to tell story.
+    -- parenting
+LBS playing games
+家族出游,每个人都拍了很多照片,如何管理?
+美股对标A股
+older/pregnant smart watch
+    -- medicine reminder
+    -- blood pressure
+    -- heart rate
+    红色LED点阵屏走马灯，公交车内报站用的那种，好些商铺也挂门口，一些城市的出租车后窗玻璃内也有那个广告屏。控制板用ESP8266物联网模块自制。通过wifi与你的openwrt路由器通信，路由器上弄个web界面或者别的远程机制来进行内容输入以及显示屏开关控制界面。熄屏待机状态功耗不足1W。屏上再加个已读关屏按钮，父母为省电读了可以按一下直接关屏。自己动手DIY，BOM成本能控制在300元以内吧。
+
+ar travel guide
+   -- object detect
+        https://github.com/facebookresearch/Detectron
+   -- share gift card
+        https://trvl.com/
+        如果朋友通过你的链接预定了房间，你就能获得高达预定金额10%的佣金。split the 10%
+   -- travel task
+        -- buy bag
+   -- hometown
+   -- personal host
+   -- picture/building
+   -- art: painting
+   -- plants/animal/history/geography
+   -- organzine
+   -- add comments
+   -- friends who ever been here
+   -- games
+   -- bullet screen
+        https://github.com/1-Sisyphe/youCanCodeAGif
+   -- rank best pictures
+        regret that have no chance to view
+   -- ai stories
+        https://github.com/ryankiros/neural-storyteller
+        https://github.com/burhanrashid52/PhotoEditor
+        https://github.com/bhuvnesh123/FFmpeg-Video-Editor-Android
+   -- panorama
+   -- second hand
+   -- beatuiful view, delicious food
+   -- new year, wedding templates
+subcluture microvideo
+平仄，韵部
+   -- http://www.cnrencai.com/guanggaoci/126170.html
+   -- http://www.zhengjicn.com/guanggaoyu/Index.html
+personal PR
+极致抠图
+fear indicator in stock
+   -- mislead fear
+middle-class life in china cities
+   -- high building
+   -- subway
+   -- museum
+   -- park
+   -- home town
+   -- caffee
+build your own chatbot
+https://github.com/qq547276542/LabelMarker
+
+比价 APP
+    - take picture
+利用文本识别、文本替换、文本相似度等技术和营销理论，把一个创意拆解成卖点、句式、人物、地点、诉求等因素，再通过大量样本训练，逐步做到精准度越来越高的文本改写，让一个单一的创意，自动变成千变万化的版本，最终通过大数据匹配给对应的人，出现对应的展示内容。
+product idea found
+    如果没有好的想法，你可以使用社交网络主动寻找想要寻找解决方案的人。利用关键字或关键词，找到人们发布的遭遇很大挫败感的话题，例如我该怎么做，寻找问题解决方案，或者关于这个工作做的不好等。你可以在Reddit或Twitter等社交媒体上找到这些信息。
+student collaboration platform
+    course sharing
+    teacher faq
+    cloud host / share code / share work
+    接龙story
+    guiderank
+    travel
+    sports
+    print
+    poster sell
+    pick a major: https://github.com/fivethirtyeight/data/tree/master/college-majors
+    pick a professor: http://home.projectlever.com/
+    pick a carrer path
+    resume
+    share UML
+    collect web courses from schools
+    Crucible, Phabricator, Reitveld, ReviewBoard
+    https://github.com/bitlabstudio/django-review
+    https://github.com/hjw541988478/ZfsoftCampusAssit
+
+“Interactive technology that dramatically increases patients’ comprehension about their condition, care, and treatment.”
+    -- pregnant
+    https://github.com/Trostyanchuk/EasyAnatomy/tree/master/EasyAnatomy
+    https://github.com/silviyahasana/ar_anatomy_android
+dummy fix
+shortest word distance
+     salty <---> pissed
+based on famous photos, change styles in user's gallery
+scalable article length
+food recipe: lose weight, for olders, for children
+    dialog system of ordering diner
+crowdfund print: star, sports, etc.
+trade mark verification
+auto mindmap <-> full text
+可定制化的明星款天气预报
+teach kids when on resort 
+Python纯代码登录新浪微博并自动发微博，不使用SDK
+   https://github.com/fendouai/sinaWeibo
+no picture, no truth
+   find people connection in picture sea -> terrorism, credit
+   find object connection in picture sea -> credit
+结合AI和VR，这家公司要打造有感情的虚拟克隆人
+看图猜电影/TEXT to book/SCENARIO to place/part to ART(music, painting)
+tons of ways to publish (twitter?)
+stock calendar
+   https://www.jisilu.cn/data/calendar/
+https://www.producthunt.com/posts/genies
+film to digital(PPT/Website/OS color optimization)
+   https://github.com/DmitryUlyanov/deep-image-prior
+   https://github.com/junyanz/interactive-deep-colorization
+   https://github.com/david-gpu/srez
+   grey picture(old people)
+traveller (with 10+ places)
+freelancer forum
+travel + AR  ARKit/ARCore
+auto coffee ATM
+subculture + groupon
+thunder chat
+    introduce something in 30s
+约饭组局
+    subculture groupon
+    移动互联网同城吃喝玩乐兴趣社交产品
+    MoneyBoat
+    Blind date
+Psychological distortion
+business case collection
+datacrazy:
+   -- stock, economy
+   -- sports 
+   -- search engine trend/alexa
+   -- movie
+auto hotspots marketing: https://github.com/otakurice/weibonlp
+   http://blog.csdn.net/vermilion1990/article/details/78153850
+dialogue segment/cluster
+   Topic Segmentation of Dialogue 
+   Text Segmentation
+   https://github.com/Jonas1312/CommunityDetection
+facial expression reading --> teach language
+   https://github.com/a514514772/Real-Time-Facial-Expression-Recognition-with-DeepLearning
+minimum meaning network
+stock: on internet, search product quantities
+    15分钟级别反弹，一般6小时是基本确定的，更长的不好说；就今天而言和明天上午而言，还是安全的，不用太恐慌。
+https://github.com/NolanZhao/news_feed
+https://karthkk.wordpress.com/2015/04/27/controlling-of-robots-using-python/
+auto-complete objects
+(bookmarks) problem solution collection
+https://github.com/jeromeetienne/AR.js
+http://cs229.stanford.edu/proj2015/
+https://github.com/salomonelli/best-resume-ever
+https://sourcegraph.com/ pysonar
+http://www.clouds360.com/storage.php saas list
+https://github.com/dhruvp/wbc-classification blood cell
+两个大病 一个意外 一个交通 还有个住院 投连
+http://36kr.com/p/5083431.html
+https://github.com/bitsquare/bitsquare  exchange
+深海鱼油＋卵磷脂（预防及降三高）、心脏辅酶Q10（预防心血管疾病）、维骨力（预防及防治关节问题）、钙（防治骨质增生）、蜂胶（增强免疫力、美容养颜、防肿瘤、调节肠胃功能等）、护肝片、复合维生素，
+indico.io/blog
+https://github.com/ffay/lanproxy
+kid programming computer
+从监控工厂中的产品流水线到监控庄稼地的空气湿度，再到跟踪公关管道中的水流
+
+[stock]
+看来凡是高质押的上市公司无论是不是白马都要远离，康美药业每年盈利这么多钱，还质押，证明没赚到钱，要拿股份质押换钱，也就是说有可能造假。当初的乐视网也是这样，明明每个盈利的，贾跃亭还质押全部股票，证明没赚到钱，也证实财务造假了。
+传染病爆发就拉鲁抗
+宁波银行，资产质量最好，成长稳健，20%左右，盘小，爆发力大
+招商银行，稳健和成长性兼顾
+平安银行，有想象力，每个季度各个指标都在提高，但各个指标比招商银行宁波银行还是差，有投机资金进入
+工商银行，派息稳定的蓝筹股
+降息周期，多买资产
+
+[book project]
+<books>
+http://wiktenauer.com/wiki/Main_Page
+https://aimath.org/textbooks/
+http://open.umn.edu/opentextbooks/
+https://en.wikipedia.org/wiki/List_of_digital_library_projects
+https://librivox.org/
+http://www.aozora.gr.jp/
+http://ctext.org/
+http://www.gutenberg.org/
+http://blog.csdn.net/luqin1988/article/details/8802287
+http://www.saohua.com/shuku/zhexue/index.htm
+http://read.jd.com/5013/
+http://www.ireadweek.com/index.php/bookList/1.html
+https://pan.baidu.com/share/home?uk=3527831162#category/type=0
+<recommender engine>
+preference analysis
+https://github.com/chrisjmccormick/LSA_Classification
+https://github.com/lyst/lightfm
+http://www.benfrederickson.com/matrix-factorization/
+https://github.com/jldbc/gutenberg
+**expert system: tag book path 
+<summary/extractor>
+https://github.com/fnl/segtok
+https://github.com/jbrooksuk/node-summary
+https://github.com/miso-belica/sumy
+https://rare-technologies.com/text-summarization-in-python-extractive-vs-abstractive-techniques-revisited/
+https://github.com/codelucas/newspaper
+https://github.com/zkwi/textSummary
+<search engine>
+https://github.com/elastic/elasticsearch
+solr
+<ad system>
+<frontend/forum>
+pythonzh.cn
+<backend/data>
+https://github.com/openzim/gutenberg
+<backend/admin>
+https://github.com/lixingdecai/vue-toutiaohao
+<links>
+https://github.com/fullstackreact/react-native-oauth
+https://en.wikipedia.org/wiki/Project_Gutenberg
+http://36kr.com/p/5071701.html
+https://github.com/nwhusted/GutenbergGraphalyzer
+https://github.com/NicolaiVBonderup/GutenbergToJsonTool
+https://github.com/lemire/gutenberg-headers
+https://github.com/delight-im/Faceless
+https://learn-anything.xyz/
+https://github.com/learn-anything/search-engine
+<features>
+share with friends
+rss
+https://github.com/vivian8725118/TimeLine
+https://github.com/ziwenxie/leafer
+https://github.com/iHaPBoy/BookShelf
+https://github.com/JustWayward/BookReader
+speech
+share private books
+fixed time reading/10000 hours
+https://github.com/facebookresearch/fairseq
+https://github.com/tensorflow/models/tree/master/textsum
+https://github.com/Franck-Dernoncourt/NeuroNER
+https://github.com/fdansv/marginotes
+https://github.com/yyqian/imagine
+https://github.com/brightmart/text_classification
+https://www.jiqizhixin.com/articles/f18961b7-5b7f-4533-bcac-e28ef1cf7690?utm_source=tuicool&utm_medium=referral
+<legal>
+根据《著作权法》第二十二条规定，“为介绍、评论某一作品或者说明某一问题，在作品中适当引用他人已经发表的作品” 可以不经著作权人许可，不向其支付报酬，但应当指明作者姓名、作品名称。
+<references>
+Library of Congress Classification
+https://nlp.stanford.edu/IR-book/html/htmledition/contents-1.html
+https://github.com/nelson-liu/paraphrase-id-tensorflow
+
+[read/comment open source]
+opengrok
+https://github.com/free-electrons/elixir
+https://github.com/cbess/text-sherlock
+
+[opencv]
+https://github.com/xiaoxiaoqingyi/NDKDemos
+https://github.com/tzutalin/build-opencv-for-android
+
+[spoken language project]
+<conversations>
+https://github.com/fritzy/SleekXMPP
+https://github.com/jiangzehui/xmpp
+https://github.com/chat-sdk/chat-sdk-android
+https://github.com/siacs/Conversations
+<features>
+https://github.com/atpaino/deep-text-corrector
+https://github.com/Uberi/speech_recognition
+https://github.com/cmusphinx/sphinx4
+https://github.com/zzw922cn/Automatic_Speech_Recognition
+https://github.com/hugovk/gutengrep
+espeak, recite
+CMUSphinx
+ispeech
+https://en.wikipedia.org/wiki/LibriVox
+aa.1 https://github.com/fdansv/marginotes
+aa.2 https://github.com/maoruibin/TranslateApp.git
+<links>
+https://github.com/dariusk/corpora
+http://norvig.com/spell-correct.html --> corret voice too
+https://github.com/kaldi-asr/kaldi
+http://my.fit.edu/~vkepuska/ece5527/Projects/Fall2011/Burgos,%20Wilson/sphinx4-1.0beta6/sphinx4-1.0beta6/
+https://summerofcode.withgoogle.com/organizations/6234667528224768/
+https://github.com/habdullah/pocketsphinx
+http://electhuang.com/2017/04/27/android-pocketSphinx/
+https://cmusphinx.github.io/wiki/pocketsphinx_pronunciation_evaluation/
+https://github.com/syl22-00/pocketsphinx.js
+https://github.com/SND96/pocketsphinx-scores
+https://github.com/cmusphinx/pocketsphinx-android-demo
+https://github.com/phodal/diy-private-smart-speaker
+https://github.com/phodal/awesome-smart-speaker
+https://github.com/CSTR-Edinburgh/merlin
+https://www.quora.com/What-should-I-do-if-I-want-to-write-a-TTS-system-for-Chinese-Mandarin-using-hts_engine
+https://github.com/alidili/Demos
+https://github.com/klb3713/sentence2vec
+https://github.com/RaRe-Technologies/gensim
+https://github.com/a514514772/Real-Time-Facial-Expression-Recognition-with-DeepLearning
+<>
+CMU Sphinx is working very good for me, just for the sake of sharing some knowledge, my setup is:
+
+Linux OS of course.
+I record 32kHz .wav files that I later pass to the Recognizer as the audioFileDataSource to get the Speech converted to Text.
+Trigram Language Model (SimpleNGramModel class)
+My Language Model is a custom one that I generated with the words/phrases I wanted. (Used the CMU Cam Toolkit version 2 (docs available at http://svr-www.eng.cam.ac.uk/~prc14/toolkit_documentation.html to generate my own trigram.arpa files)
+My Acoustic Model is wsj (TiedStateAcousticModel class) and wsjLoader (Sphinx3Loader class) with the WSJ_8gau_13dCep_8kHz_31mel_200Hz_3500Hz.jar (for some reason, this works better for me than the 16kHz model) and its dictionary.
+I use a Live FrontEnd with melFilterBank (tuned up to the acoustic model parameters) and liveCMN.
+I think the key is to generate the appropriate trigram.arpa files using the tools.
+
+[logo project]
+<marketing>
+festival
+https://github.com/yunjey/StarGAN
+
+[name project]
+<deep learning>
+https://github.com/tensorflow/models/tree/master/namignizer
+<links>
+https://www.kaggle.com/kaggle/us-baby-names
+https://github.com/wainshine/Chinese-Names-Corpus
+
+[dialog project]
+<corpus>
+https://github.com/candlewill/Dialog_Corpus
+<software>
+chatbot
+<features>
+senmatic graph
+sentiment answer
+https://github.com/pandolia/qqbot
+<thoughts>
+speaker backgroud and previous talks 
+<links>
+https://github.com/Neel28/Airline-Information-Dialogue-System
+https://github.com/Hironsan/HotPepperGourmetDialogue
+
+[travel project]
+<links>
+http://blog.csdn.net/vermilion1990/article/details/78035339
+    https://github.com/otakurice/notravellist
+https://github.com/krialix/Yoloo
+https://github.com/kushalvyas/Python-Multiple-Image-Stitching
+https://github.com/ppwwyyxx/OpenPano
+https://www.timeout.com/city-guides/travel/50-best-travel-apps/
+http://www.openstreetmap.org/about
+https://github.com/iSame7/Panorama
+https://github.com/jacebrowning/memegen
+https://github.com/hanyucd/movieweb_python
+https://github.com/Zulko/moviepy
+https://github.com/Swati4star/Travel-Mate
+https://github.com/shengxinjing/footprint
+https://github.com/SuchScar/FootPrint
+PhotoMovie
+TranslateApp@github
+Travel-Mate@github
+https://github.com/project-travel-mate/server
+wiki
+leavy.co to rent out their room or apartment when they are away to help fund their trip.
+    -- switch
+https://github.com/unseen1980/TravelResources
+TinyTravelTracker@github
+https://github.com/huminted/WakeUpClock   alarm
+https://github.com/trikita/talalarmo
+https://github.com/Kyubyong/tacotron
+https://www.openhab.org/v2.4/addons/voice/picotts/
+   https://nerdvittles.com/?p=16463
+   pico2wave --wave sample.wav -l en-US "Here is a sample, using the PICO text to speech engine."
+espeak
+<features>
+learn common words
+MoneyBoat
+compare two things in one picture
+Did you ever get frustrated when you decide to travel to a new country? Does it take time & research to find visa requirements for a new country? And you end up finding confusing, contradicting and outdated information? If yes then the answer is VisaList.
+<misc>
+A look at Photo Roulette, a guessing game app for up to 50 players that picks a random photo from any phone and shows it to all players for five seconds
+https://github.com/spiral-project/ihatemoney
+to see what pictures that nearby users had posted
+ unless you were at a special event, it was almost always more interesting to look at photos from people you knew or had followed for a particular reason than to look at whatever photos people were posting around you.
+比如我去杭州，就明白了山外青山楼外楼
+去南京赶上下雨，就明白 多少楼台烟雨中
+<business model>
+sell bitcoin
+
+[movie / tv / carton project]
+   -- spectrum 
+   -- guess
+   -- film to digital
+   -- meme: https://github.com/jacebrowning/memegen
+   -- https://github.com/hanyucd/movieweb_python
+      https://github.com/Zulko/moviepy
+   https://github.com/practical-recommender-systems/moviegeek
+   PhotoMovie
+
+[AA share project]
+https://github.com/PICT-Project/MoneyBoat
+https://github.com/mayubao/Android-Pay
+
+[Augmented Reality AR]
+<model>
+    museum
+<links>
+www.netguru.co/blog/augmented-reality-mobile-android azimuth
+ShowMeHills
+
+[alternatives project]
+<links>
+https://github.com/redecentralize/alternative-internet
+https://github.com/AmrEldib/AlternativesToOnlineServices
+
+[news project]
+提取重点片段
+书摘
+演讲
+深度
+热点
+<links>
+shuaq.com
+<risk>
+纯信息流产品的问题在于没有以内容生产者为中心的社交关系，用户无法有效留存。而中国的手机用户普遍会在12个月左右换一次手机，纯信息流产品多半需要重新获取一遍用户。
+
+[text analysis project]
+stock
+   http://www.sse.com.cn/disclosure/listedinfo/announcement/
+   shareholder structure
+https://github.com/HazyResearch/deepdive
+
+[jitsi/xmpp]
+https://thenumberzero.wordpress.com/2016/03/30/install-jitsi-meet-on-ubuntu-14-04/comment-page-1/
+To install jitsi meet we are going do setup for following components
+
+. Jitsi Video-Bridge (Software video-bridge)
+. Jitsi Jicofo (Component mandatory for jitsi conference)
+. Prosody ( XMPP Server )  -- apt-get install prosody
+   sudo prosodyctl adduser marko@marko-desktop.local
+   sudo prosodyctl deluser marko@marko-desktop.local
+   sudo nano /etc/prosody/prosody.cfg.lua
+   admins = { "marko@marko-desktop.local" }
+   sudo service prosody restart
+. Nginx (Web Server)
+. Jitsi Meet (Web application – to which the end user will interact. )
+
+[reddit alike]
+https://github.com/dessalines/lemmy
+https://github.com/lobsters/lobsters
+
+[voip]
+sudo /etc/init.d/openfire start/stop
+
+openfire+spark/jitsi
+jitsi: ant make, ant run
+openfire: domain name -> localhost 192.168.0.206 
+          sudo service openfire start/stop
+https://www.voip-info.org/wiki/view/Open+Source+VOIP+Software
+https://github.com/kamailio/kamailio
+https://questdot.com/setup-kamailio-sip-server-siremis-voice-call/
+
+[]
+1980年 北京火车站爆炸案（王志刚自爆炸药，炸死10人）
+1981年 阳泉爆炸案（高海平电影院自爆，炸死32人）
+1981年 沈阳吕海鹰反革命杀人集团（杀死4名军警2名平民）
+1981年 厦门6·24公交车爆炸案（黄可芬报复社会在公交车上引爆炸药，造成包括自己在内40人死亡）
+1983年 沈阳“二王”案（开全国性缉捕悍匪之先河，犯案持枪外逃，杀11人）
+1983年 呼伦贝尔盟大屠杀 (于洪杰 韩立军等人在酒精的作用下一天之内连杀27人，强奸5人)
+1985年 龙治民杀人案(48条人命)
+1985年 澳门八仙饭店灭门案（黄志恒涉嫌杀害八仙饭店东主等10人，后自杀使案件更加神秘，另在香港还身负一桩命案）
+1985年 台湾台南市4·1帝王饭店纵火案（陈东荣 王金定等报复纵火，致死28人）
+1986年 黑龙江“三张”案
+1986年 吉林森林铁路旅客列车爆炸案（又称“黄泥河列车爆炸案”邱凤国自爆，致死33人，重伤6人）
+1986年 台湾吴新华杀人抢劫团伙（台湾版白宝山 流窜台北 新竹等地，袭警抢枪杀人，杀害14人）
+1987年 1·17洛阳黄河大桥劫持客车匪警战（赵晓东与警方的枪战中共造成12名乘客死亡，另赵犯还有3条人命在身）
+1988年 四川荣县白岩沟围剿邵江彬，耿学杰案（机枪，手榴弹，火箭弹，火炮都上了，最后用油烧死的，杀死19人）
+1988年 锦州“一指残匪王”崔宝纯团伙（张君的前辈 诈骗 抢劫 强奸 杀人致死13人）
+1988年 辽宁本溪秦家明案（抢枪杀人）
+1989年 鞍山“三李”系列案（枪战中7名警员殉职）
+1989年 广西李尚昆，杨名金犯罪团伙（以赌博、经商为名, 诱杀致死26人）
+1989年 台湾第一枪击要犯林来福（黑社会性质犯罪团伙，台湾通缉枪击要犯第一名，抢劫，绑架，杀人，身背27条人命）
+1990年 黑龙江纳河市贾文革案（杀人狂吃人生殖器，杀死42人）
+1990年 西安魏振海案（西安大追捕）
+1990年 北京许广才连环*案（*女子9人）
+1991年 哈尔滨“乔四”黑社会案（号称第二政府)
+1991年 武汉张明高案（持枪杀死21人 其名言：“原来我心里有数，你们心里是黑的。现在你们心里有数，我心里是黑的。” ）
+1992年 云南平远街缉毒战斗（缴获武器可装备一个团，夸张了吧？）
+1992年 山西太原王彦青越狱案（华北第一杀手，身负27命）
+1992年 台湾台北市神话KTV纵火案（汤铭雄扛液化气罐报复纵火，烧死16人）
+1993年 海南抓捕刘进荣案（当过侦察兵，参加对越自卫反击战，杀害9人，先狙击，后炮轰）
+1993年 云南黑衣人宾馆系列杀人案（李枝永用别人身份证登记住店。作案26起，杀死25人）
+1993年 保定连环杀人恶魔（吴建臣连续作案18起，共杀死15人）
+1994年 青川血案（当场造成21人死亡、11人失踪、3辆客车损毁的1994年青川特大血案）
+1994年 浙江千岛湖6·12劫船杀人案（吴黎宏等3人抢劫游船，共有32人遇害身亡，其中24人为前来大陆旅游的台胞）
+1994年 广州“雨夜屠夫”系列案（连环杀手罗树标，杀人奸尸，并割下生殖器。作案19宗，杀死18名女性）
+1995年 黑龙江鹤岗南山矿枪案《犯罪升级》（高智商犯罪，共致死14人，杀死同伙1人）
+1995年 北京抓捕于根柱案（多次围捕多次逃脱，杀害9人）
+1995年 广州7·25大案麻阳帮系列案（张治成团伙作案50余宗，枪杀18人，伤30多人）
+1995年 河南宝丰县同性恋连环杀人狂（李占国以痴呆人员为对象、连续作案12起，鸡奸后共杀死11人）
+1995年 云南系列宾馆杀人案（钱永昌 杀人时间跨度最长的凶手，36年间共致死15人）
+1995年 西藏昌都1·12特别拘捕行动（罪犯卓约赤列等几名恶魔命案累累，拒捕造成3警员殉职，多名警员负伤）
+1995年 黑龙江肇东市四站镇11.18特大持枪杀人案（冯万海 姜立明一夜之间枪杀32人,伤16人）
+1995年 深圳连环色诱抢劫杀人案（张小建 付红琼团伙上演《六魔女》共杀死17人，重伤1人 ）
+1996年 香港叶继欢案（开香港悍匪之先河）
+1996年 北京鹿宪洲抢劫银行案（有点小资，栽在车上了）
+1996年 陕西安康火车站幽灵（余延军在火车站及铁路沿线作案，致死12人）
+1996年 11·27重庆诱捕冷血杀手孔繁座（在海南制造大富豪歌厅血案，逃亡数年，有AK47突击步枪等武器，身负19条人命）
+1997年 北京新疆白宝山案《1997年中国刑侦一号案》（袭警抢枪，抢劫杀人，共杀死17人）
+1997年 西安董雷案《12·1枪杀大案》（很强的心理素质）
+1997年 万光旭案（悍匪江西火拼公安）
+1997年 黑龙江97年第一大案8·15大案（李加政团伙连环劫车杀人案，6次抢劫出租车、杀死9人）
+1997年 周刚流窜杀人集团（先后流窜辽宁、河北、山西、湖北等省市作案27起，共杀死18人，重伤4人）
+1997年 吉林长春阎文江团伙系列案（“刨锛”团伙先杀人再抢劫并杀警抢枪，致死11人）
+1997年 乌鲁木齐2·25公交车爆炸案（3辆公交车连环爆炸，“东突”成员阿不都拉.木尼亚孜制造的恐怖袭击，9人当场遇难）
+1998年 香港张子强案(绑架李嘉诚的大儿子李泽钜,李嘉诚直接给绑匪10亿港币现金赎人)
+1998年 彭妙计、丁运好抢劫杀人团伙（豫陕特大系列抢劫杀人案，76条人命）
+1998年 福建公路杀人狂（吴元松故意驾车撞人14起，共撞死妇女9人，伤8人，并抢走被害人财物）
+1998年 陕西历史上最大的系列强*人案（王万明作案52起，杀死20人）
+1998年 搞点子系列杀人诈骗案（潘申宝 余贵银团伙伪造矿难杀人诈赔，共致死52人）
+1998年 武汉长江大桥情人节爆炸案（邹昌力、曹军 同性恋殉情公交车上引爆炸弹，16人殒命）
+1998年 四川泸定6·18民警杀人案（泸定县得妥派出所民警赵林，调解纠纷发生争执被杨家围攻殴打，激愤枪杀村民10人）
+1999年 北京赵连荣连杀8女案（几乎是不可能完成的，我至今也想不通）
+1999年 广西博白剿灭阮强团伙案
+1999年 沈阳3·8大案（沈阳孙德林案抢劫杀人集团 作案43起，杀死21人）
+1999年 北京朝阳区围捕于全文案（外号“板头”）
+1999年 银川4·20爆炸袭警案（杨杰、谢建文杀10人包括4名警察被炸死)
+1999年 湖南新邵“8·31”抢劫杀人案（李青海团伙入室抢劫致死12人，重伤3人）
+1999年 贵州山寨悍匪周二全（走山窜寨，连夺12命，伤24人）
+1999年 广东万吨巨轮大劫案（翁泗亮组织策划99年第一号大案，抢劫长胜号货轮并杀害23名船员）
+1999年 锦州1·04特大恶性公路大客车爆炸案（宋相贵为抢劫，炸毁长途客车，当场死亡19人，重伤2人）
+2000年 湖南常德张君9·1大劫案（拥有大量武器和藏身点，枪法准，团伙作案，共杀害28人）
+2000年 郑州银基银行张书海特大抢劫案（动用炸药）
+2000年 浙江上虞追捕杨氏兄弟案
+2000年 李小龙流窜抢劫杀人案（杀人后亡命天涯，杀害23条人命）
+2000年 昆明杨天勇特大杀人劫车团伙案（抢劫车辆故意杀人，杀19人并肢解喂狗）
+2000年 锦州王福仁系列持枪杀人案（比3·8大案还狠，疯狂作案121起，杀死18人，重伤13人）
+2000年 长春连环*“小姐”案（顾光繁以嫖娼为名设圈套，两年间残忍*19名女子）
+2000年 吉林松原齐氏兄弟杀人团伙（齐雪松、齐雪峰兄弟二人多次实施抢劫杀人作案，杀死17人）
+2001年 石家庄靳如超爆炸案（疑点众多,炸死108人）
+2001年 盐城“4·15”特大杀人抢劫银行金库案（冷兵器杀手 雷国民，杀害20人）
+2001年 山西晋中10·26血案（杀人英雄胡文海杀死14人为除贪）
+2001年 黑龙江头号涉黑犯罪案件（蒋英库团伙杀死21人，并全部将被害人的尸体肢解，焚烧灭迹）
+2001年 北京妓女杀手（华瑞茁3年间杀死14名坐台小姐）
+2001年 贵州都匀系列强*人案（郭龙海先奸后杀，作案16起，扼杀15人）
+2001年 吉林柳河县变态杀人狂杨洪军特大残害美女案（共杀死12人、杀伤17人，割掉被害人乳房带走）
+2001年 北京闷棍杀手（焦文军，马俊铁棍击打受害人实施抢劫 共致死14人）
+2001年 武汉“红衣杀手”段国诚（在岳阳 武汉两地杀死女子13名）
+2001年 南充5·5 5·12系列杀人案（“学生杀手”刘天兵团伙制造11起刑事案、残杀11名学生）
+2001年 王许文流窜抢劫杀人案（流窜哈尔滨、青岛、济南、天津，抢劫杀人，杀害10人，致1人重伤）
+2001年 江西万载芳林小学爆炸案（李垂才携炸药冲入小学教室引爆，造成42人死亡，其中37名是小学生）
+2001年 陕西横山县马坊村7·16特大爆炸案（马宏清报复仇家，引爆30吨硝铵炸药，造成89人死亡，98人受伤，半个村被夷为平地）
+2002年 邓文斌湖南持枪杀人团伙（军械专家 狼群 抢劫富人,抢得120万，杀4人）
+2002年 南京汤山特大投毒案（陈正平投毒面食店，香港太阳报报道死者达243人）
+2002年 北京石景山9·7血案（闫建忠持刀闯入3家邻居家中在，不足1个小时的时间里，接连杀死9人，扎伤1人）
+2002年 武装绑架第一案邓永良团伙（仅邓永良一人就亲手杀死了十多人，共致死26人）
+2002年 豫、皖结合部系列杀人案（卞况团伙51起杀人、抢劫、强奸大案，被杀害者41人，卞况一人就杀死39人）
+2002年 安徽乞丐杀手刘明武（从江苏省到安徽省一路狂杀，采取石砸、刀刺等手段，杀死乞丐29人，杀伤1人）
+2002年 北京蓝极速网吧纵火案（四名未成年人报复网吧纵火，25人在大火中丧生，多人受伤）
+2002年 延吉朝阳川系列抢劫、强奸、杀人案(公安部1号督办案件 金春日4年间、杀死14人、杀伤10人并强奸11人）
+2002年 河北沧州张国胜系列抢劫强*人案（10年内入室抢劫，强奸，杀人，致死10人）
+2002年 江西淫魔黄顺保系列*案（江西南昌、宜春、萍乡抢劫、强*害16名女子）
+2002年 柳州连环杀人碎尸案（张勇以打麻将为由，将10名女子骗至出租屋杀害碎尸，内脏切碎冲入下水道）
+2002年 北航5·7空难（张丕林纵火制造空难，机上112人无一生还）
+2003年 湖北潜江谢先荣案（单人做案）
+2003年 河南平舆黄勇特大杀人案（心理变态，诱骗青少年回家杀害并碎尸，杀害17人）
+2003年 沈阳市持枪爆炸抢劫银行运钞车案（张显光制造的1·18大案，致死8人）
+2003年 葫芦岛2·18特大杀人案（郭忠民一人连杀13人，灭5门的特大杀人案）
+2003年 深圳求职少女被杀案（马勇 段智群骗杀求职女12人）
+2003年 温州连环碎尸狂魔陈勇锋（平均不到9天杀害一人，共杀死10人其中9人被分尸）
+2003年 昆明范剑敏、范达勇杀人团伙（三狂魔在出租房内接连劫杀13名女子）
+2003年 太原3·28系列抢劫杀人案（并州恶魔贾建虎6年期间杀害、抢劫卖淫妇女12人）
+2003年 河北刘井仁系列杀人案（藁城市2·16“大碗居”小吃部灭门案轰动一时，共致死15人）
+2003年 河南黑道教父宋留根团伙（黑社会性质犯罪，欺行霸市危害长达10年之久，背负17条人命）
+2003年 内江“杀人狂”吴廷东（四年间在内江和深圳杀死10人）
+2004年 云南大学马加爵案（校园悲剧 公安部A级通缉犯谋杀4名校友）
+2004年 北京王立华绑架吴若甫案
+2004年 重庆新疆马汉庆系列抢劫案（很强的隐藏）
+2004年 河南杨新海特大杀人案（变态连环杀手，杀了67人）
+2004年 河南汝州11·25特大凶杀案（閆彥明杀死9名学生）
+2004年 兄弟殺人魔（沈氏兄弟吃11人内脏，共杀害12人）
+2004年 成都头号杀手涂贵武（黑帮杀手身背9条人命）
+2004年 震惊三湘李春生系列杀人案（抢劫 强奸 被控致死11人，自己供认杀死18人）
+2004年 12·14”特大跨国系列绑架杀人案（张晓东团伙境内外作案15起致17人死亡，其中在柬埔寨作案10起致12人死亡）
+2004年 沈阳市“串联44号”杀人抢车系列案（康守义 于静安 杀人抢劫，劫车，共杀死15人）
+2004年 鲁鄂皖张志明流窜杀人集团（持枪流窜抢劫杀人，灭门一起，共杀害10人）
+2004年 云南富源劫杀农用车司机系列案（李靠芳团伙以拉货为由，抢劫杀害农用车司机9人）
+2004年 惠州冯其伟抢劫杀人团伙（借口租车拉货 勒死司机劫财，共杀死10人）
+2005年 台湾张锡铭案（台悍匪，令台警方丢了大脸）
+2005年 新疆奎屯1·20特大爆炸案（白青华客车上引爆炸药，造成包括自己在内11人死亡，2人重伤）
+2005年 沈阳杀人恶魔王强（抢劫杀人 致43人死亡)
+2005年 沈阳刘学新劫杀舞女系列案（他在一年时间内共作案15起，杀害15名舞女）
+2005年 内蒙古色魔赵志红（十年间共作案21起、*妇女10名，其中“4·09”案替罪羊呼格吉勒图已被枪决）
+2005年 菏泽女尸案（4人犯罪团伙杀死13名“小姐”）
+2005年 焦作市10·12系列杀人案（范利民团伙抢劫杀人，致死9人）
+2005年 吉林更夫杀手(王利民团伙实施杀害更夫、撬盗金库作案23起，致9名更夫死亡、1人重伤）
+2005年 西安人皮杀手（尹晓敏杀人集团，变态杀人残杀9女子 肢解尸体剥皮做马甲）
+2005年 四川宜宾3·20特大灭门案（何祥月因家庭矛盾杀害岳父家9口）
+2005年 新疆奇台11·8煤矿爆炸案（丁吉福为泄愤引爆矿区炸药库，14人被炸死，24人受伤）
+2006年 佳木斯2·28案 （变态杀人魔 宫润柏残杀28名儿童，但定案的只有6名)
+2006年 杀人恶魔董文语（入室抢劫、杀人、奸尸案件，共6人死亡，2人重伤）
+2006年 陕西男子1天内杀10人（邱兴华共致死11人）
+2006年 吉林通化抑郁杀手石悦军（6天内连杀13人的“屠夫”）
+2006年 杨树明系列杀人案（山西阳泉版《杀人回忆》，变态杀手，杀人分尸，共*9名女性）
+2006年 河源*恶魔张友添（变态连环*10人）
+2006年 广西乐业3·11特大爆炸案（粟艳琴报复前夫制造爆炸，致死9人）
+2006年 温州4·28特大纵火案（王业富为复仇，公司宿舍纵火，10人遇难）
+2006年 云南蒙自8·01特大灭门案（王昌义畸形人生，制造灭门案，共杀死10人）
+2007年 辽宁省一号公案(高宏伟 刨锛杀手）
+2007年 陕西石泉县8·15特大杀人案（张青华杀死5人、杀伤6人后在逃）
+2007年 北京复仇杀手宋京华（为报复前女友，劫杀9名女性）
+2007年 承德11·14纵火案（姜大永报复放火造成11人死亡）
+2007年 浙江台州2·4特大纵火案（刘卫雄报复纵火，造成17人遇害）
+2008年 上海杨佳袭警案（冲进警局杀警察泄愤）
+2008年 贾玉林犯罪集团（犯下10起绑架杀人案，杀害人质6名及同伙1名）
+2008年 河北保定2·12灭门案（柴公敏因民里纠纷将两户邻居灭门，共杀害10人）
+2008年 喀什8·4袭警案（库尔班江·依明提和阿不都热合曼·阿扎提制造恐怖袭击，驾车冲撞，爆炸，刀砍杀害17名武警）
+2009年 A级通缉犯成瑞龙案（13年亡命天涯 杀死13人）
+2009年 1·4随州特大凶案（熊振林杀死8人）
+2009年 湖南安化杀人纵火案（刘爱兵 杀人放火13人死亡）
+2009年 成都6·5公交车纵火案（当时轰动很大也特惨，张云良为了“跟别人死的方式不一样”，造成27人死亡，20人重伤）
+2010年 公安部最年轻的A级通缉犯（白中杰 10天内连杀9人）
+2010年 长沙税务局爆炸案 （4人死亡 刘赘衡）
+2010年 3·23南平惨案 （郑民生心理失衡制造小学校园屠杀案 9人死亡 ）
+2010年 泸西11·18爆炸枪击案（矿主火拼致死9人）
+2010年 天津2·1恶意驾车撞人案（张义民恶意驾车撞死10人，撞伤10人，动机尚不明）
+2010年 陕西南郑幼儿园凶杀案（吴焕明因患病对生活失去信心，报复杀害林场村幼儿园9人，其中7名幼儿）
+2011年 1·4泰安枪击案 （4名警员殉职 刘氏兄弟街头大战警察）
+2011年 辽宁鞍山周宇新灭门案（自灭满门 杀死10人）
+2011年 河北泊头特大杀人案（秦长城致9人死亡的特大杀人案）
+2011年 江苏盱眙9·4灭门惨案（7尸9命）
+2011年 徐小明抢劫团伙（在缅甸当过雇佣兵，杀人为生，致死11人）
+2011年 吉林通化5·1纵火案（王健松、王禄、曲龙报复纵火，致11人死亡、2人重伤）
+2011年 杨树彬抢劫杀人碎尸团伙（骗抢妓女，杀人碎尸，作案6起致死10人，另外还致死一名男子）
+2011年 武汉 银行爆炸抢劫未遂
+2011年 南京 爆头哥
+
+[]
+舞蹈 https://pan.baidu.com/s/1c12QTlm 密码: tutn
+食谱 https://pan.baidu.com/s/1hsjwi7U 密码: 6x4x
+乐器 http://pan.baidu.com/s/1pLMyZ1p 密码：n0nv
+化妆 https://pan.baidu.com/s/1gf6yLl5 密码: puwn
+托福大礼包 http://pan.baidu.com/s/1nv706zZ 密码：12pa
+考证大礼包 http://pan.baidu.com/s/1mibEYik 密码：tlb9
+校招大礼包 http://pan.baidu.com/s/1nv5z29F 密码：2d03 解压密码：qnsxj
+Excel大礼包 http://pan.baidu.com/s/1kVddyPD 密码：o1ax
+教师资格证大礼包 http://pan.baidu.com/s/1nvxZmWh 密码：6uhb
+PUA大礼包 http://pan.baidu.com/s/1bCZsw2 密码：n36b
+公众号大礼包 http://pan.baidu.com/s/1nu9VLtJ 密码：nsan
+Office大礼包：教程http://pan.baidu.com/s/1c1EtCEs 密码：oo7r
+运营大礼包 http://pan.baidu.com/s/1hrGToC8 密码：trb1
+四六级 http://pan.baidu.com/s/1nuL3hw9 密码：53wd
+韩语 http://pan.baidu.com/s/1i5uh9Hj 密码：vacu 
+PR礼包 http://pan.baidu.com/s/1ge猥皮恩7H 密码：h5e7 
+工具 http://pan.baidu.com/s/1dEEs8nv 密码：vmu1 
+金融 http://pan.baidu.com/s/1nuUrvq5 密码：3jmn 
+PS插件 http://pan.baidu.com/s/1miBCRc0 密码：d5ch 
+脱口秀 http://pan.baidu.com/s/1bp43LWr 密码：yiy1 
+英剧 http://pan.baidu.com/s/1bCxhts 密码：nwm9 
+有声书 http://pan.baidu.com/s/1hsG4VHU 密码：uog9 
+电影 http://pan.baidu.com/s/1o8k4Ms6 密码：d9qh 
+考研专业 http://pan.baidu.com/s/1bpij75d 密码：yd2j 
+公开课 http://pan.baidu.com/s/1bBHCMa 密码：put3 
+BBC纪录片http://pan.baidu.com/s/1i4KWPqX 密码：2z7f 
+书单 http://pan.baidu.com/s/1i5c7QDn 密码：9lnq 
+网页设计 http://pan.baidu.com/s/1kVQ8TGb 密码：khbu
+尤克里里吉他 http://pan.baidu.com/s/1eSDlYNo 密码：j0dy 
+日韩剧 http://pan.baidu.com/s/1cd20MU 密码：m9sw 
+CAD http://pan.baidu.com/s/1i4CPQLn 密码：rt15 
+BEC 托业 托业https://pan.baidu.com/s/1dFMbQiX 密码: 1u2x
+BEChttps://pan.baidu.com/s/1kVFKeuN 密码: wp7v 
+表情包http://pan.baidu.com/s/1gf80Q1X 密码：b72t 
+3Dmax https://pan.baidu.com/s/1mhVbkc4 密码: aevt 
+技能换宿 https://pan.baidu.com/s/1jIuNJqI 密码: qjca 
+8000本小说 http://pan.baidu.com/s/1jIhWAma 密码：txms 
+粤语 http://pan.baidu.com/s/1i5wlNSh 密码：w19f 
+英语 http://pan.baidu.com/s/1i5kaLsL 密码：1nfk 
+动画制作http://pan.baidu.com/s/1qYKuwHm 密码：yq40 
+公务员考试 http://pan.baidu.com/s/1gfuosCz 密码：rgei 
+Flashhttp://pan.baidu.com/s/1mh8bgkK 密码：wlo7 
+Id、Au、Lr教程http://pan.baidu.com/s/1ge2LDgn 密码：09so 
+MATLABhttps://pan.baidu.com/s/1o8JcXlw 密码: cee5 
+考研复试大礼包http://pan.baidu.com/s/1dFFX8Nv 密码：te6h 
+雅思大礼包；http://pan.baidu.com/s/1i5LLARz 密码：7yzz
+AI大礼包 http://pan.baidu.com/s/1eSNqJqa 密码：4do0
+摄影大礼包 http://pan.baidu.com/s/1o8Q0Z8m 密码：sy01
+简历大礼包 http://pan.baidu.com/s/1c02zZw 密码：yi6f
+PS包 http://pan.baidu.com/s/1c7NI1o 密码：0arp
+Office大礼包：教程http://pan.baidu.com/s/1c1EtCEs 密码：oo7r
+网站大礼包 http://pan.baidu.com/s/1bp1dfyf 密码：omp0
+会声会影https://pan.baidu.com/s/1gfG9Edt 密码: cgr1 
+专四专八http://pan.baidu.com/s/1bp0zq2r 密码：7yqk 
+普通话http://pan.baidu.com/s/1pLyEFgf 密码：heow
+
+[获取外网IP地址]
+STUN协议。https://zh.wikipedia.org/wiki/STUN，webrtc的基础协议之一。
+网上有公开的stun服务器，按照协议通信一下就能拿到。
+
+[]
+始于作伪，终于无耻
+
+[]
+这个东西就是一个镁金属棍子伸在里面，镁金属活性高于铁、铜，
+利用牺牲阳极的原电池原理，镁棒先生锈腐蚀掉，保护内胆，
+但如果镁棒腐蚀完了你还不更换，只能继续腐蚀内胆了，
+
+[]
+之所以不用 “下线” 这个词，是因为整车都是完全手工敲出来的
+
+[]
+据邱会作回忆，毛泽东的信的确给林彪造成很大的困扰和不安。邱回忆说："林彪知道了信的内容，思想有了疙瘩，他发现毛主席在重大政治问题上言行不一。毛主席一方面默许甚至让别人宣扬自己，许多人作了，林彪是很起劲的一个，但在给江青的信中说这不是他的本意；毛主席一方面说要团结广大高级干部，但在信中却表现了对江青等少数人的依托和信任，而对广大干部却认为是盘根错节的旧势力，会一朝覆亡；毛主席一方面提倡党的领导，在信中则要把一些部门打得粉碎，顷刻瓦解。特别是毛主席交待林彪在1966年5月政治局会议前对防政变做了部署，还要林在会上公开讲"防政变"，给江青的信中却说是他违心地同意的，是有人借助钟馗打鬼。在发起文化革命的关键时刻，毛主席突然同江青这个'家属'谈起党和国家的大事来了，林彪没有想通。
+
+[]
+潘压旭比他俩大5岁，那时也在一个班级。现在已经是一家砖厂老板的潘压旭，至今还清晰记得上世纪70年代村里各家的穷苦窘境。
+
+“每人一年只能分8斤麦。没粮食，就磨出麸皮做馍馍吃。当时一包盐1毛6分，我们家买不起。石屹家的情况也差不多，说起来心酸得很。”
+
+潘石屹表示，“小的时候家里很穷，实在没有粮食吃，无奈就把两个妹妹送了人”。
+
+
+[]
+
+黄家楠说，“吃人肉是为了显示对阶级敌人的恨，也显示自己的革命精神和勇气。”
+
+1963年，苏联开始大量进口粮食。到了1975年，苏联超越日本成为了世界第一的粮食进口国。到了80年代初期，苏联每年需要进口4000多万吨粮食，占到了每年消耗了的三分之一。
+
+[http://blog.sina.com.cn/s/blog_c0691ae30101u6xg.html]
+现在很多人对高房价很有意见，甚至有人怀念毛泽东时代的福利分房，可是在1978年，国家建委作出一份《关于加快城市住宅建设的报告》，当时全国有城镇3400个，人口1.1亿，城镇人均住房只有3.6平方米，比解放初期的人均4.5平方米还下降了0.9平方米，在大城市里，几十平方米的房子里住着几家人是很平常的事情，很多住宅里没有厕所，冬天的时候到离家几十米甚至几百米远的地方上厕所的滋味，很多人忘记得很快，直到九十年代初，上海大街边还可以看到家家户户门前早上放着马桶。即使这可怜的三点几平方的房子也不是什么个人财产，很多房子是属于单位的，如果谁没有了工作，就意味着这三点几平方的房子也没得住了。三点几平方是什么概念，确实是只有一张床而已。而大部分小城市的人均住房会好一点，北京、上海等大城市人均住房不到两平方米。2004年，中国城镇人均住房面积增长到21平方米，广州市人均住房在1985年是3.86平方米，1995年上升到9.2平方米，而2004年是22.49平方米。
+
+    1990年代初,我曾经拍摄过一部电视专题片《安得广厦千万间---房改思辩录》，改革住房制度前当年的住房的人均面积 在陕西省多数不及一张床一家与另一家的楚河汉界只有三四十厘米！我在一家国营棉纺织厂拍摄到这样的景象，一间房子中住了四家！厂房产科长的画外音说，在这种条件下，搞不好晚上睡觉都会睡错床，在我们厂，为了个情况，必须安排男女一家同时上下班！
+
+
+首先，被迫害致死的太多了。
+23位两弹元勋都被搞死两位了（姚桐斌、赵九章），其他军工行业的也有被迫害致死的，例如著名的飞机设计大师徐舜寿。
+非军工行业没有周恩来的保护，被迫害致死的就更多了。
+文革时光是中科院就有229人遭迫害致死，被迫害致死的大师很多，例如著名化学大师陈绍澧、流体力学大师林鸿荪、机械工程学大师程世祜、生物学大师汤非凡、石油化工大师萧光琰、桥梁大师董铁宝、有机化学大师陈天池、电子工程大师周寿宪……
+不胜枚举。
+
+第二，被残酷迫害，但是没死的就更多了。
+这个搞理工科的，只要有点技术的几乎人人倒霉，“白专道路”是个大帽子。
+我就不列举了。
+
+話說1967年1月25日，上海解放日報以「革命造反派來信」的形式，發表了署名章仁興的文章，向全國發出倡議：「在兩條路線和奪權鬥爭進行得這樣尖銳激烈的時刻，我們怎能丟下革命和生產，回鄉去過春節呢？不能！不能！堅決不能！」中國國務院隨後以「順應廣大革命群眾的要求」下令春節不放假。
+
+仅仅4天之后的1月29日，中央便顺应“广大革命群众的要求”，发布了春节不放假的通知。通知全文如下——
+
+“我国无产阶级文化大革命开始了新阶段。当前正处在无产阶级革命派大联合，以排山倒海之势，向党内一小撮走资本主义道路的当权派展开全面夺权斗争的关键时刻。根据广大革命群众的要求，为了坚决执行我们伟大领袖毛主席提出的抓革命、促生产的方针，夺取革命、生产双胜利，将无产阶级文化大革命推向新的高潮，国务院决定：一九六七年春节不放假；职工探亲假在文化大革命期间暂停执行，以后再补。”
+
+http://dangshi.people.com.cn/n/2014/1216/c85037-26218576.html
+人民出版社1996年出版的《贺龙年谱》在1967年8月24日这一天记载：“李井泉次子李明清是北航6系2611班4年级学生，从1963年开始在贺龙家借住读书。他写了一篇题为《炮打……》的大字报，矛头指向中央文革小组，被北航造反派组织和四川省造反派组织殴打致死。”
+1973年，李井泉在毛泽东的关怀下被解除了监护，恢复了国家领导人的待遇，张华川考入天津南开大学。
+
+1963年5月，苏联煽动新疆伊宁地区暴乱，数万人跑到苏联境内。
+1964年，中国在巴西的准外交人员9名，连同家属一起被巴西当局逮捕，受尽折磨，关押审判达一年多！
+自60年代中期开始，我们友好了许久的印尼便已策动排华长达30多年，中国所能做的就是派船去接人。说直一点，我们在配合苏加诺排华！印尼纵容暴徒冲击中国使馆，侮辱中国国旗。
+1965年1月布隆迪驱逐中国外交官中止外交；象牙海岸、尼日尔指责中国搞颠覆。
+1966年1月中非、贝宁中止外交关系；3月，肯尼亚掀起反丅华浪潮，中国使馆提出抗议，肯尼亚干脆宣布中国外交官是不受欢迎的人；10月加纳中止同中国的外交关系。
+毛在1966年11月4日发表声明：“全世界革命人民团结起来，打倒帝国主义，打倒现代修正主义，打倒各国反动派。一个没有帝国主义、没有资本主义、没有剥削制度的新世界，一定要建立起来。”“美帝国主义和其他一切害人虫已经准备好了自己的掘墓人，他们被埋葬的日子不会太长了。”除了痴人说梦之外，还勒紧中国人民的裤腰带，把人民的血汗钱拿出去收买亚非拉国家。甚至说：“我们宁可自己不修铁路也要帮助你们修建这条铁路。”
+1967年8月，突尼斯拘留援助他们建设的专家并包围中国使馆，限制外交人员出入；9月中国被迫召回使馆人员宣布闭馆了事；利比里亚、尼加拉瓜、达荷美、古巴、几内亚比绍等小国也对中国使馆进行挑衅，并中止外交关系；甚至毛给钱修建坦赞铁路的坦桑尼亚和赞比亚，也和中国闹起外交纠纷来。
+柬埔寨的西哈努克称中国的“文革”是要把年轻人变成疯子，并欲驱逐中国使馆，后经周恩来亲自出面劝说才作罢。
+因为中国向缅甸反政府武装提供援助，还有大批狂热的红卫兵去缅甸参加所谓的人民军，结果白白牺牲在异国的土地上，缅甸发生大规模反华冲突，并中止《中缅经济条约》。
+
+在1990年代出版的《建国以来毛泽东文稿》里面，披露了毛给彭德怀的一份电报，是7月27日中央军委决定炮击金门的当天早上写的。里面说：“睡不着觉，想了一下，决定还是暂时不打金门为好。待到对方无理进攻时再打。”叶飞在《回忆录》中说：“汇报完了，他（指毛主席）突然提出这么一个问题：‘你用这么多的炮打，会不会把美国人打死呢？’那时，美国顾问一直配备到国丅民党部队的营一级，主席一问，我即回答说：‘哎呀，那是打得到的啊！’听我这么一说，主席考虑了十几分钟，然后又问：‘能不能避免不打到美国人？’我回答很干脆：‘主席，那无法避免！’第二天，毛虽然同意继续执行炮击计划，却提出最好先打几百发，或只打水面目标，尤其要避免打敌指挥所，总之一定不要打到美国人。
+
+《中国共产党中央委员会关于无产阶级文化大革命的决定》，即《十六条》
+这场伟大革命的目的，不但在于大中学校实现一斗二批三改的任务，他的更深远的意义还在于“迎头痛击资产阶级在意识形态领域里的一切挑战，用无产阶级自己的新思想、新文化、新风俗、新习惯，来改变整个社会的精神面貌。”“批判资产阶级和剥削阶级的意识形态，改革教育，改革文艺，改革一切不适应社会主义经济基础的上层建筑，以利于巩固和发展社会主义制度。
+在当前，我们的目的是斗跨走资本主义道路的当权派，批判资产阶级的反动学术“权威”，批判资产阶级和一切剥削阶级的意识形态，改革教育，改革文艺，改革一切不适应社会主义经济基础的上层建筑，以利于巩固和发展社会主义制度。
+干部大致可分为以下四种：
+（一）好的。
+（二）比较好的。
+（三）有严重错误，但还不是反党反社会主义的右派分子。
+（四）少量的反党反社会主义的右派分子。
+在一般情况下，前两种人（好的，比较好的）是大多数。
+
+这是一个兴无灭资，保证我国永不变色、避免修正主义、资本主义复辟危险的伟大革命运动
+
+在这次会面中，毛泽东对尼克松说：“你们要搞人员往来这些事，搞点小生意，我们就死不肯。十几年，说是不解决大问题，小问题就不干，包括我在内。后来发现还是你们对。”
+
+中共执政后，他可以不当国家主席，却一直兼任军委主席。军队重大工作事项必须向他报告，特别是“文革”期间连调动一个营、一个连都要经他批准。那时像部队每天搞个五公里越野、不对炊事班搞个野炊训练都要报告毛主席。
+
+由于协和医院由美国洛克菲勒基金会创立、资助的“黑历史”，60年代后，它被痛骂为“美帝国主义对我国进行文化侵略的顽固堡垒”，甚至为此改名“反帝医院”。
+
+在1953年4月17日，政务院发出《关于劝阻农民盲目流入城市的指示》，规定未经劳动部门许可或介绍者，不得擅自去农村招收工人
+1959年2月4日，中共中央发出《关于制止农村劳动力流动的指示》。3月1日，中共中央、国务院联合发出《关于制止农村劳动力盲目外流的紧急通知》。 1961年，开始实施“调整、巩固、充实、提高”八字方针，其中重要内容之一就是精简职工和减少城市人口，要在三年内减少2000万城镇人口。
+
+仅仅5天之后的1957年12月18日，中共中央和国务院又联合发布《关于制止农村人口盲目外流的指示》。联合指示特别强调：（1）组建以民政部门牵头，公安、铁路、交通、商业、粮食、监察等部门参加的专门机构，全面负责制止“盲流”工作；（2）农村干部应加强对群众的思想教育,防止外流；（3）铁路、交通部门在主要铁路沿线和交通要道，要严格查验车票，防止农民流入城市；（4）民政部门应将流入城市和工矿区的农村人口遣返原籍，并严禁他们乞讨；（5）公安部机关应严格户口管理，不得让流入城市的农民取得城市户口；（6）粮食部门不得供应没有城市户口的人员粮食；（7）城市一切用人单位一律不得擅自招收工人和临时工。
+
+2009年之前的历年《中国统计年鉴》显示，中国1996至1999年间的能源消费总量逐年下降，分别为138948、137798、132214、130119万吨，也就是说，中国在1997及1998年的能源消耗是负增长，但统计局当关于这四年GDP增速的数据分别是9.9%、9.2%、7.8%、7.7%。如果能源消耗量能反映经济增长势头，那这两组数据明显矛盾。
+2010年，《中国统计年鉴》对这四年的能源消费负增长做了改动，此后的年鉴都显示，1996至1999年间的能源消耗总量为135192、135909、136184、140569万吨，由此，能源消费“改为”正向增长。修改后的数据显示，在1996至1999年间，中国能源消费与GDP增速一致。
+
+2015年，中国国家统计局再次对2000至2012年的能源消费值做了修改。除了2007、2008、2009、2012四年，修改后的数据同比增长都有所上调。
+凯源资本董事总经理陆修泉（Brock Silvers）表示，修改一年前的数据正常，但修改已经认定、超过一年的数据就很不正常，如果是修改十年前的数据，那几乎就不可信了。
+一位接近中国国家统计局的知情人士告诉BBC中文，国家统计局喜欢修改历史数据，没有特殊的原因，“只是为了数字好看”。
+
+当时中央希望要让中国每个人每年都能穿上一套新衣服，就从法国德布尼斯·斯贝西姆公司引进了世界最先进的化工设备，建立一个大型的化纤厂，希望通过生产化纤来给每个人提供一套化纤衣服。
+
+The Indonesian mass killings of 1965–66 (Indonesian genocide,[11][2][3]:4 Indonesian Communist Purge, Indonesian politicide,[12][13] or the 1965 Tragedy) (Indonesian: Pembunuhan Massal Indonesia & Pembersihan G.30.S/PKI) were large-scale killings and civil unrest that occurred in Indonesia over several months, targeting Communist Party of Indonesia (PKI) party members, Communist sympathisers, Gerwani women, ethnic Javanese Abangan,[1] ethnic Chinese and alleged leftists, often at the instigation of the armed forces and government. It began as an anti-communist purge following a controversial attempted coup d'état by the 30 September Movement. The most widely published estimates were that 500,000 to more than one million people were killed,[3]:3[4][5][6] with some more recent estimates going as high as two to three million.[14][15] The purge was a pivotal event in the transition to the "New Order" and the elimination of PKI as a political force, with impacts on the global Cold War.[16] The upheavals led to the fall of President Sukarno and the commencement of Suharto's three-decade authoritarian presidency.
+
+当时是围绕弹上计算机来开课的，计算机教材多数是130小型机或日本NOVA1200、美国DG公司NOVA1200小型机的图纸和技术说明书的改写本。
+
+DJS-130的设计是抄袭美国的NOVA1200小型机，可以直接运行当时为NOVA1200编制的RDOS、MRDOS等操作系统，当然我们就直接把人家的操作系统拿来用了。NOVA1200是PDP-11的简化版，后来又一个所谓自主研发的型号DJS-183就是抄袭的PDP-11。
+
+“彭之旭调整着电子显微镜镜头下的焦距，努力将8080芯片电路放得更大一些，以能清晰地识别各种集成元器件。通过显微镜观测物体，双眼负担很大，看一会儿眼睛就变得生涩胀痛，但他毫不理会，看一会儿，眼睛离开观测目标，在旁边的图纸上，勾画出相应的逻辑电路。”
+
+国内从60年代中期才掌握了TTL双极性集成电路技术，这是一种基础型集成电路，比国外晚了4年。可这是一个科技日新月异的时代，科技进步速度之快，超过了以前十几年、几十年。也就落后的这4年，国外就已经发明了更先进的PMOS集成电路。我们紧追慢赶，紧跟着学会了PMOS，人家又弄出来一个NMOS，还没等我们回过神来，集成度更高、速度更快、性能更好的CMOS又冒了出来。
+
+我们72年才以一台从日本进口的美国NOVA1200小型机，仿制出一台国产的DJS130。就这，还因为自己的集成电路技术不过关，将人家原来PMOS集成电路的处理器，分拆成了31片TTL小规模集成电路，全国十多个单位共同合作，用了一年半才仿制成功。
+
+http://lab.semi.ac.cn/sitefiles/services/cms/page.aspx?s=1338&n=1339&c=114872
+1960年初，美国同行又传来了研制成功硅平面型晶体管的消息。具有敏锐观察力且处事果断的王守觉，于1961年任半导体所器件研究室主任后不久，毅然舍弃了正在研制并已取得一定成果的硅台面工艺，立即组织研究室力量，转而投入对硅平面工艺的探索研究。
+
+在需求的推动下，60年代初，国际上出现了把阻容元件及元件间的互连线，同晶体管一起制作在硅片上的半导体固体电路。待这种样品传到王守觉手中后，他便在业已掌握的硅平面工艺基础上，开始了半导体固体电路的研制，并于1965年4月，首次研制成功了我国最早的固体组件。
+
+在一年时间里，他们研制了十多个品种的多元逻辑电路，并装置成功了一台指令系统与当时流行的NOVA小型计算机（即DJS—130机）完全相同、而速度更高的小型计算机，取名为DYL—1300机。通过考机后证明，该机稳定可靠。1979年，这种新的高速逻辑电路通过了院级鉴定，并获1980年科学院重大成果一等奖。
+
+运10就是垃圾，要不是因为政治正确，79年就死了，还轮得到三番五次的286给他诸如特批经费续命啊。原准机两万小时寿命，寨（连仿都不如）运10，上海之耻自己造的飞机自己都不敢估算寿命，最后请北航估算了一下，200小时以内应该是安全的。这是诈骗好吧。这也就是魔神实验室的中学生手造飞机手造火箭的水平。你管这个叫成功？！
+电子工业那叫已经起步吗？哪有什么20年的技术积累，你管造个最基本的二极管三极管都次品率超过50%的那些垃圾电子厂无线电厂叫做20年的技术积累？？？
+不要说那些地方垃圾电子厂，就是国家最顶尖的电子厂，也一样是餐具啊。美国70年代起一个摩尔周期是每18个月实现晶体管规模翻倍而价格只要一半。而中国72年落后美国4个周期，79年已经落后7个周期。这叫20年的技术积累，这有什么用？
+
+1969年第一艘万吨油轮大庆27号下水,大庆号系列大型油轮就此开端。到1974年风庆号万吨货轮下水,中国大陆建造的万吨级轮船已经有10艘左右。所以,即使从中国大陆本身而言,到1974年江青等人还为一艘万吨轮大惊小怪,实在没有什么太大意义。就中国自身来说,1977年前后台湾已经能够建造45万吨的远洋油轮。
+
+据俄罗斯国际文传电讯社5月22日消息，近日，俄罗斯“列瓦达中心”一项20世纪苏联领导人好感度调查显示，勃列日涅夫成为现代俄罗斯人心中最受欢迎的苏联领导人。
+
+据报道，此次共有来自俄罗斯45个地区的1500位俄罗斯人接受调查。根据调查结果显示，好感度排名第一的是勃列日涅夫，有56%的受访者对其持肯定态度。排在第二位的是斯大林，有50%的受访者对他表示支持，赫鲁晓夫紧随其后排在第三位，其支持率为45%。
+
+而令人感到意外的是，20世纪苏联领导人中获好感度最低的则是列宁，他的好感率仅为5%。此外，民众心中不满意度最高的苏联领导人则是戈尔巴乔夫，他的民众不满意度达到66%
+
+1933年1月，苏联一五计划提前完成，斯大林发表讲话：过去我们没有钢铁工业，没有拖拉机工业、汽车工业……航空工业，现在我们都有了。二战之后，他对美国驻苏联大使哈里曼的表达更直接：
+
+“苏联所有的工业，有三分之二是在美国帮助下建成的。”
+
+[culture]
+60年mao"继续跃进"
+
+[nc client/server]
+nc -l 1234
+
+[]
+西方文明中的音乐
+聆听音乐
+
+[url recog]
+[FAQ09353]信息中URL地址识别问题
+
+[FDN *99#: mantis 0140617]
+data/WorkingMessage.java:2606:    private boolean isAbortSendingMmsByFdnList(Conversation conv, int subId) {
+[FAQ17744]在FDN激活状况下, 如何SMS和MMS不受影响
+
+[号码搜索联系人修改成任意位置开始中间匹配]
+ContactsProvider2.java 中的queryLocal函数，修改方法如下：
+ 
+ case PHONES_FILTER:
+ case CALLABLES_FILTER: 
+     ......
+    if (searchPhoneNumber) { 
+                            ......
+                            sb.append(Data._ID +
+                                    " IN (SELECT DISTINCT " + PhoneLookupColumns.DATA_ID
+                                    + " FROM " + Tables.PHONE_LOOKUP
+                                    + " WHERE " + PhoneLookupColumns.NORMALIZED_NUMBER + " LIKE '");
+                            //add here 
+                            sb.append("%");
+                            sb.append(number); 
+                            sb.append("%')");
+                            hasCondition = true;
+                        }
+
+
+[wireshark mms http]
+View -> Time Display Format:  UTC Date and Time  (Ctrl+Alt+7)
+Edit -> Time Shift     -->   Shift all packet by:   -05:00:00
+160    2016-03-22 11:33:26.127933    10.75.0.97    10.0.0.172    MMSE/SMIL    1205    MMS m-send-req (image/jpeg)
+11    2016-03-22 11:33:39.760520    10.0.0.172    10.160.82.216    MMSE/SMIL    656    MMS m-retrieve-conf
+
+[ANR]
+请提供MTKlog，要包含aee_exp文件夹，我们需要问题进程dump的信息来分析。
+目前提供的traces文件里没有pid:1473的dump信息。
+贵司之后在提ANR问题时，请确保一并提供 aee_exp文件夹，才能便于我们分析。
+
+ConversationList 是一个NoDisplay Activity， 对Input是不会响应的。
+根源是系统慢，monkey的输入被接收。
+
+
+[sign apk]
+java -jar signapk.jar zjipstkey.x509.pem zjipstkey.pk8  src.apk  dest.apk
+
+[icu]
+Visual representation of r2l language string along with neutral characters and L2r characters in digital system are based on Unicode standard BIDI algorithm.
+You can get the details of algorithm at http://unicode.org/reports/tr9/
+On Android , Google use ICU which implement the BIDI algorithm. ICU provide some liberty to change the default BIDI reordering by providing the enum under location /external/icu4c/common/unicode/ubidi.h UBiDiReorderingMode enum is declared which provides values for reording based on different requirement. When no ordering is set BIDI run as UBIDI_REORDER_DEFAULT.
+
+Other Reordering modes are as follow:
+UBIDI_REORDER_NUMBERS_SPECIAL
+UBIDI_REORDER_GROUP_NUMBERS_WITH_R
+UBIDI_REORDER_RUNS_ONLY
+UBIDI_REORDER_INVERSE_NUMBERS_AS_L
+UBIDI_REORDER_INVERSE_LIKE_DIRECT
+UBIDI_REORDER_INVERSE_FOR_NUMBERS_SPECIAL
+
+their details are also given in ubidi.h just below where this enum is defined.
+All customize version of BIDI can be changed by choosing those enums. Apart from this BIDI design is hard to change.
+
+Please help to find appropriate enum value as per your requirement from this enum and set as reordring mode just before ubidi_setPara().
+
+/frameworks/base/core/jni/android_text_AndroidBidi.cpp
+/libcore/luni/src/main/native/java_text_Bidi.cpp
+/libcore/luni/src/main/java/java/text/Bidi.java
+
+These 3 files do ubidi_setPara().
+For example you want to set reorder mode as UBIDI_REORDER_INVERSE_NUMBERS_AS_L
+then call ubidi_setReorderingMode(ubidi, UBIDI_REORDER_INVERSE_NUMBERS_AS_L); just before ubidi_setPara() in above mentioned 3 files.
+
+I would still recommend to keep current design intact because if you do BIDI changes then it will definitely create bug in some other string combination representation.
+
+
+[]
+XHTML MP仅在 1.3版本上支持
+
+[]
+GsmInboundSmsHandler.dispatchMessageRadioSpecific()
+
+[]
+For MMS messages, you will find that there are 3 (or more) entries corresponding to the same mid. They are described below:
+
+One entry will correspond to the SMIL file. SMIL is a file format containing xml that helps an MMS viewer to know how to display the MMS (this is what you have printed above). The MIME type for this entry is application/smil if you look at the column called ct (acronym for content type)
+
+Another entry will correspond to the text file that contains any text within that MMS besides the attachment. The MIME type of this will be text/plain
+
+Lastly, you will find another entry that actually has the attachment. This attachment can have a variety of different MIME types depending on what the file is. If it happens to be a jpeg it will be image/jpeg, if png it will be image/png etc... (you get the point)
+
+[]
+layman's dialog pic->text
+[]
+创新是无止境的，都是做笔记本电脑的，苹果家的就高大上。
+说到电源，可以创新的地方多了，随便说几个：
+1. 自适应输出电压，别弄的9v一个，6v一个
+2. 减小体积，减少发热，降低噪音
+3. 提高功率，现在的充电器还有一大批0.5A的垃圾呢，你整个20A的大家爽爽
+4. 无接触充电，取消插头，把各种插头标准统统废了
+5. 现在的台式机电源，那么大一个盒子，傻大黑粗吵，你给整成U盘大小不行吗？
+
+[777]
+same SIM
+same SMS center
+same network 2G/3G/4G
+
+[unique name]
+ALPS02561307
+
+[Ç收到为空白]
+ALPS02545357
+
+[]
+/frameworks/opt/telephony/src/java/com/android/internal/telephony/SMSDispatcher.java
+protected void handleSendComplete(AsyncResult ar) {
+
+[wap push]
+http://blog.csdn.net/bluesy2008/article/details/6287456
+wappush.log
+
+[requirement]
+HUAWEI TITAN%28MTK平台%29 海外3G基线设计规格书
+浏览模式	对话式；	传统收件夹仅中移动定制机有要求，TITAN不涉及
+
+[cts]
+1. make cts
+2. go to out/host/linux-x86/cts/android-cts/tools/
+3. sh ./cts-tradefed
+4. run cts –p android.text
+   run cts –c android.widget.cts.TextViewTest
+   run cts -m CtsTelephonyTestCases
+
+[wireshard]
+tcpdump -i any -p -vv -s 0 -w /sdcard/cap/capture.pca
+tcpdump -i any -s 0 -vv -w /sdcard/tcp.pcap 
+ mergecap -w output.cap ../tcp.pcap*
+
+[]
+接收wappush相关文件有：
+/vendor/mediatek/proprietary/packages/apps/Mms/src/com/mediatek/wappush/WapPushReceiverService.java
+/vendor/mediatek/proprietary/packages/apps/Mms/src/com/mediatek/wappush/WapPushManager.java
+/vendor/mediatek/proprietary/packages/apps/Mms/src/com/mediatek/wappush/SiManager.java
+/vendor/mediatek/proprietary/packages/apps/Mms/src/com/mediatek/wappush/SlManager.java
+ /frameworks/opt/telephony/src/java/android/provider/Telephony.java
+/packages/providers/TelephonyProvider/src/com/android/providers/telephony/MmsSmsProvider.java
+
+[]
+smsToMmsTextThreshold
+
+setDestinationInExternalPublicDir
+
+ Failed to chmod(/storage/sdcard0/Download/temp-firmware-7.bin): libcore.io.ErrnoException: chmod failed: EPERM (Operation not permitted)
+
+curl -v 192.168.10.29/ota/v1/devices/check_version?productUuid=531E74A6A2BA8661947FFC04158DFB4D&firmwareUuid=90F923E06D8B5070786241DBC9F30EFF&hardwareVersion=4.0&buildNo=1
+
+curl -i http://trybootcamp.vitorfs.com/login --header "X-CSRFToken: FoSvHxabTTSzxCCb2PuWB3GacyJnZaPk" --data "username=hellno&password=jn7yftg" --cookie "csrftoken=FoSvHxabTTSzxCCb2PuWB3GacyJnZaPk" 
+13WwZfPrYVDLaeSog1c7vjhadD7TcrMW
+
+w64l56wb9mib66i7rv4oni4hcpr80p5n
+
+curl -i http://trybootcamp.vitorfs.com/questions/ask/ -X POST --header "X-CSRFToken: hwpgWx3qEuAPxWOTTONiqwGVrJJFZ2SG" --data "title=abc&description=def&tags=ddd" --cookie "csrftoken=hwpgWx3qEuAPxWOTTONiqwGVrJJFZ2SG;sessionid=6sqw5i3zgmjalyeqthgll7bw4p3kptcr"
+
+curl -i http://trybootcamp.vitorfs.com/questions/ --header "X-CSRFToken: hwpgWx3qEuAPxWOTTONiqwGVrJJFZ2SG" --cookie "csrftoken=hwpgWx3qEuAPxWOTTONiqwGVrJJFZ2SG;sessionid=6sqw5i3zgmjalyeqthgll7bw4p3kptcr"
+
+[django csrf]
+                res = Jsoup.connect("http://trybootcamp.vitorfs.com/login")
+                    //.data("username", "hellno", "password", "jn7yftg", "csrftoken", buddyname)
+                    .header("X-CSRFToken", buddyname)
+                    .data("username", "hellno", "password", "jn7yftg")
+                    .cookies(loginCookies)
+                    .method(org.jsoup.Connection.Method.POST)
+                    .execute();
+
+[jsoup]
+
+                org.jsoup.Connection.Response res = Jsoup.connect("http://trybootcamp.vitorfs.com/login")
+                    .method(org.jsoup.Connection.Method.GET)
+                    .execute();
+                //Elements links = doc.getElementsByClass("login");
+                Document doc = res.parse();
+                Elements links = doc.select("input[name]");
+                //Elements links = content.getElementsByTag("input");
+                    Log.d(TAG, "name, value" + links.size());
+                for(Element link : links) {
+                    String linkHref = link.attr("name");
+                    Log.d(TAG, "name, value: " + linkHref);
+                }
+
+                Element buddynameInput = doc.select("input[name=csrfmiddlewaretoken]").first();
+                String buddyname = buddynameInput.attr("value");
+                Log.d(TAG, "token: " + buddyname);
+
+[]
+全套用的阿里云。
+
+1.上线不久，几千DAU帖子用户都增长的不错的时候，被DDOS。对方目的不明原因不明，花钱买了流量清洗服务后搞定，前后一共花了一万多吧。奇怪的是花了钱，再没被DDOS过。
+2.租的云服务器、数据库宕机，然后服务器数据库都买了双份，做cluster。阿里云有个百倍赔偿，然并卵。断一小时已经天大的事儿了，也就赔你100小时服务器时长。
+3.阿里云断网，买了UCLOUD的服务器数据库做备份，再断直接改DNS切过去。以上两个事儿的教训：鸡蛋不要放同一个篮子里，DNS尤其不要用阿里云的。
+4.用户多了之后，忙时502，数据库cpu 100%。这个属于设计失误，没想到几万DAU都扛不住。解决也简单粗暴：再买2个数据库一起扛，后续得改架构。具体可以看我发的这个帖子：
+http://www.xxxxxbbs.com/thread/34073/
+5.短信被刷没钱：注册时短信发验证码这个没做限制，被人给刻意刷没钱了。解决方法：加验证码限制IP。好在短信便宜，损失了几百块钱。
+
+总结下来就是：
+1.首先自己别傻逼，做的系统一定要强壮。
+2.防天灾：什么云都不靠谱，啥都得弄双份儿的。
+3.防人祸：一帮傻逼盯着害你，得时刻防着，一点儿漏洞不能有。
+4.得有钱：很多时候花点儿钱更好使。
+
+[jquery]
+In jQuery, the fn property is just an alias to the prototype property.
+
+The jQuery identifier (or $) is just a constructor function, and all instances created with it, inherit from the constructor's prototype.
+
+[]
+joke to cure
+today, have you smiled?
+
+[stock]
+看来凡是高质押的上市公司无论是不是白马都要远离，康美药业每年盈利这么多钱，还质押，证明没赚到钱，要拿股份质押换钱，也就是说有可能造假。当初的乐视网也是这样，明明每个盈利的，贾跃亭还质押全部股票，证明没赚到钱，也证实财务造假了。
+
+[build]
+sudo apt-get install build-essential
+sudo apt-get install git-core gnupg flex bison gperf build-essential zip curl zlib1g-dev \
+gcc-multilib g++-multilib libc6-dev-i386 lib32ncurses5-dev ia32-libs x11proto-core-dev \
+libx11-dev lib32readline5-dev lib32z-dev java-common unixodbc
+
+[curl]
+curl -i www.sina.com
+curl -v www.sina.com
+
+[~/.vimrc]
+set nocompatible
+set tags=./tags,tags;
+set hlsearch
+
+[vim]
+% does indeed mean "the current file name"
+cd %:h
+:.,+21g/foo/d means "delete any lines containing the string "foo" from the current one through the next 21 lines" while :.,$v/bar/d means "from here to the end of the file, delete any lines which DON'T contain the string "bar." (g --> grep)
+tabe fn/tabn/tabp
+q:
+browse old/oldfiles
+:marks
+'0 '1 ...
+shift+k
+Ctrl+V  I#<esc>
+
+[facebook]
+
+user_actions.news
+user_groups
+read_stream
+Request.newGraphPathRequest(...).executeAsync();
+http://stackoverflow.com/questions/18010210/getting-users-news-feed-from-facebook
+1. https://graph.facebook.com/me/home
+2.  user id / feed ?
+http://stackoverflow.com/questions/18402437/android-facebook-sdk-parsing-json
+http://stackoverflow.com/questions/19976026/parsing-json-data-in-java-from-facebook-graph-response
+http://www.androidhive.info/2014/06/android-facebook-like-custom-listview-feed-using-volley/
+http://stackoverflow.com/questions/9707541/how-to-parse-facebook-data
+http://stackoverflow.com/questions/12121619/parsing-json-in-facebook-sdk-3-0-ios
+
+http://stackoverflow.com/questions/4496627/how-to-get-real-time-status-notification-with-facebook-sdk-via-listener
+https://developers.facebook.com/docs/graph-api/real-time-updates/
+http://blog.csdn.net/h7870181/article/details/8572465
+http://stackoverflow.com/questions/8231877/facebook-access-token-for-pages
+http://stackoverflow.com/questions/18559345/news-feed-from-facebook-wall-to-a-android-app
+openActiveSessionWithAccessToken()
+first check to see if Session.getActiveSession is null (in both service and MainActivity), and then create a new active session if it is
+
+[android developer]
+http://mirrors.neusoft.edu.cn/android/repository/
+sdkmanager --licenses
+android update sdk --no-ui
+android:targetClass
+http://blog.csdn.net/wangjinyu501/article/details/8169924
+http://androiddoc.qiniudn.com/preview/api-overview.html
+http://android.zedcn.com/reference/android/bluetooth/le/BluetoothLeAdvertiser.html
+apktool
+sqlitebrowser
+hierachyviewer
+android emulator host ip: fixed as 10.0.2.2, emulator as localhost
+replace framework.jar --> delete /system/framework/arm, arm64 boot.art boot.oat
+performance https://juejin.im/entry/5aa24187518825557207f8e2
+
+[]
+avrcp/a2dp/map api
+facebook api
+bluetooth gaia 
+
+[ip forward]
+Used in router?
+
+[ppp http://flylib.com/books/en/3.475.1.44/1/]
+
+The Linux PPP implementation is composed of four parts : a generic PPP driver, one TTY line discipline (see Section 7.2.1) each for asynchronous and synchronous TTY devices, and a user-space daemon, pppd .
+
+The generic PPP driver accepts packets ready for transmission over two different routes: The network layer sends payload packets over the matching network device (pppX) , and the PPP daemon sends control packets over the character-oriented device /dev/ppp.
+
+[android support library cmdline download]
+android list sdk -a --extended
+android update sdk --no-ui -a --filter "extra-android-support"
+
+[kill app on port 8086]
+sudo kill `sudo lsof -t -i:8086`
+
+[network]
+arp
+ip
+route
+
+If your computer has two interfaces like:
+eth0: 192.168.1.1/24
+eth1: 192.168.2.1/24
+The iptalbes rule:
+iptables -A FORWARD -s 192.168.1.0/24 -d 192.168.2.0/24 -j ACCEPT
+will allow traffic from eth0 to eth1 ... if forwarding is global enabled
+
+The other situation is that your computer has one interface:
+eth0: 192.168.1.10/24
+The command:
+ip route add -net 192.168.2.0/24 gw 192.168.1.254
+would tell your computer that it can access the network: 192.168.2.0/24 through 192.168.1.254
+
+[linux cmds]
+convert choose_a_photo.png -resize 96x96 choose_a_photo.png
+grep -rl 'apples' /dir_to_search_under | xargs sed -i 's/apples/oranges/g'
+sudo update-alternatives --install /usr/bin/java java /home/ontim/Softwares/jdk1.7.0_79/bin/java 1
+sudo update-alternatives --config java
+update-alternatives --remove java /home/ontim/Softwares/jdk1.7.0_79/bin/java
+top -b | head -n 12
+tail -n 20 /var/log/syslog
+tail -n 20 /var/log/messages
+lsblk
+lsof
+rsync
+scp
+godir
+croot
+iftop
+nload
+sox  (audio editor)
+eog (image viewer)
+evince (pdf viewer)
+nautilus
+kmplayer
+sudo service prosody restart
+sudo lsof -iTCP -sTCP:LISTEN -n -P
+hexdump -C -n
+strace -f -t -e trace=file -p <PID>
+du -h -d 2
+
+[tools]
+tig
+lxc
+
+[google based se]
+wen.lu
+sssis.com
+
+http://www.wow.com/
+http://54.64.24.234/
+http://www.886404.com/
+https://gusouk.com/
+http://www.gfsoso.com/
+http://www.googleout.com/
+http://www.gvgle.com/
+https://www.sssis.com/
+http://g.openibm.com/
+https://www.ggncr.com/?gws_rd=ssl
+https://xie.lu/
+http://vs2003.net/google/search.asp
+http://gu1234.com/?gws_rd=ssl
+https://g.ttlsa.com/
+https://www.90r.org/
+http://www.glgoo.com/
+
+[docker]
+docker daemon 
+service docker start
+
+[lxc]
+
+lxc-create -t ubuntu -n myhost (default: ubuntu/ubuntu)
+lxc-start -n myhost
+lxc-console -n myhost
+/var/lib/lxc/myhost
+<ctl-a q> 
+
+lxc-clone
+lxc-backup
+lxc-restore
+
+The containers with the default LXC NAT bridge 'lxcbr0' setup, will have access to the internet but if you need to make any services on the container available to the world, you need to configure port forwarding from the host to the container.
+
+For instance to forward port 80 from the host ip 1.1.1.1 to a container with ip 10.0.3.165 you can use the iptables rule below.
+
+iptables -t nat -I PREROUTING -i eth0 -p TCP -d 1.1.1.1/32 --dport 80 -j DNAT --to-destination 10.0.3.165:80
+
+This will make for instance an Nginx web server on port 80 of the container available on port 80 of the host.
+
+[mongodb]
+
+mongo
+use db_name
+db.<collection>.find()
+
+[android cmd]
+adb shell am start -n com.package.name/com.package.name.ActivityName
+wifi connect debug[wifi addr 192.168.8.149]:
+adb tcpip 5555
+adb connect 192.168.8.149
+adb shell dumpsys activity -h
+make -j2 clean-Mtkmms
+     https://www.ibm.com/developerworks/cn/opensource/os-cn-android-build/
+
+[android broadcast framework]
+??ActivityManagerService.registerReceiver()
+ActivityManagerService.collectReceiverComponents()
+    PackageManagerService.queryIntentReceivers()
+ActivityManagerService.broadcastIntentLocked()
+
+[android bind service]
+ActivityManagerService.bindService()
+
+[android install package]
+PackageManagerService.installPackageLI()
+    PackageParser.parsePackage()
+    PackageManagerService.installNewPackageLI()
+        PackageManagerService.scanPackageLI()
+            PMS.createDataDirsLI()
+            PMS.copyNativeLibrariesForInternalApp()
+            ServiceIntentResolver.add()
+            ProviderIntentResolver.add()
+            ActivityIntentResolver.add(receiver)
+            ActivityIntentResolver.add(activity)
+            PermissionGroup.put()
+
+[android dump layer]
+   Layer::onDraw()
+{
+
+....
+#if defined(LAYER_DUMP_BMP)
+    {
+        FILE* fp;
+        if(fp = fopen("/data/dump_bmp/d_test", "r"))
+        {
+            char filename[256];
+            extern void dump_bmp(const char* filename, const sp<GraphicBuffer>& buffer);
+            sprintf(filename, "/data/dump_bmp/fm%04d_lay%04d_F%04d.bmp", frame_count, layer_count,mActiveBuffer->format);
+            dump_bmp(filename, mActiveBuffer);
+            fclose(fp);
+        }
+        /*else
+        {
+            ALOGD("layer dump file d_test open fail");
+        }*/
+    }
+#endif/*LAYER_DUMP_BMP*/
+....
+}
+
+[android bind application]
+ActivityThread.handleBindApplication()
+     - ContextImpl
+     - http proxy
+     - loadClass
+     - Instrumentation
+     - mkdir
+     - installContentProviders
+
+
+[python]
+python setup.py install
+python bootstrap.py
+./bin/something
+
+[mysql]
+
+sudo /etc/init.d/mysql start/stop
+
+mysql -u username -p
+>show databases;
+>use test;
+>show tables;
+
+[nginx php]
+sudo service php5-fpm start
+sudo service nginx start
+
+[nginx]
+   sudo apt-get install w3m
+   sudo apt-get install nginx
+   sudo nginx
+   w3m http://127.0.0.1
+   nginx -t // test config syntax
+
+[godir]
+
+[grep]
+-n: show line number
+
+[android gallery save]
+SaveVideoFileUtils.java
+
+[android battery]
+/sys/class/power_supply/battery
+
+[android debug external/skia]
+SkDebugf()
+
+[android external/tinyalsa]
+tinymix
+tinyplay
+tinycap
+
+[android build]
+make clean-Gallery
+
+[repo]
+git clone http://gerrit.ontim.cn:8081/ontim-repo
+sudo cp ontim-repo/repo /usr/bin
+repo init -u ssh://admin@192.168.0.100:29418/platform/manifest -m Q5301_OEM_development.xml  --no-repo-verify --repo-branch=master
+repo sync 
+
+[build android gradle]
+$ mkdir ub-tools-idea133
+$ cd ub-tools-idea133
+$ repo init -u https://android.googlesource.com/platform/manifest -b ub-tools-idea133
+$ repo sync
+
+$ cd tools
+$ ./gradlew prepareRepo
+$ ./gradlew assembleDebug
+
+To test the plugin, you need to
+    export a environment variable named ANDROID_HOME and point it to your SDK
+    export a environment variable named ANDROID_NDK_HOME and point it to your NDK
+Finally run the following command
+$ ./gradlew check buildTest
+
+android create project -p AppPAKTGV -a Main -k com.example.apppaktgv -t android-19 -g -v 0.11.+
+{AppPlugType android 
+    ? remove local.properties
+    ? tool version 19.1.0 (check sdk path)
+    ? gradle build }
+
+[ubuntu upgrade]
+do-release-upgrade
+
+[android services]
+MountService -> NativeDaemonConnector(,"vold",)
+NetworkManagementService -> NativeDaemonConnector(,"netd",)
+
+[push message]
+http://192.168.10.89/push/v1/sendMessage?device_id=0000000003d64decffffffffbb7c0d65&message=1234&admin_token=123456
+http://192.168.10.89/push/v1/sendMessage?device_id=0000000003d64decffffffffbb7c0d65&message={"subject": "hello", "content": "world", "type": "type", "param": "1234567"}&admin_token=123456
+
+[apk tool]
+java -jar apktool.jar d ../MainActivity-debug.apk des_dir
+
+proguard.config=${sdk.dir}/tools/proguard/proguard-android.txt:proguard-project.txt
+bin/../mapping.txt
+json issue (fromJson()):
+-keepclassmembers class yourPackageName.YourClassName{
+   *;
+}
+
+[android power key]
+adb shell input keyevent 26
+
+[w3m/lynx/links]
+w3m-img supports image in xterm
+
+[kernel config]
+make menuconfig
+kernel/arch/arm/configs/
+out/target/product/w301/obj/KERNEL/.config
+
+Truly. Can your next feature be an app (I know, I know, hardly a feature) that pops up jokes on your home screen while you are at a party, networking, or event? We all glance at our phones during these things and shooting a one-liner joke (you can even customize the joke based on the context of the event or party you are at, age, etc.) will increase your street cred for telling joke telling. 
+
+[ideas]
+personal assistant: link(android intents organition)
+
+
+[materials]
+https://www.jianshu.com/u/b508a6aa98eb
+
+[to read list]
+
+https://www.jiqizhixin.com/articles/2024-02-25-4
+  -- searchformer A*
+
+http://karpathy.github.io/2021/06/21/blockchain/
+   -- A from-scratch tour of Bitcoin in Python
+
+https://github.com/vinta/awesome-python
+   -- python awesome
+
+https://yjernite.github.io/lfqa.html
+   -- eli5, contrast training
+
+https://www.geeksforgeeks.org/build-a-virtual-keyboard-using-html-css-javascript/
+   Build a Virtual Keyboard using HTML CSS & JavaScript
+
+https://github.com/microsoft/JARVIS.git
+   微软开源贾维斯(J.A.R.V.I.S.)人工智能AI助理系统 
+
+https://github.com/wagtail/wagtail
+   content management system
+
+https://commoncrawl.org/
+    big corpus
+
+Semantic data mining: A survey of ontology-based approaches
+
+婆罗浮屠，吴哥窟，泰姬陵
+
+陈恭禄的《中国近代史》
+
+ OpenAI Gym，这是一个供开发人员创建强化学习算法的工具
+
+https://github.com/open-mmlab/mmpose
+   MMPose is an open-source toolbox for pose estimation based on PyTorch
+
+https://baijiahao.baidu.com/s?id=1755252764876653174&wfr=spider&for=pc
+   AI gpu
+
+https://github.com/karpathy/nanoGPT
+   The simplest, fastest repository for training/finetuning medium-sized GPTs
+
+https://github.com/nomic-ai/gpt4all
+   an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+   Stable Diffusion web UI
+
+https://github.com/tatsu-lab/stanford_alpaca
+   Code and documentation to train Stanford's Alpaca models, and generate the data.
+
+https://github.com/lm-sys/FastChat
+   An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.
+
+https://github.com/OpenNMT/OpenNMT-py
+
+https://github.com/thomas-yanxin/LangChain-ChatGLM-Webui
+  受langchain-ChatGLM启发, 利用LangChain和ChatGLM-6B系列模型制作的Webui, 提供基于本地知识的大模型应用.
+
+https://github.com/suno-ai/bark
+  Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. 
+
+烛影斧声， 狸猫换太子。
+空印案 胡惟庸案 蓝玉案
+  帝鉴图说, 红丸案,移宫案,梃击案
+杨乃武与小白菜案 、张文祥刺马案 冒赈案
+
+https://www.huxiu.com/article/780796.html
+  半导体历史
+
+https://36kr.com/p/2005367951331204
+  关于“学习”的7本好书
+
+https://www.eet-china.com/mp/a21989.html
+  mosfet
+
+https://github.com/socketio/chat-example.git
+  socketio chat
+
+https://cloud.tencent.com/developer/article/1907575
+  风控模型—WOE与IV指标的深入理解应用
+
+挑选变量的方法多种多样，可以用IV、GBDT、随机逻辑回归、随机森林、逐步回归、cluster等等
+
+https://new.qq.com/rain/a/20230101A0384U00
+https://people.idsia.ch/~juergen/deep-learning-history.html
+  deep learning history
+
+https://new.qq.com/rain/a/20221228A056SW00
+  AMD
+
+https://www.jiqizhixin.com/articles/2022-10-24-4
+  cohere
+
+https://new.qq.com/rain/a/20221026A03HWZ00
+  让年轻人“互吹”的 App
+
+https://www.aisixiang.com/data/106729.html
+  朱松纯：浅谈人工智能：现状、任务、构架与统一
+  image parsing
+
+https://www.cnblogs.com/jsfantasy/p/12177275.html
+   反向传播算法详细推导
+
+https://www.jianshu.com/p/027538ffb8c1
+   celery 
+
+https://www.cnblogs.com/wangzb96/p/bert_downstream_tasks.html
+   bert
+
+https://huggingface.co/docs/transformers/model_summary
+   transformers model
+
+https://github.com/rainx/pytdx/tree/tic_reader
+   stock data
+
+https://github.com/zjunlp/deepke/
+    DeepKE is a knowledge extraction toolkit supporting low-resource and document-level scenarios for entity, relation and attribute extraction.
+
+https://ningshixian.github.io/2019/09/18/%E4%B8%AD%E6%96%87NLP%E7%9B%B8%E5%85%B3%E5%B7%A5%E5%85%B7/#
+
+https://github.com/lhr0909/rasa-v2-nlu-bert-chinese
+
+https://github.com/Horizon733/Rasa-with-Android-app
+
+https://github.com/Chriszhangmw/rasa_medical_QA
+
+https://github.com/yogeshhk/FAQChatbot
+
+https://github.com/minoguep/rasa_medical_diagnosis_bot
+https://github.com/stutisehgal/RASA-Mental-Health-Chatbot
+
+https://github.com/anshuljdhingra/HR-Recruiter-Chatbot-with-Rasa
+
+https://github.com/S1LV3RJ1NX/CBOT-rasa
+    -- rasa which can be talking c language
+
+https://github.com/Anwarvic/RasaChatbot-with-ASR-and-TTS
+
+computer algebra system
+    -- maxima, sagemath
+
+数学表达式解析器(Math Expression Parser, MEP)，如Expression4J、Jep、JbcParser、Symja、Math Expression String Parser(MESP)等
+
+https://www.jianshu.com/p/1bdf827818b3
+     -- blocky & scratch
+
+https://rodrigopivi.github.io/Chatito/
+
+https://mathsolver.microsoft.com/zh
+
+https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md
+
+md 管理工具：Obsidian
+md 编辑工具：Typora
+图床：github
+CDN：jsDelivr
+图片上传工具：PicGo
+
+https://github.com/google/mathsteps
+   -- step by step math solution
+
+https://github.com/NicolasHug/Surprise
+   -- recommender 
+
+https://www.biaodianfu.com/product-ranking-algorithm.html
+
+https://letsencrypt.org/zh-cn/
+   Let's Encrypt - 免费的SSL/TLS证书
+
+https://www.biaodianfu.com/optics.html
+   密度聚类算法之OPTICS
+
+https://www.biaodianfu.com/python-build-web-server.html
+https://ruslanspivak.com/lsbaws-part1/
+   Python 从0到1搭建Web 服务器
+
+https://www.biaodianfu.com/django-tutorial.html
+   Django实战：投票系统搭建
+
+https://github.com/ipython/ipython
+   IPython: Productive Interactive Computing
+   ipython notebook/jupyter notebook
+
+https://bpython-interpreter.org/
+
+北京励骏酒店
+
+642件可写的事
+
+https://new.qq.com/omn/20210405/20210405A068ZS00.html
+    ofo story
+
+bigbluebutton
+    BigBlueButton is an open source web conferencing system for distance education. It provides real-time desktop sharing, presentation, VoIP, webcam and chat.
+
+https://github.com/roncoo/roncoo-education
+    online edu
+
+https://github.com/benawad/dogehouse
+    Taking voice conversations to the moon
+
+clubhouse git
+
+bostory28/ReciteBible_Server
+bostory28/ReciteBible_Client
+
+# JTangoPro
+一款专业的日语单词记忆app，基于android
+
+wmpscc/RootsAndAffixesRememberWordsAPP
+专业的词根词缀记单词APP，内容来源于《英语词根与单词的说文解字》。增加音频朗读，柯林斯高阶词典注释，例句及其录音。
+
+MRXY001/Let-s-remember
+[Android] 全民记忆：根据艾宾浩斯遗忘曲线，科学地背诵单词、诗文，独创挡板挡板功能、记忆盒子
+
+https://36kr.com/p/1086536411366401
+   -- story in social networking
+
+https://new.qq.com/rain/a/20201108A0CAO200
+   -- marketing
+
+https://github.com/emaV/WDMyCloud-git-shell-commands
+   -- How to use WD My Cloud as Git source code repository server.
+   -- create ssh user account
+
+https://github.com/zuihou/zuihou-admin-cloud
+   -- admin cloud
+
+https://github.com/howl-anderson/tfug_SH_lottery
+   -- lottery
+
+https://github.com/mopidy/mopidy
+   -- Mopidy is an extensible music server written in Python 
+
+https://github.com/bigbluebutton/bigbluebutton
+   -- BigBlueButton is an open source web conferencing system.
+
+https://github.com/shengqiangzhang/examples-of-web-crawlers
+
+https://github.com/Anuken/Mindustry
+   -- A sandbox tower defense game
+
+https://openweathermap.org/appid
+   -- openweather api
+
+https://github.com/kaldi-asr/kaldi
+https://github.com/alumae/kaldi-gstreamer-server
+   -- Speech Recognition Toolkit
+
+https://github.com/oppia/oppia
+   -- Oppia is an online learning tool that enables anyone to easily create and share interactive activities (called 'explorations'). 
+
+https://github.com/sokusekiya/sokuseki
+   -- travel mark
+
+https://github.com/menzi11/BullshitGenerator
+https://github.com/Morizeyao/GPT2-Chinese
+
+https://github.com/tuvtran/project-based-learning#python
+
+2017 年 3 月 Kaggle 被谷歌收购后，开始（通过 Notebooks kernel）免费提供 GPU，这使得开发者能够更容易地获取处理能力。
+
+https://github.com/CorentinJ/Real-Time-Voice-Cloning
+    -- Clone a voice in 5 seconds to generate arbitrary speech in real-time 
+
+https://36kr.com/p/5255979
+     -- hacker grow
+
+望湘园、四季民福、赣人之家、雪松宾馆、船歌鱼、丰茂烤串、香草香草、铁板诱惑、达美乐
+沃夫冈，agua，tavola，申德勒加油站，格鲁秀色，一千一夜，京旬，粤界，唐宫，玉华台，苏帮袁，淮扬府，南门涮肉，鲁采
+
+https://www.digitalocean.com/community/tutorials
+
+充足理由律的四重根
+ 叔本华将呈现在我们意识中的万事万物，——叔本华将其称作表象，分为四类，分别对应四种根据律，四种人的特性（可见题图）：
+（1）时空。人的「感性」通过“存在律”接收到时空中的万事万物，并将其提供给“知性”。
+（2）物质。人的「知性」通过“因果律”将“感性所接收到的东西”加工成“直观表象”，由此世界万事万物才被呈现在人的意识中。人也正是由此认知万事万物。而感官只是“意识中的直观表象”与“万事万物”之间的中介。没有知性，感官的存在就没有意义。
+（3）概念。人的「理性」通过“根据律”将“直观表象”又加工成概念，进而在逻辑法则之内对概念组合进行判断、推论进而得出结论。人也正是因此与其他动物有所不同，因为有了概念，人就能相互合作，能记录经验，利用经验，迅速发展。
+（4）意志主体。人的「意识主体」通过“动机律”呈现出“意志主体”的特征。
+
+海拉斯和斐洛诺斯的对话三篇
+  --书中的海拉斯借指古代希腊哲学中唯物主义的主张者，而斐洛诺斯直译就是“爱努斯”。“努斯“即希腊语中的心灵灵魂，泛指感觉、思想、意志等精神活动。作者在本书中所要维护和阐发的，就是作者以“怒斯”统摄存在的著名哲学主张：存在就是感知与被感知。
+
+https://gizmodo.com/why-these-social-networks-failed-so-badly-1836996164
+
+https://xueqiu.com/6615553088/121310404
+   -- good company
+
+https://github.com/huggingface/pytorch-transformers
+
+https://github.com/ildoonet/tf-pose-estimation
+   -- open pose
+
+https://github.com/wagtail/wagtail
+   -- content management system
+
+https://36kr.com/p/5219148
+   -- Saas
+
+https://github.com/LanceLRQ/wejudge
+   -- 在线程序代码在线评测系统
+
+https://www.ibm.com/developerworks/cn/linux/l-linuxvirt/
+   -- virtual tech
+
+https://www.sitejabber.com/categories/social-network
+   -- rank site
+
+https://new.qq.com/cmsn/20190612/20190612000306.html
+   -- internet trend report
+
+https://github.com/openai/gpt-2
+   -- nlp, news generator?
+
+https://www.huxiu.com/article/298085.html
+    -- carl schmitt
+
+http://news.moore.ren/industry/18042.htm
+中国集成电路产业发展艰难历程回顾
+https://blog.csdn.net/zzwu/article/details/40948753
+上海历史上有过的 无线电元器件厂和无线电设备厂
+
+https://www.draw.io/
+    -- online diagram
+
+https://www.processon.com/
+    -- online uml/mindmap
+
+https://www.huxiu.com/article/294583.html
+    -- notre dame cathedral
+
+http://techslides.com/sample-files-for-development
+https://www.freefileconvert.com/
+https://www.mathworks.com/help/audio/ug/sample-audio-files.html
+https://standaloneinstaller.com/blog/big-list-of-sample-videos-for-testers-124.html
+    -- small video/audio files
+
+https://www.huxiu.com/article/295481.html
+    -- why yelp failed
+https://www.huxiu.com/article/293435.html
+    -- why google+ failed
+
+https://github.com/ssj64260/FamilyTreeView
+    -- family treeview
+
+https://www.huxiu.com/article/292140.html
+    -- social network
+
+https://www.jiqizhixin.com/articles/2019-04-01-10
+    -- advertisement circle
+
+https://github.com/ddssingsong/webrtc_server
+https://github.com/ddssingsong/webrtc_android
+https://blog.csdn.net/u011077027/article/details/86225524
+https://github.com/TakuSemba/RtmpPublisher
+https://github.com/arut/nginx-rtmp-module
+git rtmp server
+    -- video conference
+
+https://github.com/indico/indico
+    It includes a full-blown conference organization workflow as well as tools for meeting management and room booking. It provides as well integration with video-conferencing solutions.
+
+https://github.com/CriseLYJ/awesome-python-login-model
+    -- auto login for some sites
+
+https://lifehacker.com/
+https://www.lesswrong.com/
+9gag.com
+
+https://github.com/meefik/linuxdeploy
+    -- linux on android
+https://github.com/sangwoomo/instagan
+    -- change pants
+https://github.com/ssloy/tinyrenderer/wiki/Lesson-1:-Bresenham%E2%80%99s-Line-Drawing-Algorithm
+    -- tiny render
+https://www.ifanr.com/1163896
+   -- AI dialogue
+https://www.huxiu.com/article/281343.html
+   -- free will
+https://venturebeat.com/
+   -- venture
+https://www.jisilu.cn/data/stock/dividend_rate/#cn
+   -- stock dividen list
+http://www.cnblogs.com/findumars/p/5009003.html
+   -- CV collections
+https://github.com/Gogul09/flower-recognition
+   -- deep learning
+http://www.deeplearningbook.org/
+   -- Deep learning book
+https://github.com/reduncan/yelpclone
+   -- yelp clone
+https://www.lieyunwang.com/archives/447515
+   -- piano business
+      从此星空琴行奠定了三大业务模式：
+
+      一．租琴，消费者交付钢琴价格的全款作为押金，再单独预付一年起的课时，退还钢琴后30到45个工作日退还押金；
+      二．购琴送课时，钢琴价格高于市价约25%；
+      三．以240元单价单独预付课时，同样一年起购。
+
+      通过这种手段，周楷程将钢琴培训与买卖钢琴牢牢绑定在了一起。
+      培训带来的流量，通过老师的销售转化，从而形成一个闭环。
+      培训业务只需要打平房租或略有盈利，主要收入依靠拥有30%-45%毛利的钢琴销售。
+
+https://github.com/google-research/bert
+   -- language representations
+https://www.huxiu.com/article/276391.html
+   -- snapchat path
+https://www.thepaper.cn/newsDetail_forward_2731581
+   -- AI applications
+https://zhuanlan.zhihu.com/p/38456769
+   -- armbian + N1
+https://www.icmla-conference.org/icmla10/CFP_Tutorial_files/hakan.pdf
+   -- sequence labeling
+https://www.jianshu.com/p/6cfb224459d9
+   -- hostus
+https://github.com/brightmart/nlu_sim
+   -- all kinds of sentence similarity
+https://github.com/Decalogue/chat
+   -- multi account dialogue
+https://github.com/alicevision/meshroom
+   -- 3d reconstruction
+https://github.com/Keyamoon/IcoMoon-Free
+   -- free vector icon pack
+https://github.com/friendica/friendica
+富时中国A50
+https://36kr.com/p/5071701.html
+   -- 如何快速构建用户画像
+https://github.com/graphhopper/graphhopper
+   -- java routing engine
+https://github.com/ailabx/ailabx
+谱 语料 foodie
+https://github.com/YeYzheng/KGQA-Based-On-medicine
+https://github.com/liuhuanyong/QASystemOnMedicalKG
+https://www.jianshu.com/p/0e1d51a7549d
+   -- python nltk tutorial
+http://guge.suanfazu.com/
+https://www.huxiu.com/article/268947.html
+   -- 互联网考古地图
+https://blog.csdn.net/han_xiaoyang/article/details/52788775
+    -- Kaggle predict consumer credit default 
+https://www.jiqizhixin.com/articles/2018-10-24-10
+    -- dataset
+https://github.com/getredash/redash
+    -- Connect to any data source, easily visualize, dashboard and share your data.
+https://www.huxiu.com/article/264894.html
+    -- current social apps suck.
+https://github.com/CharonChui/AndroidNote
+https://www.tuicool.com/sites/hot?id=10000000
+https://github.com/andreacos/ContrastNet
+    -- CNN-based detection of generic contrast adjustment with JPEG post-processing
+https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction
+https://github.com/mattermost/mattermost-server
+Techmeme.com
+http://th7.cn/Program/Android/201603/787020.shtml
+http://www.microsoftaccelerator.cn/zh-CN/Enterprise/Index10
+https://github.com/ceph/ceph
+https://www.darpa.mil/our-research?tFilter=15&oFilter=&sort=undefined&PP=3
+https://blog.csdn.net/urcrazy/article/details/55253747
+https://www.mathworks.com/company/newsletters/articles/magic-reconstruction-compressed-sensing.html
+http://licai.shitou.com/ask_zhlc/238076.html
+https://github.com/fmzquant/strategies
+http://blog.sina.com.cn/s/blog_7bc9b2d70101ezmx.html
+https://www.douban.com/group/topic/95244972/?start=0
+https://www.tuicool.com/articles/I3ymquY
+https://github.com/square/leakcanary
+https://github.com/Curzibn/Luban
+https://github.com/Naoki2015/CircleDemo
+https://www.huxiu.com/article/248009.html
+    -- marketing: seven sins
+https://www.huxiu.com/article/247822.html
+https://www.leiphone.com/news/201806/mD06u5jT6JmxGVEw.html
+    -- nlp research direction
+https://www.huxiu.com/article/246358.html
+    -- 如何设计出一个“前浪微博”
+https://github.com/takmin/OpenCV-Marker-less-AR
+https://github.com/raulmur/ORB_SLAM2
+https://blog.csdn.net/u013913435/article/details/61915084
+https://github.com/rg3/youtube-dl
+https://github.com/soimort/you-get
+https://www.huxiu.com/article/244297.html
+https://github.com/magwyz/pastec
+http://www.cnblogs.com/LBSer/p/4451471.html
+http://36kr.com/p/5133137.html
+https://github.com/keithito/tacotron
+https://github.com/seatgeek/fuzzywuzzy
+https://github.com/antlr/grammars-v4
+500.co
+https://www.kdnuggets.com/2018/04/top-free-books-deep-learning.htm
+https://github.com/xingshaocheng/architect-awesome
+https://github.com/NELSONZHAO/zhihu
+https://github.com/divio/django-filer
+https://github.com/marktext/marktext
+MT6361
+https://github.com/dwt0317/Search_Adserver
+https://github.com/performous/performous Karaoke
+https://github.com/nisrulz/android-examples
+https://github.com/nisrulz/android-tips-tricks
+Cover's universal portfolio, stochastic portfolio theory and the numeraire portfolio
+https://github.com/sunmouren/xiaohaishi04
+https://github.com/sunmouren/sunmouren
+https://github.com/sunmouren/book_share_demo
+   -- django apps
+https://blog.csdn.net/mylove0414/article/details/55805974   stock LSTM
+   -- https://github.com/lyshello123/stock_predict_with_LSTM
+https://github.com/shuzheng/zheng
+https://github.com/paascloud/paascloud-master
+https://github.com/vgel/summarize.py
+https://github.com/dipanjanS/text-analytics-with-python
+https://github.com/alexgreene/WikiQuiz
+http://district.ce.cn/zt/friend-link/index.shtml
+https://github.com/bystc/CollaborativeFilteringMovieRecommender
+https://github.com/huangyanbin/smartTable
+https://github.com/lenve/vhr
+https://github.com/wzpan/dingdang-robot
+https://github.com/priya-dwivedi/Deep-Learning/tree/master/tensorflow_toy_detector
+https://github.com/RasaHQ/rasa_nlu
+    turn natural language into structured data
+http://lib.csdn.net/article/deeplearning/45774
+http://www.ycombinator.com/companies/
+https://github.com/aosabook/500lines
+http://electhuang.com/2017/04/27/android-pocketSphinx/
+https://github.com/liuruoze/EasyPR
+https://github.com/breadada/mieSys
+squarespace
+https://blog.ycombinator.com/ycs-essential-startup-advice/
+https://github.com/anvaka/ngraph.path
+https://github.com/SerpentAI/SerpentAI
+https://github.com/LewisVo/Awesome-Linux-Software
+http://blog.csdn.net/lmj623565791/article/details/51319147
+https://www.huxiu.com/article/208504.html
+https://www.huxiu.com/article/215660.html
+
+##marketing##
+https://www.sideprojectchecklist.com/marketing-checklist/
+https://www.huxiu.com/article/233446.html
+
+##payment##
+https://github.com/Cuieney/RxPay
+
+## android collections##
+https://github.com/OCNYang/QBox
+https://github.com/Trinea/android-open-project
+
+## style change ##
+https://github.com/luanfujun/deep-photo-styletransfer
+https://github.com/CompVis/adaptive-style-transfer
+
+## curtain ##
+http://www.freebuf.com/geek/141214.html?utm_source=tuicool&utm_medium=referral
+
+## malicious network traffic ##
+https://github.com/stamparm/maltrail
+
+## mindmap ##
+https://github.com/qq273681448/Mindmap
+Thinkmap
+
+## karaoke/voice match/speech comparison ##
+https://www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition
+https://stackoverflow.com/questions/17010516/how-to-detect-how-similar-a-speech-recording-is-to-another-speech-recording
+https://en.wikipedia.org/wiki/Dynamic_time_warping
+https://github.com/Skyslash11/DTW_for_voice_matching
+http://royvanrijn.com/blog/2010/06/creating-shazam-in-java/
+https://github.com/wsieroci/audio-recognizer
+https://github.com/Vocaluxe/Vocaluxe
+https://github.com/itspoma/audio-fingerprint-identifying-python
+https://github.com/open-speech/speech-aligner
+https://sourceforge.net/p/cmusphinx/mailman/cmusphinx-devel/thread/CAMV%2BqnhJKVvdL-Ut-zR3gCVmehyp0Og%2ByDNSPaD7_DUXn-%3D2Lw%40mail.gmail.com/#msg34847907
+https://www.cnblogs.com/warcraft/p/10112486.html
+https://fairyonice.github.io/implement-the-spectrogram-from-scratch-in-python.html
+http://home.cc.umanitoba.ca/~robh/howto.html#
+    -- A long window resolves frequency at the expense of time—the result is a narrow band spectrogram, which reveals individual harmonics (component frequencies), but smears together adjacent 'moments'. If a short analysis window is used, adjacent harmonics are smeared together, but with better time resolution. The result is a wide band spectrogram in which individual pitch periods appear as vertical lines (or striations), with formant structure. Generally, wide band spectrograms are used in spectrogram reading because they give us more information about what's going on in the vocal tract, for reasons which should become clear as we go.
+https://www.zhihu.com/question/27126800/answer/35376174
+    -- 3. 元音与共振峰的关系已经研究得比较透彻了，简单地说：
+        1) 开口度越大，f1越高；
+        2) 舌位越靠前，f2越高；
+        3) 不圆唇元音的f3比圆唇元音高。
+    -- 爆破音区分:
+       voice bar，velar pinch，pencil line
+
+https://github.com/fulldecent/formant-analyzer
+    -- Vowel formant chart:
+        vowel		F1	F2	F3
+        ee	male	270	2290	3010
+	        female	310	2790	3310
+	        child	370	3200	3730
+        e	male	530	1840	2480
+        	female	610	2330	2990
+        	child	690	2610	3570
+        ae	male	660	1720	2410
+        	female	850	2050	2850
+        	child	1030	2320	3320
+        ah	male	730	1090	2440
+        	female	590	1220	2810
+        	child	680	1370	3170
+        oo	male	300	870	2240
+        	female	370	950	2670
+        	child	430	1170	3260
+https://www.izotope.com/en/learn/understanding-spectrograms.html
+https://www.cnblogs.com/xingshansi/p/6815217.html
+https://cmusphinx.github.io/wiki/phonemerecognition/
+Output: phoneme, grapheme, word, morpheme
+Input: Raw, MFCC, Filter bank output
+
+## travel ##
+toda://github.com/klb3713/sentence2vec
+https://www.zybuluo.com/Wayne-Z/note/460881
+https://github.com/isnowfy/snownlp
+https://github.com/Kyubyong/wordvectors
+https://github.com/zake7749/Chatbot
+http://36kr.com/p/5083431.html
+
+##deep learning##
+https://github.com/yenchenlin/DeepLearningFlappyBird
+
+##medical imaging##
+https://github.com/DLTK/DLTK
+
+##elearning##
+https://github.com/nelsonlaw/elearning-CMS-on-django
+https://github.com/avuletica/eLearning
+https://github.com/A1014280203/elearning
+
+##video/streaming##
+EpMedia
+https://trac.ffmpeg.org/wiki/Slideshow
+ffmpeg -framerate 1/5 -pattern_type glob -i 'temp/*.jpg' -c:v libx264 -vf fps=1 -pix_fmt yuv420p out.avi
+ ffmpeg -y -i out.mp4 -s 176x144 -vcodec libx264 -preset fast -b 800000 out1.mp4
+https://github.com/dxjia/ffmpeg-commands-executor-library
+https://github.com/codeqian/ffmpegCLDemo
+https://github.com/hiteshsondhi88/ffmpeg-android/
+https://github.com/ChinaSilence/any-video
+https://github.com/AKSHAYUBHAT/DeepVideoAnalytics
+https://github.com/miguelgrinberg/flask-video-streaming
+ hls点播和直播技术都很成熟的技术
+飞飞影视导航系统属于视频点播的cms（内容管理）系统，跟hls没啥关系，切片编码需要后台编译运行的程序，纯web搞不定；编码器ffmpeg，流切片Segmenter，web服务采用Nginx+nginx-rtmp-module；
+你们有技术的话网上看一眼就能编译一套出来了；
+     -- https://github.com/begeekmyfriend/yasea
+     -- https://github.com/ossrs/srs/tree/2.0release
+     -- https://github.com/Jakey-jp/LivePushDemo
+     -- https://www.cnblogs.com/rsapaper/p/9807816.html
+     -- https://blog.csdn.net/weixin_30549175/article/details/94789801
+[em4]或者你们打包带app或微信小程序做一套出来好了
+
+##law##
+https://github.com/FanhuaandLuomu/ParseLawDocuments
+
+##big data##
+https://github.com/vespa-engine/vespa
+https://blog.monkeylearn.com/creating-sentiment-analysis-model-with-scrapy-and-monkeylearn/
+https://github.com/monkeylearn/hotel-review-analysis
+https://zhuanlan.zhihu.com/p/37355703
+kaggle
+feature selection
+
+##slam##
+https://github.com/kootenpv/whereami
+手里头有个超声波和舵机，arduino小车
+
+##shopping, ecommerce##
+https://github.com/flyleft/xmarket
+https://github.com/django-oscar/django-oscar
+https://github.com/BroadleafCommerce/BroadleafCommerce
+https://github.com/Exrick/xmall
+https://github.com/liu-xiao-dong/JD-Test
+https://github.com/Likeyong/LegouMall
+https://github.com/macrozheng/mall
+
+##cms##
+https://github.com/stephenmcd/mezzanine/
+https://github.com/wagtail/wagtail
+https://github.com/ridethepony/django-fiber
+
+##QA q&a forum##
+https://github.com/q2a/question2answer
+   -- https://cloud.tencent.com/developer/article/1651815
+https://github.com/ialbert/biostar-central
+
+##english link##
+http://www.talkenglish.com/listening/listenintermediate.aspx
+
+##logo design##
+https://github.com/lengstrom/fast-style-transfer
+https://github.com/nelsoncash/ai-by-design
+https://github.com/gilbarbara/logos
+
+##social network##
+https://github.com/vitorfs/bootcamp
+https://github.com/rogerou/Baby
+
+##social bookmark##
+https://github.com/bookieio/Bookie
+https://github.com/fay/lianpeng
+https://github.com/jarun/Buku
+https://github.com/pirate/pocket-archive-stream
+https://github.com/servicemanager3386/bookmark
+
+##data visual##
+https://github.com/getredash/redash
+https://github.com/airbnb/superset
+
+##p2p##
+https://github.com/tommyloser/YslcApp
+
+##edu##
+https://github.com/ceeker/shasha
+https://github.com/chenrong1994/KaoLa_1604
+https://github.com/lukstei/trading-backtest
+
+##video chat##
+https://github.com/linsir6/webRTC-android-demo-and-Server
+https://github.com/eggerdo/ZmqVideoChat
+https://github.com/592713711/Android-VideoChat
+
+##chat, instant message##
+https://github.com/crossoverJie/cim
+https://github.com/processone/ejabberd
+https://github.com/fritzy/SleekXMPP
+https://github.com/jiangzehui/xmpp
+https://github.com/chat-sdk/chat-sdk-android
+https://github.com/siacs/Conversations
+https://github.com/apache/incubator-rocketmq
+https://github.com/GitLqr/LQRWeChat
+https://github.com/igniterealtime/Smack
+https://github.com/firebase/firechat
+https://github.com/acani/Chats
+https://github.com/RocketChat/Rocket.Chat slack
+   https://github.com/mattermost/mattermost-server
+https://www.oschina.net/p/talent-aio
+https://github.com/jitsi/jitsi
+https://github.com/mogujie/TeamTalk
+https://github.com/Pirngruber/AndroidIM
+https://github.com/priologic/easyrtc
+https://github.com/delight-im/Faceless
+https://github.com/zulip/zulip group chat
+https://github.com/sdelements/lets-chat
+https://github.com/dennybritz/chatbot-retrieval/
+https://github.com/gunthercox/ChatterBot
+https://github.com/warmheartli/ChatBotCourse
+https://github.com/qhduan/Seq2Seq_Chatbot_QA
+https://github.com/Conchylicultor/DeepQA
+https://github.com/akaxincom/openzaly
+
+## face ##
+https://github.com/ageitgey/face_recognition
+
+##chatbot##
+https://github.com/alfredfrancis/ai-chatbot-framework
+https://github.com/RasaHQ/rasa_nlu
+https://github.com/jinfagang/weibo_terminater
+sentence embedding
+sentiment analysis
+q/a, scenario, statement, semantic graph, general
+https://github.com/facebookresearch/DrQA
+https://github.com/white127/insuranceQA-cnn-lstm
+http://zake7749.github.io/2016/12/17/how-to-develop-chatbot/
+https://github.com/llSourcell/tensorflow_chatbot
+SemgrexPattern pattern = SemgrexPattern.compile("{$}=root >/.subj(pass)?/ {}=subject >/.obj/ {}=object");
+SemgrexMatcher matcher = pattern.matcher(new Sentence("A cat is sitting on the table").dependencyGraph());
+while (matcher.find()) {
+  IndexedWord root = matcher.getNode("root");
+  IndexedWord subject = matcher.getNode("subject");
+  IndexedWord object = matcher.getNode("object");
+  System.err.println(root.word() + "(" + subject.word() + ", " + object.word());
+}
+
+##blog##
+https://github.com/b3log/solo
+https://github.com/liangliangyy/DjangoBlog
+https://github.com/typecho/typecho
+https://hexo.io/
+
+##customer service##
+https://github.com/laubrence/minchat
+
+##forum##
+https://github.com/rafalp/Misago
+https://github.com/vicalloy/LBForum
+https://github.com/shiyanhui/Young
+
+##stock trading##
+https://github.com/1060680253/ikvStockChart
+https://wallstreetcn.com/articles/312283
+https://github.com/deependersingla/deep_trader
+https://github.com/maihde/quant
+https://github.com/ricequant/rqalpha
+https://github.com/elena-sharova/HiddenMarkovModel
+tushare
+
+##algorithmic trading##
+https://github.com/quantopian/zipline
+https://github.com/vnpy/vnpy
+https://github.com/waditu/tushare 
+
+##tools##
+https://github.com/airbnb/lottie-android
+
+##client/server##
+https://github.com/pierre1024/gutenberg
+https://github.com/mrniko/netty-socketio-demo
+https://github.com/zhoumengkang/netty-restful-server
+https://github.com/SilenceDut/nbaplus-server
+https://github.com/paicha/gxgk-wechat-server
+http://www.cnblogs.com/Edifier-7/p/4994382.html
+https://github.com/wingjay/jianshi
+https://github.com/andreagrandi/drf-tutorial
+
+##finance##
+https://github.com/robotlife/TongBanJie
+https://github.com/byoutline/kickmaterial
+https://github.com/AndroidJiang/StockChart
+https://github.com/decaywood/XueQiuSuperSpider.git  统计一阳穿三线个股
+http://www.jianshu.com/p/0363bc4fdad4
+
+##news##
+https://github.com/YiuChoi/MicroReader
+https://github.com/DadChen/DemoTuicool
+https://github.com/jaydenxiao2016/AndroidFire news
+https://github.com/codeestX/GeekNews
+https://github.com/oubowu/OuNews.git
+https://github.com/tigerguixh/QuickNews
+https://github.com/liuling07/SimpleNews
+https://github.com/Rano1/TopNews
+https://github.com/SilenceDut/nbaplus-server
+https://github.com/chentao0707/SimplifyReader
+https://github.com/youlookwhat/CloudReader
+
+##image gallery##
+http://grasshopperpebbles.com/django-python/creating-a-photo-gallery-with-django-and-jquery/2/
+http://stackoverflow.com/questions/4730161/django-using-radio-select-box-on-model-formsets
+https://github.com/mikewolfli/gallery
+http://stackoverflow.com/questions/37714486/bootstrap-select-image-from-modal
+
+##naming##
+https://github.com/lancer07/baby
+https://github.com/TimeMagazine/babynames
+
+##architecture##
+http://blog.jobbole.com/98633/
+
+http://www.tuicool.com/articles/A3MJbir
+https://github.com/felix-d/Django-Oauth-Toolkit-Python-Social-Auth-Integration
+http://news.sohu.com/20161015/n470353462.shtml
+https://community.wd.com/t/clean-os-debian-openmediavault-and-other-firmwares/93714
+ATM -> cellphone/router
+https://github.com/hanzhanggit/StackGAN
+https://github.com/SwiftyWang/FingerColoring-Android
+http://jnussl.3322.org:82/blog/?post=33
+http://www.emlog.net/
+https://github.com/kalliope-project/kalliope
+https://github.com/dmotz/thing-translator
+
+https://github.com/home-assistant/home-assistant
+https://github.com/80945540/LCRapidDevelop
+https://github.com/redecentralize/alternative-internet
+https://github.com/explosion/spaCy
+https://github.com/luzhijun/weiboSA
+https://github.com/alexjc/neural-doodle
+https://github.com/zcash/zcash
+https://github.com/Evolving-AI-Lab/synthesizing
+http://www.evolvingai.org/synthesizing
+https://github.com/leereilly/games
+https://github.com/RyanZotti/Self-Driving-Car
+https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System
+https://github.com/engineerapart/TheRemoteFreelancer
+https://images.webofknowledge.com/WOKRS55B6/help/zh_CN/WOS/contents.html
+http://www.jeremydjacksonphd.com/quantitative-finance-resources/
+https://github.com/littlecodersh/ItChat
+https://github.com/ibab/tensorflow-wavenet
+https://github.com/softwaredownload/openwrt-fanqiang/blob/master/SUMMARY.md
+https://github.com/ayoungprogrammer/nlquery
+https://github.com/dilicode/LetsChat
+hthttps://github.com/discourse/discourse chat room/forum/mailing list
+https://github.com/karpathy/neuraltalk
+http://www.a5.net/forum-266-1.html
+http://www.i-vpn.net/guide/
+https://github.com/posativ/isso  disqus like
+https://github.com/kontalk
+https://github.com/trending?l=java
+https://github.com/k9mail/k-9
+http://1000projects.org/projects/android-projects
+tps://github.com/googlecartographer/cartographer
+http://qyxy.baic.gov.cn/
+https://github.com/getredash/redash
+https://github.com/kendricktan/suiron
+http://www.wildml.com/2016/10/learning-reinforcement-learning/
+http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+https://github.com/anfederico/Waldo
+https://github.com/vnpy/vnpy
+https://github.com/zhoubowen-sky/LingDong2.0
+https://github.com/HotBitmapGG/OhMyBiliBili
+https://github.com/salRoid/Filmy
+http://www.leiphone.com/news/201608/lI8S89q5K8tyiwZN.html
+http://synchuman.baijia.baidu.com/article/507397
+https://github.com/facebookresearch/multipathnet
+https://github.com/PureDark/H-Viewer
+https://github.com/rubensousa/ViewPagerCards
+https://github.com/cmusatyalab/openface
+https://github.com/HoraApps/LeafPic
+https://github.com/asciimoo/searx
+https://github.com/jisaacso/DeepHeart
+https://github.com/b3log/xiaov
+https://github.com/lubeast/PullToRefresh
+https://github.com/xiaohaibin/OpenEyes
+https://github.com/deependersingla/deep_trader.git
+https://github.com/saymagic/Swordfish
+https://github.com/akullpp/awesome-java
+https://github.com/onurakpolat/awesome-analytics
+http://www.leiphone.com/news/201606/QZcaSfFZaed2YzWK.html
+http://www.gooseeker.com
+http://gsxt.saic.gov.cn/
+https://github.com/scrapy/scrapy
+https://kodi.tv/download/
+https://github.com/jtoy/awesome-tensorflow
+http://www.chatterbotcollection.com/
+http://www.leiphone.com/news/201605/zZqsZiVpcBBPqcGG.html
+https://github.com/soliury/noder-react-native
+http://36kr.com/p/5046838.html
+http://36kr.com/p/5046819.html
+https://github.com/bumptech/glide.git
+https://github.com/trailbehind/DeepOSM
+http://www.leiphone.com/news/201605/oTjT1QHYNgeVlnRI.html
+https://github.com/chassing/linux-sysadmin-interview-questions
+https://wiki.microduino.cc/index.php/%E6%99%BA%E8%83%BD%E5%9E%83%E5%9C%BE%E6%A1%B6/zh
+https://github.com/kakajika/SwipeAwayDialog.git
+01.org
+https://github.com/pili-engineering/PLDroidPlayer
+https://github.com/dibakarece/DMPlayer.git
+http://36kr.com/p/5045796.html
+https://github.com/SmileXie/zhihu_crawler
+https://github.com/salamer/Zhihu_Crawler.git
+http://tech.firstpost.com/photos/top-40-30-android-apps-2014-haptik-frontback-244297.html
+
+https://github.com/jisungk/deepjazz.git
+https://github.com/piiswrong/deep3d
+https://github.com/yenchenlin1994/DeepLearningFlappyBird
+https://github.com/jianliaoim/talk-os.git
+https://github.com/owocki/pytrader.git
+https://github.com/shidenggui/easytrader
+http://www.licai.com/yuedu/201602-230787.html
+
+aa.1 https://github.com/fdansv/marginotes
+aa.2 https://github.com/maoruibin/TranslateApp.git
+
+https://github.com/ascribe/image-match
+https://github.com/xtuhcy/gecco
+https://github.com/iSoron/uhabits.git
+https://github.com/cardmaster/OpenELEC.tv
+https://github.com/Jeffmen/Git.NB.git
+https://github.com/facebook/fresco
+https://github.com/square/retrofit
+https://blogs.technet.microsoft.com/machinelearning/2014/11/18/rapid-progress-in-automatic-image-captioning/
+http://www.kuaifawu.com/
+https://github.com/jcjohnson/neural-style
+http://www.leiphone.com/news/201602/cn4vRZgSQonmyFfC.html
+http://www.leiphone.com/news/201602/IA9THsvo3Xs5HvL4.html
+https://github.com/Urinx/WeixinBot
+http://beijing.11467.com/
+http://qyxy.baic.gov.cn/
+www.a5.net
+https://github.com/xcc3641/SeeWeather
+https://github.com/HujiangTechnology/RestVolley
+https://github.com/danielquinn/paperless
+http://36kr.com/p/5042690.html
+http://36kr.com/p/5043331.html
+https://github.com/ApmeM/android-flowlayout.git
+https://github.com/yezhidong/Memo.git
+http://pan.baidu.com/s/1jGV8BjS
+https://github.com/hitherejoe/LeanbackCards
+https://github.com/misakuo/3dTagCloudAndroid
+https://github.com/NielsMasdorp/Speculum-Android
+https://github.com/bravekingzhang/yours
+https://github.com/DxTT/coolMenu
+https://github.com/googlesamples/android-UniversalMusicPlayer.git
+https://github.com/naman14/Timber
+https://github.com/linroid/Sky31Radio
+https://github.com/Nightonke/CoCoin
+www.instructables.com/id/Poor-Mans-3D-Printer/
+www.instructables.com/id/Complete-newbie-step-by-step-3D-printer-with-all-p/
+https://github.com/florent37/ViewAnimator.git
+https://github.com/kexanie/MathView
+https://github.com/SilenceDut/nbaplus-server
+https://github.com/frogermcs/LikeAnimation
+https://github.com/hanks-zyh/HTextView
+https://github.com/cundong/SmartAppUpdates
+https://github.com/FreeCodeCamp/FreeCodeCamp
+https://github.com/alamkanak/Android-Week-View.git
+《Thing Explainer: Complicated Stuff in Simple Words》（事物的详解：化繁为简）。作者：兰达尔·门罗（Randall Munroe）
+门罗是流行漫画XKCD的作者。盖茨认为，这本书能很好地满足人们的好奇心。这本书试图用1000个常用英文单词和标准的英语语法来解释一切事物，例如智能手机和美国宪法。盖茨表示，如果不能化繁为简地解释这些事物，那么就不算真正的了解。
+https://github.com/michelelacorte/SwipeableCard
+en.wikipedia.org/wiki/Google_Cardboard
+https://github.com/hitherejoe/animate
+https://github.com/jayrambhia/CropperNoCropper
+https://github.com/MarkoMilos/Paginate
+https://github.com/jingle1267/android-utils
+https://github.com/liangzhitao/MessageSend
+https://github.com/sahildave/Search-View-Layout
+https://github.com/Tibolte/AgendaCalendarView
+http://next.36kr.com/posts/collections?source=nextad
+https://github.com/Androguide/cardsui-for-android
+https://github.com/Animatious/awesome-animation
+https://github.com/GadgetCheck/TinderView
+https://github.com/gabrielemariotti/cardslib
+https://github.com/posativ/isso
+http://tech.qq.com/a/20151026/020523.htm#p=86
+http://tech.qq.com/a/20151027/010502.htm#p=1
+http://vurb.com/
+http://www.developershome.com/sms/
+github.com/bmob
+https://github.com/antwankakki/FabricView.git
+http://www.crystalradio.cn/thread-239272-1-1.html
+https://github.com/hongyangAndroid/ChangeSkin
+https://github.com/tyrantgit/ExplosionField
+https://github.com/gpfduoduo/AnyShareOfAndroid
+https://github.com/nemoTyrant/manong
+https://gigrove.com/home-ph/?ref=producthunt
+https://github.com/Q42/AndroidScrollingImageView.git
+https://github.com/drakeet/Seashell-app.git
+https://github.com/drakeet/Meizhi
+https://github.com/drakeet/FingerTransparentView.git
+https://github.com/code-mc/material-icon-lib.git
+https://github.com/danysantiago/NodeJS-Android-Photo-Upload
+http://www.learn2crack.com/2014/08/android-upload-image-node-js-server.html/2
+https://github.com/bboyfeiyu/android-volley/tree/multi
+http://blog.csdn.net/geofferysun/article/details/42835669
+https://github.com/hinson0/task-board
+https://github.com/soliury/noder-react-native
+https://github.com/yazeed44/MultiImagePicker
+https://github.com/IFTTT/FastttCamera
+https://github.com/IFTTT/jot
+https://github.com/ZhongTaoTian/WNXHuntForCity
+https://github.com/78/ssbc
+https://github.com/DrKLO/Telegram
+https://github.com/Skykai521/StickerCamera.git
+https://github.com/sangmingming/StickerView
+https://github.com/madhums/node-express-mongoose-demo
+https://github.com/callmewhy/CNodeJS-iOS
+https://github.com/iwhys/CNode-android
+https://github.com/Imaginea/matisse
+https://github.com/rauchg/chat-example
+http://blog.fens.me/nodejs-socketio-chat/
+https://github.com/ryankiros/skip-thoughts
+https://github.com/donnemartin/interactive-coding-challenges
+https://github.com/lyfeyaj/awesome-resources
+https://github.com/vinta/awesome-python
+https://github.com/XuHaixiao/shop72hour
+https://github.com/ffttpp/website-lankaola
+worktile.com
+https://github.com/stephenmcd/cartridge
+https://github.com/divio/django-shop
+https://github.com/RocketChat/Rocket.Chat
+https://github.com/kontalk
+https://github.com/rizzoma/rizzoma
+https://github.com/PhilJay/MPAndroidChart
+https://github.com/tyorikan/voice-recording-visualizer
+https://github.com/kilimchoi/engineering-blogs
+https://github.com/jlevy/the-art-of-command-line
+https://github.com/taigaio/taiga-back
+https://github.com/cjbarber/ToolsOfTheTrade
+https://github.com/cjbarber/hipchat-alternatives
+http://pyparsing.wikispaces.com/
+https://github.com/bamos/conference-tracker.git
+https://github.com/OpenBazaar/OpenBazaar
+https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB.git
+https://github.com/mit-nlp/MITIE
+https://github.com/knowitall/openie
+https://github.com/theDazzler/droidicon
+https://github.com/lzyzsd/androidcn.org
+http://www.52nlp.cn/%E4%B8%AD%E8%8B%B1%E6%96%87%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E8%AF%AD%E6%96%99%E4%B8%8A%E7%9A%84word2vec%E5%AE%9E%E9%AA%8C
+https://github.com/libgdx/libgdx
+word2vec
+https://github.com/machinalis/iepy
+http://tech.qq.com/a/20150429/007596.htm
+http://www.androiddevtools.cn/
+https://github.com/geftimov/android-player
+https://github.com/achromaticmetaphor/agram
+https://github.com/tube42/candymem
+https://github.com/mwaskom/seaborn
+https://github.com/opsschool/curriculum
+https://github.com/1jingdian/1jingdian
+https://syncevolution.org/
+https://github.com/01org/webapps-flashcards
+crosswords
+https://github.com/hankcs/HanLP
+https://github.com/jimmykuu/gopher
+https://github.com/cmu440
+https://github.com/guardianproject/
+https://f-droid.org
+https://github.com/tylingsoft/markdown-plus
+http://tsufee.fi/
+https://www.worldpackers.com/
+https://github.com/waylife/RedEnvelopeAssistant
+https://bandwagonhost.com/
+http://www.producthunt.com/
+http://frontapp.com
+https://github.com/joyoyao/superCleanMaster
+http://www.colatris.com/
+https://github.com/47deg/android-swipelistview
+https://github.com/bauerca/drag-sort-listview
+https://github.com/DenisCarriere/geocoder
+http://blog.csdn.net/wangjinyu501/article/category/1157270
+https://github.com/antiboredom/audiogrep
+https://github.com/antiboredom/videogrep
+https://github.com/jbjorne/TEES
+https://github.com/cesards/AndroidElementals
+https://github.com/chute/photo-picker-plus-ios
+https://github.com/AizazAZ/Android-Ultra-Photo-Selector
+https://github.com/lepture/june
+http://code-tech.diandian.com/post/2014-06-29/40062113255
+https://github.com/3n1b-com/3n1b.com
+https://github.com/encorehu/django-v2ex 
+http://segmentfault.com/q/1010000000145685
+https://github.com/Rabbit52/post_bar
+http://superuser.com/questions/601198/how-can-i-automatically-convert-all-source-code-files-in-a-folder-recursively
+http://pygments.org/
+http://htk.eng.cam.ac.uk/
+https://github.com/livid/v2ex
+http://www.kelexueyuan.com/
+https://github.com/aporter/coursera-android
+https://github.com/JamesBrofos/Python-Financial-Tools
+https://github.com/orhanobut/wasp.git
+http://www.amobbs.com
+http://www.equivio.com/
+http://user.qzone.qq.com/3916635/blog/1421806052
+https://github.com/odoo/odoo
+http://www.akadia.com/services/pppoe_iptables.html
+http://www.h3c.com.cn/MiniSite/Technology_Circle/Technology_Column/ICG/ICG_Technology/
+https://github.com/tmolteno/SympyTeX/
+https://github.com/zurb/ink
+https://github.com/sympy/sympy
+https://github.com/ShangChuanliang/DailyCost
+https://github.com/NikolaiT/GoogleScraper
+http://www.baidufe.com/slide
+https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
+http://www.tennfy.com/2083.html
+https://github.com/trending?l=python
+https://github.com/whtsky/WeRoBot
+https://github.com/shadowsocks/shadowsocks-android
+https://github.com/The-Compiler/qutebrowser
+https://github.com/knsv/mermaid
+http://www.pgyer.com/
+https://github.com/hzlzh/AlfredWorkflow.com
+http://stackoverflow.com/questions/4406481/financial-technical-analysis-in-python
+traffic flow detection
+http://blog.chinaunix.net/uid/15063109/cid-200142-list-2.html
+https://github.com/JelteF/PyLaTeX
+http://www.xiaoz.me/archives/2743
+https://github.com/github/hubot
+https://github.com/agiliq
+https://github.com/jekyll/jekyll/wiki/sites
+http://yaizabailen.com/django-tutorial-creating-the-back-end-for-the-restaurant-picker-app/
+https://github.com/ImaginaryLandscape
+https://github.com/martine/rietveld.git
+https://github.com/bradfitz/camlistore
+https://github.com/TheRealKerni/HockeyKit
+https://github.com/miso-belica/sumy
+https://github.com/ajaxorg/ace
+https://github.com/haiwen
+https://github.com/redsolution/xabber-android
+https://github.com/vicalloy/timeline-site
+http://simple-is-better.com/news/889
+https://github.com/DF1E/SimpleExplorer
+https://github.com/samwillis/pagedown-bootstrap
+http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
+http://en.wikipedia.org/wiki/Acoustic_fingerprint
+http://stackoverflow.com/questions/3175774/perceptual-similarity-between-two-audio-sequences
+http://cmusphinx.sourceforge.net/wiki/faq  pronunciation evaluation
+https://github.com/matt-allen/repay-android
+https://github.com/mhidaka/EventApp
+opengrok.github.io/OpenGrok
+http://www.wikihow.com/Create-a-Secure-Login-Script-in-PHP-and-MySQL
+https://github.com/vitorfs/bootcamp  --> travel code/friend square
+https://github.com/TooTallNate
+http://nobugs.sinaapp.com/?p=1053
+http://aws.amazon.com/cn/free/
+Music http://t.cn/zRHBoGo  pswd: 2bpd
+http://www.androidhive.info/2014/06/android-streaming-live-camera-video-to-web-page/
+http://sourceforge.net/projects/freeplane/?source=frontpage&position=1
+https://github.com/openpne/OpenPNE3
+http://pan.baidu.com/share/init?shareid=1187679154&uk=843468879&third=15 rsss
+http://michal.karzynski.pl/blog/2013/06/09/django-nginx-gunicorn-virtualenv-supervisor/
+https://github.com/peterhudec/authomatic
+https://github.com/toastdriven/django-haystack/tree/master
+https://github.com/danfairs/django-lazysignup
+http://pythonhackers.com/open-source/
+http://developer.samsung.com/android
+http://www.cnblogs.com/chang/archive/2013/01/10/2855273.html
+http://blog.csdn.net/wenxuansoft/article/details/8170714
+http://blog.csdn.net/shanliangliuxing/article/category/1134687
+https://netguru.co/blog/posts/most-loved-ruby-on-rails-open-source-projects
+https://github.com/bitstars/droidar
+https://github.com/elasticsearch/elasticsearch
+http://en.wikipedia.org/wiki/Category:Mathematical_finance
+https://github.com/samuelclay/NewsBlur
+https://github.com/rtfd/readthedocs.org
+https://github.com/codelucas/newspaper
+https://github.com/gleitz/howdoi
+
+
+[android container]
+1. name space
+    -o bind
+    chroot
+    chdir
+
+2. seccomp
+
+[post data]
+curl -X POST -d {‘url’:’http://Joe.com’} http://lotest/update --header "Content-Type:application/text"
+
+[spring web.xml]
+filter: filter http request
+context: handle context
+servlet: handle specific request
+listener: init database etc.
+    -- HttpSessionListener
+    -- ContextLoaderListener
+
+[spring and axis]
+Axis2 and Spring integration takes place when Spring supplies one of its pre-loaded beans to the Axis2 Message Receiver defined in the AAR services.xml. Axis2 typically uses reflection to instantiate the ServiceClass defined in the services.xml used by the Message Receiver. Alternatively, you can define a ServiceObjectSupplier that will supply the Object.
+
+[baidu/shengda]
+lambda j*7*
+
+[]
+ wget "http://www.baidu.com/s?ie=utf-8&mod=0&isid=BC10F0D138197192&pstg=0&wd=bach%20site%3Apan.baidu.com"
+
+[in jni, set java variable]
+
+gFieldIds.mAcOnline = env->GetFieldID(clazz, "mAcOnline", "Z");
+
+[adb]
+adb dumpsys | grep "DUMP OF SERVICE"
+adb dumpsys SurfaceFlinger 
+adb dumpsys alarm
+adb dumpsys connectivity
+adb dumpsys activity 
+adb dumpsys meminfo 
+adb dumpsys window 
+adb dumpsys gfxinfo 
+adb reboot bootloader
+fastboot flash system system.img
+adb remount (to write mode)
+
+[Ctrl^R]
+Repeat to get the one before current one.
+
+[use relative path in project.properties]
+android.library.reference.1=../../Android/android-sdk/extras/google/google_play_services/libproject/google-play-services_lib/
+
+
+[create project]
+
+android create project -a TestActivity -p TestGradle -t 24 -k com.kopr.test -g -v 0.11.+
+
+android create project \
+--target 26 \
+--name MyAndroidApp \
+--path ./MyAndroidAppProject \
+--activity TestActivity \
+--package com.kopr.test
+
+default debug.keystore
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore debug.keystore ./bin/WXEntryActivity-debug.apk androiddebugkey 
+
+Enter KeyPhrase: android
+
+jarsigner -verbose -keystore debug.keystore -storepass android -keypass android PATH/TO/YOUR_UNSIGNED_PROJECT.apk androiddebugkey
+
+[touch idc]
+/system/usr/idc/
+
+[MTBF - stability test]
+Mean Time Between Failure
+
+[mobile data stats]
+/sys/class/net/rmnet0
+
+[To add com.android.exchange Type]
+Email/.../eas_authenticator.xml
+
+tcpdump -i any -s 0 -vvv -w /sdcard/mms.pcap
+
+grep -rl 'windows' ./ | xargs sed -i 's/windows/linux/g'
+
+Alfresco: Learn about the open source content management software Alfresco. 
+Josso: Learn more about the open source Java Single Sign software. 
+amanda: Learn more about the open source backup and recovery software. 
+
+https://github.com/masenf/GraphDroid2012
+http://code.google.com/p/nativeclient/
+http://dev.chromium.org/developers/design-documents/sandbox/Sandbox-FAQ
+
+[extract tag in .xml]
+ctags -R .
+~/.ctags
+  --langdef=androidxml
+  --langmap=androidxml:.xml
+  --regex-androidxml=/android:id="@\+id\/([^"]*)"/\1/d,id/
+  --regex-androidxml=/name[ \t]*=[ \t]*"([^"]*)"/\1/d,resource/
+
+ndk-gdb --start --force --verbose
+
+[debug animation]
+
+egrep "WindowManager|am_|Loading an|applyAnim|nextApp|WindowAnim" aplog
+
+[performance analysis]
+
+http://blog.csdn.net/oujunli/article/details/8138290
+
+HFP(Hands-free Profile)耳機模式：
+
+讓藍牙設備可以控制電話，如接聽、掛斷、拒接、語音撥號等，拒接、語音撥號要視藍牙耳機及電話是否支援。
+
+HSP（Handset Profile）耳機模式
+
+用於支援藍牙耳機與行動電話之間使用
+
+HID() 人機周邊設備設定檔
+
+HID 設定檔定義了 Bluetooth HID（如鍵盤、指向設備、遊戲裝置及遠端監視設備）使用的協定、程式及功能
+
+撥號網路設定檔 (DUN)
+
+DUN 提供了通過 Bluetooth 無線技術接入 Internet 和其它撥號服務的標準。最常見的情況是在手機上撥號，從膝上型電腦以無線方式接入 Internet。
+
+個人局域網設定檔 (PAN)
+
+PAN 描述了兩個或更多個 Bluetooth 設備如何構成一個即時網路，以及如何使用同一機制通過網路接入點接入遠端網路。設定檔角色包括網路接入點、組即時網路及個人局域網使用者。
+
+SDP（ Service Discovery Protocol ）服務發現協定
+
+提供應用程式在藍牙環境中發現哪個服務可用和決定那些可用服務的特徵。
+
+GAP(Generic Access Profile)通用訪問應用
+
+一般訪問應用規範定義了藍牙設備如何發現和建立與其他設備的安全（或不安全）連接。它處理一些一般模式的業務（如詢問、命名和搜索）和一些安全性問題（如擔保），同時還處理一些有關連接的業務（如鏈路建立、通道和連接建立）。GAP規定的是一些一般性的運行任務。因此，它具有強制性，並作為所有其它藍牙應用規範的基礎。
+
+192.168.10.116
+192.168.10.125
+
+18600988740 PUK 65391808 46395305
+
+LIUYING2 jn7yftg! !2013ftg
+hellow sxry2012
+
+[git command]
+git commit -m "test" -e
+git rebase -i HEAD~3
+git rebase commitid ; git commit --amend (to keep change id); git push XXX XXXX
+git reset --soft HEAD~4 && git commit
+git checkout -b localtest origin/rtest
+git push origin localtest:rtest
+git push origin mar27:refs/for/mtk/austin
+git format-patch -10 HEAD
+.gitignore
+
+air keyboard
+
+project life: ingradient --> style
+floating bubble --> pictures
+
+ device under test (DUT)
+
+%s/[\x00-\x1f\x80-\xff]/ /g
+
+out of milk: abc@gmail.com hahhah
+
+[gmail]
+sepro07 L*
+lambdaoftheta L*
+hellnogood    s*
+
+SELECT MONTH(`time`) AS month, SUM(price) AS price
+FROM your_table
+GROUP BY MONTH(`time`)
+
+ select _id, strftime("%Y-%m", donetime), sum(price) from receipt group by strftime("%Y-%m", donetime);
+
+[apt]
+/etc/apt/sources.list
+apt-get install pkg=version
+cnrail.intel.com
+
+g++ edge.cpp -I /usr/local/include/opencv -L /usr/local/lib -lm -lopencv_core -lopencv_highgui
+
+g++ brief_match_test.cpp -I /usr/local/include/opencv -L /usr/local/lib -lm -lopencv_core -lopencv_highgui -lopencv_features2d -lopencv_legacy
+
+export LD_LIBRARY_PATH=
+
+: * 矩阵究竟是什么东西？
+矩阵就是线性映射在给定基下的表示。
+
+:  * 矩阵的乘法规则究竟为什么这样规定？
+矩阵乘法就是线性映射的复合。
+
+:  * 行列式究竟是一个什么东西？
+行列式就是线性变换在体积形式上的作用。
+
+:  * 矩阵为什么可以分块计算？
+因为线性空间可以分解为子空间的直和。
+
+:  * 对于矩阵转置运算AT，有(AB)T = BTAT，对于矩阵求逆运算A-1，有
+: (AB)-1=B-1A-1。两个看上去完全没有什么关系的运算，为什么有着类似的性质？
+这种性质就是反变函子的性质，转置、求逆都是反变函子的特殊情况。
+
+:  * 为什么说P-1AP得到的矩阵与A矩阵“相似”？这里的“相似”是什么意思？
+线性变换是同一个，基换了而已。
+
+:  * 特征值和特征向量的本质是什么？
+特征向量即线性变换的一维不变子空间的基，特征值就是它在这个子空间上的限制。
+
+
+Longest common substring problem
+
+image similarity:
+
+dct --> hashcode
+hashcode --> k-shingles
+
+similarity: infolab.stanford.edu/~ullman/mmds/ch3a.pdf
+
+1. cosine distance
+2. Jaccard
+3. k-d tree: people.cs.ubs.ca/~mariusm/index.php/FLANN/FLANN
+4. locality-sensitvie-hashing approach
+5. clustering approach: k-means
+6. collaborative-fitering approach: mahout
+
+good.com  !jn7yftg
+zzyy0011@yeah.net way2go
+
+[vim]
+% does indeed mean "the current file name"
+cd %:h
+:.,+21g/foo/d means "delete any lines containing the string "foo" from the current one through the next 21 lines" while :.,$v/bar/d means "from here to the end of the file, delete any lines which DON'T contain the string "bar." (g --> grep)
+tabe fn/tabn/tabp
+q:
+browse old/oldfiles
+'0 '1 ...
+
+[facebook]
+http://stackoverflow.com/questions/8231877/facebook-access-token-for-pages
+http://stackoverflow.com/questions/18559345/news-feed-from-facebook-wall-to-a-android-app
+openActiveSessionWithAccessToken()
+first check to see if Session.getActiveSession is null (in both service and MainActivity), and then create a new active session if it is
+
+[android developer]
+http://androiddoc.qiniudn.com/preview/api-overview.html
+http://android.zedcn.com/reference/android/bluetooth/le/BluetoothLeAdvertiser.html
+
+[]
+avrcp/a2dp/map api
+facebook api
+bluetooth gaia 
+
+[lxc]
+lxc-create -t ubuntu -n myhost (default: ubuntu/ubuntu)
+lxc-start -n myhost
+lxc-console -n myhost
+/var/lib/lxc/myhost
+<ctl-a q> 
+
+lxc-clone
+lxc-backup
+lxc-restore
+
+[mongodb]
+
+mongo
+use db_name
+db.<collection>.find()
+
+[android cmd]
+adb shell am start -n com.package.name/com.package.name.ActivityName
+wifi connect debug[wifi addr 192.168.8.149]:
+adb tcpip 5555
+adb connect 192.168.8.149
+adb shell screenrecord
+sysdump
+
+[android broadcast framework]
+??ActivityManagerService.registerReceiver()
+ActivityManagerService.collectReceiverComponents()
+    PackageManagerService.queryIntentReceivers()
+ActivityManagerService.broadcastIntentLocked()
+
+[android bind service]
+ActivityManagerService.bindService()
+
+[android install package]
+PackageManagerService.installPackageLI()
+    PackageParser.parsePackage()
+    PackageManagerService.installNewPackageLI()
+        PackageManagerService.scanPackageLI()
+            PMS.createDataDirsLI()
+            PMS.copyNativeLibrariesForInternalApp()
+            ServiceIntentResolver.add()
+            ProviderIntentResolver.add()
+            ActivityIntentResolver.add(receiver)
+            ActivityIntentResolver.add(activity)
+            PermissionGroup.put()
+
+[android dump layer]
+   Layer::onDraw()
+{
+
+....
+#if defined(LAYER_DUMP_BMP)
+    {
+        FILE* fp;
+        if(fp = fopen("/data/dump_bmp/d_test", "r"))
+        {
+            char filename[256];
+            extern void dump_bmp(const char* filename, const sp<GraphicBuffer>& buffer);
+            sprintf(filename, "/data/dump_bmp/fm%04d_lay%04d_F%04d.bmp", frame_count, layer_count,mActiveBuffer->format);
+            dump_bmp(filename, mActiveBuffer);
+            fclose(fp);
+        }
+        /*else
+        {
+            ALOGD("layer dump file d_test open fail");
+        }*/
+    }
+#endif/*LAYER_DUMP_BMP*/
+....
+}
+
+[android bind application]
+ActivityThread.handleBindApplication()
+     - ContextImpl
+     - http proxy
+     - loadClass
+     - Instrumentation
+     - mkdir
+     - installContentProviders
+
+
+[python]
+python setup.py install
+python bootstrap.py
+./bin/something
+
+[mysql]
+
+mysql -u username -p
+>show databases;
+>use test;
+>show tables;
+
+[android gallery save]
+SaveVideoFileUtils.java
+
+[android battery]
+/sys/class/power_supply/battery
+
+[android debug external/skia]
+SkDebugf()
+
+[android external/tinyalsa]
+tinymix
+tinyplay
+tinycap
+
+[android keyevent]
+
+InputDispatcher.notifyKey
+    InputManagerService.interceptKeyBeforeQueueing
+         PhoneWindowManager.interceptKeyBeforeQueueing
+    InputManagerService.dispatchUnhandledKey
+         PhoneWindowManager.dispatchUnhandledKey
+               ViewRootImpl.enqueueInputEvent
+               ViewRootImpl.doProcessInputEvents
+
+[android build]
+make clean-Gallery
+
+[build android gradle]
+$ mkdir ub-tools-idea133
+$ cd ub-tools-idea133
+$ repo init -u https://android.googlesource.com/platform/manifest -b ub-tools-idea133
+$ repo sync
+
+$ cd tools
+$ ./gradlew prepareRepo
+$ ./gradlew assembleDebug
+
+To test the plugin, you need to
+    export a environment variable named ANDROID_HOME and point it to your SDK
+    export a environment variable named ANDROID_NDK_HOME and point it to your NDK
+Finally run the following command
+$ ./gradlew check buildTest
+
+android create project -p AppPAKTGV -a Main -k com.example.apppaktgv -t android-19 -g -v 0.11.+
+{AppPlugType android 
+    ? remove local.properties
+    ? tool version 19.1.0 (check sdk path)
+    ? gradle build }
+
+[ubuntu upgrade]
+do-release-upgrade
+
+[]
+ wget "http://www.baidu.com/s?ie=utf-8&mod=0&isid=BC10F0D138197192&pstg=0&wd=bach%20site%3Apan.baidu.com"
+
+[in jni, set java variable]
+
+gFieldIds.mAcOnline = env->GetFieldID(clazz, "mAcOnline", "Z");
+
+[adb]
+http://mirrors.neusoft.edu.cn/android/repository/
+
+# Build Tools 23.0.1, 24.0.1, 25.0.1
+android update sdk --no-ui --all --filter build-tools-25.0.1,android-25,extra-android-m2repository
+android update sdk --no-ui --all --filter build-tools-24.0.1,android-24,extra-android-m2repository
+android update sdk --no-ui --all --filter build-tools-23.0.1,android-23,extra-android-m2repository
+# Alter the versions as required                      ↑               ↑
+
+# -u --no-ui  : Updates from command-line (does not display the GUI)
+# -a --all    : Includes all packages (such as obsolete and non-dependent ones.)
+# -t --filter : A filter that limits the update to the specified types of
+#               packages in the form of a comma-separated list of
+#               [platform, system-image, tool, platform-tool, doc, sample,
+#               source]. This also accepts the identifiers returned by
+#               'list sdk --extended'.
+
+# List version and description of other available SDKs and tools
+android list sdk --extended
+sdkmanager --list
+sdkmanager --licenses
+
+./sdkmanager "extras;m2repository;com;android;support;constraint;constraint-layout-solver;1.0.1"
+
+[Ctrl^R]
+Repeat to get the one before current one.
+
+[use relative path in project.properties]
+android.library.reference.1=../../Android/android-sdk/extras/google/google_play_services/libproject/google-play-services_lib/
+
+
+[create project]
+
+android create project -a TestActivity -p TestGradle -t 24 -k com.kopr.test -g -v 0.11.+
+
+android create project \
+--target 26 \
+--name MyAndroidApp \
+--path ./MyAndroidAppProject \
+--activity TestActivity \
+--package com.kopr.test
+
+default debug.keystore
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore debug.keystore ./bin/WXEntryActivity-debug.apk androiddebugkey 
+
+Enter KeyPhrase: android
+
+jarsigner -verbose -keystore debug.keystore -storepass android -keypass android PATH/TO/YOUR_UNSIGNED_PROJECT.apk androiddebugkey
+
+[]
+最近一些年，报纸电视媒体经常宣传某些基础件我们有突破，获得重大进展（例如轴承获得重大突破，不但解决了太行发动机的瓶颈问题，神舟飞船上天的轴承我们也能国产化），其实这些报道有误导公众嫌疑，所谓突破，一部分只是企业研发部门样品和大学实验室工艺原理突破，另外一部分是不惜代价的军品，例如用于神舟载人航天这类涉及国防军工的无法进口产品（军品级基础件根据瓦森纳协定，对我国禁运，例如P2级轴承）的项目，基本是无法大规模投入民用的，因为制造成本惊人。我们军品级的基础件就算是废品的质量，都超过最好的民品质量。  
+    
+1、高速、精密、重载轴承  
+　　  
+目前我国必须进口的轴承：  
+    
+2MW以上的风力发电机组轴承：工作寿命20年、可靠度>99%的増速器轴承和主轴轴承；  
+    
+长寿命、髙可靠性轿车轴承和重载卡车轴承：使用寿命25万公里以上，可靠度>99%的轿车轴承和使用寿命50万公里以上，可靠度>99%的重载卡车轴承；  
+    
+高速动车组轴承：时速200--300km,使用寿命200万公里，可靠度>99%的高速动车组轴承；  
+    
+大型薄板冷热连轧及涂镀层生产线轴承：精度P4级、P5级，工作寿命轧钢120万吨，可靠度99%轧机轴承；  
+    
+高速、高精数控机床轴承及电主轴：d n值2.5*l0^6mm. r/min,精度P4、P2级，轴承16000小时精度稳定使用，电主轴 2000小时精度稳定使用)等等。  
+    
+此外大型运输机轴承，重载直升机轴承，长寿命高可靠性汽车轴承及轴承单元，高速铁路列车轴承，重载铁路货车轴承，新型城市轨道交通轴承，大型施工机械轴承，高速度长寿命纺织设备轴承，超精密级医疗器械主轴轴承等等都需要进口。  
+    
+2、 超大型、高参数齿轮及传动装置  
+　　  
+目前下属齿轮必须进口：  
+    
+2MW以上风力发电机组増速器：功率>2MW、噪声<95db、机械效率>97%、寿命>20年的风电增速器；  
+    
+高速列车齿轮传动装置：列车时速>200km,功率18OOkw,输入扭矩350ON.m,输入转速2255?6000rpn.传动比>7的髙速列车齿轮；  
+    
+节能环保自动变速器：百公里综合油耗降低5%--10%,寿命30万公里的自动变速器，包括行星排、金属带、锥轮锥盘、电磁阀、TCU,变矩器等；  
+    
+舰船用大型齿轮传动装置：功率3MW--5MW、噪声<90db、转速>3000rpm的船用齿轮传动装置)等等。  
+    
+此外核电循环水泵齿轮箱，工程机械及矿山机械用液力变速器，大功率采煤机齿轮箱，掘进机齿轮传动装置，污水处理设备用高速齿轮箱等等也得进口。  
+    
+3、高压液压元件和大功率液力元件  
+    
+目前进口的包括：  
+    
+工程机械用高压液压元件：工作压力35MPa及以上高压柱塞泵/马达、液压电子控制器；  
+    
+高压液压阀：工作压力>31.5Mpa,流量>100L/min的髙压液压阀，含流量共享系统、负荷传感系统、总线控制先导系统；  
+    
+农机用静液压躯动装置（HST)：工作压力>25Mpa，排量18--45ml/r的农机用静液压驱动装置等等。  
+    
+此外工作压力31.5MPa及以上高频响电液伺服阀和比例阀，液力变矩器，数字液压泵，高转速大功率液力偶合器调速装置，农业机械用无级变速传动装置等等也得进口。  
+    
+4、高可靠性密封件  
+    
+轨道交通用气动元件：工作压力3--10bar,环境溫度-40--+80摄氏度的气缸、气动阀、气源处理元件，以及气管、接头等配套气动元件；      
+    
+大型风力发电关鍵密封件：7--10年不发生龟裂，在1 m/s速度、油脂涧滑状态下，运行寿命达7--10年，适用溫度范围为-45--+100摄氏度的大型风力发电密纣件；  
+    
+干气式机械密纣装置：工作压力20MPa及以上的干气式机械密纣装置等等。  
+    
+此外高参数透平压缩机机械密封，大型高温高压泵和核电站核二、三级泵用机械密封和静密封装置，大型工程机械液压油缸密封，大型盾构机密封，风电偏航变桨轴承密封等等也得进口。  
+    
+5、高速链传动系统  
+    
+汽车发动机正时链与自动变速箱的哈瓦高速齿形链：最高转速>6000转/分，寿命25万公里，抗拉载荷>14KN, 1200小时试验伸长 率<1%,硬度达到53HRC、硬度散差±0. 5HRC、清洁度<20mg/kg,可靠性>99. 9%的链条等等。  
+    
+此外无级变速箱专用无级变速链，高精度低噪声链轮，抗疲劳、耐磨损、耐腐蚀特异链等等也得进口。  
+    
+6、高可靠性联轴器、制动器、离合器  
+    
+包括大功率风力发电制动器，高性能柔性联轴器，隧道掘进机和采煤机用鼓形齿联轴器，电磁离合器和制动器，轨道交通制动器，高精度限矩安全联轴器等等。  
+    
+7、高强度紧固件  
+    
+疲劳寿命500万次以上汽车发动机紧固件: PPM<60,疲劳寿命备500万次的紧固件等等。  
+    
+此外目前部分风力发电设备大规格高强度紧固件，飞机及航天器专用铝镁合金紧固件，自锁类紧固件也得进口。  
+    
+8、高应力、高可靠性弹簧  
+    
+汽车和工程机械用高端悬架弹簧、气门弹簧和稳定杆:工作应力>1200MPa、疲劳寿命>100万次的气门弹簧、悬架弹簧和稳定杆等等。  
+    
+此外目前部分优质的高速列车用弹簧，气动、液压件弹簧也得进口。  
+    
+9、高密度、高强度粉末冶金零件  
+    
+此外目前部分优质高精度汽车粉末冶金零件，粉末冶金含油轴承，大型客机、高速列车、船舶制动用高性能粉末冶金摩擦材料及刹车片也得进口。  
+    
+10、大型、精密、高效、多功能模具  
+    
+主要是高档乘用车车身及汽车（超）高强钢板热成形模具，高速精密多工位级进冲压模具，高光无痕、叠层旋转大型塑料模具，超大规模集成电路引线框架及超大超薄LED大型塑料模具，多料多腔精密电子、医疗器械注塑模具，大型工程机械轮胎橡胶模具，轻金属高精压铸模等等部分优质的得进口。  
+
+[assemble]
+.text
+.global _start
+_start:
+    /* write */
+    mov $1, %rax    /* syscall number */
+    mov $1, %rdi    /* stdout */
+    mov $msg, %rsi  /* buffer */
+    mov $len, %rdx  /* buffer len */
+    syscall
+
+    /* exit */
+    mov $60, %rax   /* exit status */
+    mov $0, %rdi    /* syscall number */
+    syscall
+msg:
+    .ascii "hello\n"
+len = . - msg
+
+as -o hello.o hello.S
+ld -o hello.out hello.o
+./hello.out
+
+[]
+发起前
+1：先将图片预设为本地一个占位图片。（重要！很多错位情况在于复用了其他位置的图片缓存，而当前图片迟迟加载不出来，导致当前图片错位。所以解决之道是先用本地占位图片，快速刷新当前图片。等加载完毕之后，就可以替换掉占位图片了。）
+
+2：通过ImageView.setTag，把url记录在图片内部。
+
+3：把url放进一个请求队列，（这是避免图片很大，请求耗时很长，重复发起url请求）
+
+发起中
+1：如果请求队列存在url，则将老的url对应图片控件，替换为本次请求图片控件，返回
+
+发起后
+如果当前url和第一步ImageView.getTag一致，则用新的数据源更新图片。
+
+否则返回。
+
+[daemon]
+There are many fiddly things to take care of when becoming a well-behaved daemon process:
+
+prevent core dumps (many daemons run as root, and core dumps can contain sensitive information)
+behave correctly inside a chroot gaol
+set UID, GID, working directory, umask, and other process parameters appropriately for the use case
+relinquish elevated suid, sgid privileges
+close all open file descriptors, with exclusions depending on the use case
+behave correctly if started inside an already-detached context, such as init, inetd, etc.
+set up signal handlers for sensible daemon behaviour, but also with specific handlers determined by the use case
+redirect the standard streams stdin, stdout, stderr since a daemon process no longer has a controlling terminal
+handle a PID file as a cooperative advisory lock, which is a whole can of worms in itself with many contradictory but valid ways to behave
+allow proper cleanup when the process is terminated
+actually become a daemon process without leading to zombies
+
+[touch idc]
+/system/usr/idc/
+
+[cscope]
+cscope -q -R -b -i cscope.files
+cscope -d
+
+[javac]
+javac -cp ./postgresql-42.2.4.jar:. Hello.java
+java -cp ./postgresql-42.2.4.jar:. Hello
+
+DVM heap size:
+dalvik/vm/Init.cpp
+
+Synchronous Connection Oriented，SCO
+AsynchronousConnection Less，ACL
+
+对。但是至少得给原来的木器打磨一下把。覆盖上色用乳白色的水性漆加颜料，
+请问那个三层柜子调色用的颜料是用丙烯还是什么啊 ？
+举报顶(0) 踩(0) @TA 回复
+淘宝卖家写的是浓缩水性色浆。没写是什么材料，。这个一两滴就可以了
+
+矮穷丑 脏乱吵
+贪嗔痴 臭浑横
+
+Longest common substring problem
+
+image similarity: --> learn painting
+http://www.joytunes.com/simply-piano?ref=producthunt
+
+dct --> hashcode
+hashcode --> k-shingles
+
+similarity: infolab.stanford.edu/~ullman/mmds/ch3a.pdf
+
+1. cosine distance
+2. Jaccard
+3. k-d tree: people.cs.ubs.ca/~mariusm/index.php/FLANN/FLANN
+4. locality-sensitvie-hashing approach
+5. clustering approach: k-means
+6. collaborative-fitering approach: mahout
+
+
+
+CMCC: 18310951429
+good.com  !jn7yftg
+zzyy0011@yeah.net way2go
+randy luck randydrifter@163.com way2go facebook 13810310244
+wweepekall@126.com
+
+ZSZQ: 010-65336621
+Quake2016#
+
+weibo: LJ*
+email: LJ*
+jungle-2.4g Qu@ke2016#
+https://createpoint.qti.qualcomm.com/dashboard/index.gsp#account Linux123
+
+unionpay s**8(?s*2018?)
+Lao Zhang: 13901309824

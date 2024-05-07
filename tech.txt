@@ -1,0 +1,507 @@
+[light-weighted git server]
+* gogs
+* 103:~/Backup/ => git init --bare birdlake.git
+  local => git remote add myServer lying@192.168.0.103:/home/lying/Backup/birdlake.git
+        => git push myServer master
+
+
+[]
+HeyGen的服务至少接入了其他三个人工智能引擎[i]， ChatGPT-4负责翻译视频里的语音、然后用11labs的语音克隆提取的视频中说话者的嗓音特征，在新生成的视频中让说话者说出来，而wav2lip-2会对生成的新视频的人的唇部做口型同步。
+
+[]
+socketio/asyncio_server.py", line 493, in _trigger_event
+    ret = await self.handlers[namespace][event](*args)
+
+[python sanic celery example]
+https://www.jakehu.me/2022/python-sanic-celery/
+Flower 是基于 web 的监控和管理 Celery 的工具
+
+[]
+具体地，在训练循环中，优化器通过以下三个步骤进行优化：
+
+调用 optimizer.zero_grad() 重设模型参数的梯度。默认情况下梯度会进行累加，为了防止重复计算，在每个训练阶段开始前都需
+要清零梯度；
+通过 loss.backwards() 反向传播预测结果的损失，即计算损失对每一个参数的偏导；
+调用 optimizer.step() 根据梯度调整模型的参数。
+
+[gpt2 + flask + rabbitmq]
+https://lucidbeaming.com/blog/fine-tuning-a-gpt-2-language-model-and-generating-text-with-a-flask-web-app/
+
+[urllib3]
+pip install urllib3==1.26.6
+
+[sentencepiece __check_darwin]
+pip install sentencepiece==0.1.8
+
+[FastAPI为什么使用uvicorn]
+
+FastAPI 是一个现代化的高性能 Web 框架，它使用 Python 的异步编程特性来提高 Web 应用程序的性能。而 Uvicorn 则是一个基于 uvloop 和 httptools 实现的高性能 ASGI 服务器，可以实现异步处理 HTTP 请求。FastAPI 使用 Uvicorn 作为其默认的 Web 服务器，是因为 Uvicorn 是一个非常快速、可靠且易于使用的 ASGI 服务器，可以在处理大量并发连接时保持稳定和高效。此外，Uvicorn 还支持 WebSocket 和 HTTP/2 等新特性，符合 FastAPI 提倡的现代 Web 开发理念。因此，使用 Uvicorn 作为 FastAPI 的 Web 服务器是一个很好的选择。
+
+[Can't find model 'en_core_web_sm']
+pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
+
+[neo4j graph algorithms]
+6.1.中心度算法(Centralities)
+    PageRank(页面排名)
+    ArticleRank(文章排名)
+    Betweenness Centrality (中介中心度)
+    Closeness Centrality (接近中心度)
+    Harmonic Centrality(谐波中心度)
+
+6.2 社区检测算法(Community detection)
+    Louvain (鲁汶算法)
+    Label Propagation (标签传播)
+    Connected Components (连通组件)
+    [Strongly Connected Components (强连通组件)]((https://neo4j.com/docs/graph-algorithms/current/algorithms/strongly-connected-components/)
+    Triangle Counting / Clustering Coefficient (三角计数/聚类系数)
+
+6.3 路径搜索算法(Path finding)
+    Minimum Weight Spanning Tree (最小权重生成树)
+    Shortest Path (最短路径)
+    Single Source Shortest Path (单源最短路径)
+    All Pairs Shortest Path (全顶点对最短路径)
+    A*(A星)
+    Yen’s K-shortest Paths(Yen-K最短路径)
+    Random Walk (随机游走)
+
+6.4 相似性算法(Similarity)
+    Jaccard Similarity (Jaccard相似度)
+    Cosine Similarity (余弦相似度)
+    Pearson Similarity (Pearson相似度)
+    Euclidean Distance (欧氏距离)
+    Overlap Similarity (重叠相似度)
+
+6.5 链接预测(Link Prediction)
+    Adamic Adar(AA)
+    Common Neighbors(共同近邻)
+    Preferential Attachment(优先连接)
+    Resource Allocation(资源分配)
+    Same Community(共同社区)
+    Total Neighbors(近邻总数)
+
+[cmake]
+ PATH="/Applications/CMake.app/Contents/bin":"$PATH"
+
+[]
+
+华硕（ASUS）DUAL GeForce RTX4070-12G 电竞游戏专业独立显卡
+技嘉（GIGABYTE）猎鹰 GeForce RTX 4070显卡 EAGLE OC 12G 电竞游戏设计智能学习电脑独立显卡支持2K/4K
+
+华硕（ASUS） TUF-RTX3070TI-O8G-V2-GAMING 电竞特攻系列 游戏显卡 TUF-RTX3070TI-O8G-V2
+
+铭瑄（MAXSUN）MS-GeForce RTX3060 终结者 12G 电竞游戏设计智能学习电脑装机独立显卡
+   -- taking long time is okay because we don't need train model much often
+
+https://item.jd.com/100011516692.html
+华硕 （ASUS）TUF-GeForce GTX 1660S-O6G-GAMING 专业电竞游戏台式显卡
+
+
+[]
+12100+华擎h610 1200元搞定套装
+?AMD 3700+ 支持PICE4.0
+
+[]
+GPT从开始至今，其发展历程如下：
+
+2017年6月，Google发布论文《Attention is all you need》​，首次提出Transformer模型，成为GPT发展的基础。 论文地址： https://arxiv.org/abs/1706.03762
+
+2018年6月,OpenAI 发布论文《Improving Language Understanding by Generative Pre-Training》(通过生成式预训练提升语言理解能力)​，首次提出GPT模型(Generative Pre-Training)。论文地址： https://paperswithcode.com/method/gpt 。
+
+2019年2月，OpenAI 发布论文《Language Models are Unsupervised Multitask Learners》（语言模型应该是一个无监督多任务学习者），提出GPT-2模型。论文地址: https://paperswithcode.com/method/gpt-2
+
+2020年5月，OpenAI 发布论文《Language Models are Few-Shot Learners》(语言模型应该是一个少量样本(few-shot)学习者，提出GPT-3模型。论文地址： https://paperswithcode.com/method/gpt-3
+
+2022年2月底，OpenAI 发布论文《Training language models to follow instructions with human feedback》（使用人类反馈指令流来训练语言模型）​，公布Instruction GPT模型。论文地址： https://arxiv.org/abs/2203.02155
+
+[]
+Heroku替代方案：在DigitalOcean上使用Dokku部署应用程序
+
+[]
+STC-AOG
+STC-PG
+
+[]
+neo4j browser 有点类似于 mysql 里面的 workbench 或者 mongo 里面的 RoboMongo
+
+[945GCMX-S2]
+
+[]
+https://item.jd.com/10047756023223.html
+磐镭rtx2060/2060super/3050台式机游戏光追ddr6智能学习4K独立显卡 RTX2060S 8G
+
+https://item.jd.com/68451273582.html
+磐镭gtx1080ti 11g台式机专业电脑游戏显卡 gtx1080ti 11g
+
+[http security]
+navigator.mediaDevices.getUserMedia 目前支持的url：
+localhost、file和https
+
+google chrome:
+chrome://flags/#unsafely-treat-insecure-origin-as-secure
+firefox:
+go to about:config set to true media.devices.insecure.enabled and media.getusermedia.insecure.enabled
+
+[xrandr .xprofile]
+xrandr --newmode "1440x900_60.00" 106.50 1440 1528 1672 1904 900 903 909 934 -hsync +vsync
+xrandr --addmode VGA1 1440x900_60.00
+xrandr --output VGA1 --mode 1440x900_60.00
+
+[mac commands]
+open
+sox/soxi
+
+[macos bogon]
+sudo hostname localhost
+
+[already address in use]
+netstat -apn| more
+macos sudo lsof -i:port
+lsof -i:443
+
+[linux cmds]
+check running services:
+    pstree
+    systemctl
+service rocketchat status
+ulimit -a
+awk '{print $1}' myfile.txt // get first word of every line
+
+[sox]
+sox --i filename
+play filename
+rec filename
+
+[swap]
+/private/var/vm/swapfile*
+
+[heroku]
+https://ynstuctor.herokuapp.com/ | https://git.heroku.com/ynstuctor.git
+heroku login -i
+
+create app manually:
+heroku create myapp
+
+You may also specify a buildpack during app creation:
+heroku create myapp --buildpack heroku/python
+
+set a buildpack on app
+heroku buildpacks:set heroku/python
+
+list apps:
+heroku apps
+
+heroku ps:scale web=1
+heroku open
+heroku logs --tail
+
+For existing repositories, simply add the heroku remote:
+heroku git:remote -a ynstructor
+  -- (ynstructor is heroku app name, created with heroku create)
+  -- (? will create a local branch 'heroku' ? )
+
+rename it:
+git remote rename heroku heroku-ynstructor
+
+push local to remote:
+git push heroku-ynstructor master
+git push heroku-ynstructor yourbranch:master
+
+heroku run python manage.py runserver
+heroku pg:psql -a ynstructor
+
+git push heroku-blue4rest redforest:master
+
+[gradle]
+./gradlew -q task
+./gradlew assembleDebug
+./gradlew assembleRelease
+
+[build.gradle]
+        maven {
+            url "http://localhost:8081/nexus/content/repositories/central/"
+            credentials {
+                username 'admin'
+                password '081111'
+            }
+        }
+
+[vim]
+%s/^/\=printf('%-4d', line('.'))
+If you are on OSX and your patterns might contain dots and you want in-place replacement (no backup file) you should use LC_ALL=C find ./ -type f -exec sed -i '' -e 's/proc.priv/priv/g' {} \;
+
+find . -name "*.c" -exec sed -i "s/oldWord/newWord/g" '{}' \;
+find . -type f -iname \*.jpg -delete
+
+[vim multiple column insert]
+1.
+move to the position
+enter column visual mode CTRL+v
+select the column j or k
+enter into column insert mode shift+i
+insert the text
+type Esc
+then the column insertion is performed
+2. auto increase
+   2.1 use step 1 to get multiple columns with zero
+   2.2 visual mode and select, then 'g CTR-a'
+
+[view pictures]
+python -m SimpleHTTPServer 8080
+
+[server auto test]
+https://github.com/wg/wrk.
+wrk -c 100 http://127.0.0.1:8000/
+
+[python forum]
+https://github.com/rafalp/Misago
+
+[android openwrt]
+https://github.com/droiter/openwrt-on-android
+
+[求教，800以下软路由]
+arm 的 nanopi r1s(一个千兆 + 一个usb2转的rj45, 实测300Mbps), 或r2s(双千兆rj45, 不过据说固件还不太成熟). 200块出头吧, usb供电.
+或者买个nanopi neo2, 外加一个usb转rj45的千兆网卡. 它的usb也是2.0, 所以usb网卡速度到不了千兆. neo2的好处是它可以配一个比较漂亮/全铝的外壳带oled显示, 比r1s/r2s小, 上档次.
+再贵一点的, x86 的 j1900 带4个千兆rj45. 比较普通的造型.
+树莓派4可以，还小！
+刷openwrt装ssrplus插件
+在矿渣的docker里跑了一个openwrt
+
+[]
+如果申请公网被拒绝，目前我知道的有两种方法访问内网nas。
+1、使用群晖的快连quickconnect服务，可以直接访问内网的nas，不过速度就比较难，
+2、用内网穿透，比如frp，nps。如果自己搭建内网穿透服务器，需要带有公网ip的vps，也可以用别人免费的内网穿透服务器。速度不好说，有快有慢。如果你只需要外网访问nas，而不需要访问nas的其他服务，比如ftp.svn等，而成本较低的话，建议用群晖的quickconnect，这个免费的。
+
+蒲公英路由器
+https://waiwang.men/
+lanproxy@github
+
+买个公有云的主机，然后再买个按流量计费的带宽拉到100Mb/s，用某些不可描述的工具映射到你的内网主机。
+速度暴快。就是流量1g要0.9元，非常贵。
+
+怎么挂梯子，最简单的办法，买个华硕路由器刷梅林
+
+[]
+V2Ray是近几年兴起的科学上网技术，采用新的协议，因功能强大、能有效抵抗墙的干扰而广受好评。V2Ray官网是 https://v2ray.com，目前已无法直接打开。V2Ray安装部署及流量伪装请参考：V2Ray教程 和 V2Ray高级技巧：流量伪装。
+
+[Focus]
+原地空挡加油试试看，如果感觉声音震动大，考虑换发动机机脚胶。
+
+[samba]
+smbclient --socket-options='TCP_NODELAY IPTOS_LOWDELAY SO_KEEPALIVE SO_RCVBUF=131072 SO_SNDBUF=131072'
+   -- (large file)
+smbclient -L 198.168.1.105 -u username%password
+smbclient //192.168.1.105/Music -u administrator
+smbclient //192.168.1.105/Video -u administrator
+smb: \> prompt
+   -- remove yes or no
+smb:\>ls
+smb:\>get
+smb:\>put
+smb:\>mput
+
+[wd mycloud]
+How to use WD My Cloud as Git source code repository server.
+   -- https://github.com/emaV/WDMyCloud-git-shell-commands
+/var/www
+   -- web server?
+
+[]
+可以使用 GitHub 作为图床，用开源工具 Picgo 关联 GitHub 上传图片，再通过 jsdelivr CDN 加速访问，这一套组合很完美，于是我就采用了此方案搭建了自己的图床，依旧继续白嫖，我就不信 GitHub 也挂！
+
+[开发一个数据中台]
+大体说一下，不全面：
+1）数据：存储在s3之类的object store上，用avro/parquet/orc之类的格式
+   1.1）通过csv/rdbms/其他api导入数据
+2）元数据：存储在rdbms里
+   2.1）通过1）、2），大体上可以用文件+数据库来表示类似数据库表的结构
+3）数据处理框架很多，比如hadoop/spark等等
+4）各种任务，包括常规任务、数据导入、数据变换、数据分析，等等，可以通过一个统一的scheduler，调度到aws ecs fargate那样的serverless底层设施上执行
+5）后台的服务对外封装成微服务，以rest api的方式暴露出来
+
+[]
+这种可定制的口令固定的语音识别芯片淘宝20块上下？
+批量的话有5块的
+
+wifi用esp32，十几块，dac用个10块的。
+
+[git]
+git tag -a v1.0.0 -m 'tag description'
+
+[install debian on android]
+https://lanrat.com/install-debian-on-android/
+https://medium.com/@quantvc/running-debian-on-android-device-natively-73545c9b0757
+
+[rasa]
+https://blog.rasa.com/how-to-build-a-mobile-voice-assistant-with-open-source-rasa-and-aimybox/
+chatito
+
+[ngrok]
+Ngrok generates a temporary tunnel URL for a process running locally, which allows you to publish any local service to the internet, making it accessible from any point in the world.
+
+[mycloud]
+ssh -l root 192.168.1.105 /sbin/shutdown -h now
+
+[]
+python3 -m http.server 8888
+
+[]
+==> openssl@1.1
+A CA file has been bootstrapped using certificates from the system
+keychain. To add additional certificates, place .pem files in
+  /usr/local/etc/openssl@1.1/certs
+
+and run
+  /usr/local/opt/openssl@1.1/bin/c_rehash
+
+openssl@1.1 is keg-only, which means it was not symlinked into /usr/local,
+because macOS provides LibreSSL.
+
+If you need to have openssl@1.1 first in your PATH run:
+  echo 'export PATH="/usr/local/opt/openssl@1.1/bin:$PATH"' >> /Users/liuying/.bash_profile
+
+For compilers to find openssl@1.1 you may need to set:
+  export LDFLAGS="-L/usr/local/opt/openssl@1.1/lib"
+  export CPPFLAGS="-I/usr/local/opt/openssl@1.1/include"
+
+For pkg-config to find openssl@1.1 you may need to set:
+  export PKG_CONFIG_PATH="/usr/local/opt/openssl@1.1/lib/pkgconfig"
+
+==> redis
+To have launchd start redis now and restart at login:
+  brew services start redis
+Or, if you don't want/need a background service you can just run:
+  redis-server /usr/local/etc/redis.conf
+==> krb5
+krb5 is keg-only, which means it was not symlinked into /usr/local,
+because macOS already provides this software and installing another version in
+parallel can cause all kinds of trouble.
+
+If you need to have krb5 first in your PATH run:
+  echo 'export PATH="/usr/local/opt/krb5/bin:$PATH"' >> /Users/liuying/.bash_profile
+  echo 'export PATH="/usr/local/opt/krb5/sbin:$PATH"' >> /Users/liuying/.bash_profile
+
+For compilers to find krb5 you may need to set:
+  export LDFLAGS="-L/usr/local/opt/krb5/lib"
+  export CPPFLAGS="-I/usr/local/opt/krb5/include"
+
+For pkg-config to find krb5 you may need to set:
+  export PKG_CONFIG_PATH="/usr/local/opt/krb5/lib/pkgconfig"
+
+==> readline
+readline is keg-only, which means it was not symlinked into /usr/local,
+because macOS provides BSD libedit.
+
+For compilers to find readline you may need to set:
+  export LDFLAGS="-L/usr/local/opt/readline/lib"
+  export CPPFLAGS="-I/usr/local/opt/readline/include"
+
+For pkg-config to find readline you may need to set:
+  export PKG_CONFIG_PATH="/usr/local/opt/readline/lib/pkgconfig"
+
+==> postgresql
+To migrate existing data from a previous major version of PostgreSQL run:
+  brew postgresql-upgrade-database
+
+This formula has created a default database cluster with:
+  initdb --locale=C -E UTF-8 /usr/local/var/postgres
+For more details, read:
+  https://www.postgresql.org/docs/13/app-initdb.html
+
+To have launchd start postgresql now and restart at login:
+  brew services start postgresql
+Or, if you don't want/need a background service you can just run:
+  pg_ctl -D /usr/local/var/postgres start
+
+[mysql]
+shell> sudo /usr/local/mysql-5.6.*/bin/mysqld_safe
+(Enter your password, if necessary)
+(Press Control-Z)
+shell> bg
+(Press Control-D or enter "exit" to exit the shell)
+
+early version:
+grant all privileges on *.* to root@'localhost' identified by '  ';
+later version:
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '  ';
+
+./mysql -u root -p
+   -- password: way2go
+creat database dbname;
+show databases;
+show tables;
+
+[pillow]
+brew install libtiff libjpeg webp little-cms2
+
+[postgre]
+\dt
+\l
+SELECT sum(pg_column_size(t.*)) as filesize, count(*) as filerow FROM forum_post as t where id=121;
+
+remove not null constrain:
+alter table actstream_follow alter column follow_type drop not null;
+
+[]
+Given below is list of algorithms to implement fuzzy matching algorithms which themselves are available in many open source libraries:
+
+
+
+Levenshtein distance Algorithm
+
+Levenshtein distance is a string metric for measuring the difference between two sequences. Informally, the Levenshtein distance between two words is the minimum number of single-character edits (i.e. insertions, deletions or substitutions) required to change one word into the other.
+
+ 
+
+Damerau–Levenshtein distance
+
+Damerau–Levenshtein distance is a distance (string metric) between two strings, i.e., finite sequence of symbols, given by counting the minimum number of operations needed to transform one string into the other, where an operation is defined as an insertion, deletion, or substitution of a single character, or a transposition of two adjacent characters.
+
+ 
+
+Bitap algorithm with modifications by Wu and Manber
+
+Bitmap algorithm is an approximate string matching algorithm. The algorithm tells whether a given text contains a substring which is "approximately equal" to a given pattern, where approximate equality is defined in terms of Levenshtein distance — if the substring and pattern are within a given distance k of each other, then the algorithm considers them equal.
+
+ 
+
+n-gram
+
+n-gram is a contiguous sequence of n items from a given sequence of text or speech. The items can be phonemes, syllables, letters, words or base pairs according to the application. An n-gram model is a type of probabilistic language model for predicting the next item in such a sequence in the form of a (n − 1)–order Markov model.
+
+ 
+
+BK-tree
+
+A BK-tree is a metric tree suggested by Walter Austin Burkhard and Robert M. Keller specifically adapted to discrete metric spaces.To understand, let us consider integer discrete metric d(x,y). Then, BK-tree is defined in the following way. An arbitrary element a is selected as root node. The root node may have zero or more subtrees. The k-th subtree is recursively built of all elements b such that d(a,b) = k. BK-trees can be used for approximate string matching in a dictionary
+
+ 
+
+Soundex
+
+Soundex is a phonetic algorithm for indexing names by sound, as pronounced in English. The goal is for homophones to be encoded to the same representation so that they can be matched despite minor differences in spelling.
+
+
+[adb]
+adb connect 192.168.1.102
+adb shell
+
+[usb boot ubuntu]
+scheme: GUID Partitions Map
+format: MS-DOS(FAT)
+BIOS: Hard Disk Boot Priority
+
+[usb boot windows]
+scheme: Master Boot Record/GUID Partitions Map
+format: MS-DOS(FAT)
+
+[core dump]
+如果我们不清楚 core 是由哪个进程产生的，我们可以通过使用命令 “ file core 文件 ”来查看。
+
+例如 core 文件是由 test 这个进程产生的，那么通过命令 “ gdb test corefile ” 查看 core 文件的内容，在输入 bt 或 where 检查程序运行到哪里，来定位 coredump 的行。
+
+[knowledge base options]
+https://www.jianshu.com/p/b059017f375d
+Grakn is a distributed knowledge graph with a reasoning query language that enables you to query for explicitly stored data and implicitly derived information. 
+
+[recommender system]
+https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/machine_learning/example_recommendation.ipynb
