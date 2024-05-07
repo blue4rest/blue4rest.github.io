@@ -83,24 +83,6 @@ pip install https://github.com/explosion/spacy-models/releases/download/en_core_
  PATH="/Applications/CMake.app/Contents/bin":"$PATH"
 
 []
-
-华硕（ASUS）DUAL GeForce RTX4070-12G 电竞游戏专业独立显卡
-技嘉（GIGABYTE）猎鹰 GeForce RTX 4070显卡 EAGLE OC 12G 电竞游戏设计智能学习电脑独立显卡支持2K/4K
-
-华硕（ASUS） TUF-RTX3070TI-O8G-V2-GAMING 电竞特攻系列 游戏显卡 TUF-RTX3070TI-O8G-V2
-
-铭瑄（MAXSUN）MS-GeForce RTX3060 终结者 12G 电竞游戏设计智能学习电脑装机独立显卡
-   -- taking long time is okay because we don't need train model much often
-
-https://item.jd.com/100011516692.html
-华硕 （ASUS）TUF-GeForce GTX 1660S-O6G-GAMING 专业电竞游戏台式显卡
-
-
-[]
-12100+华擎h610 1200元搞定套装
-?AMD 3700+ 支持PICE4.0
-
-[]
 GPT从开始至今，其发展历程如下：
 
 2017年6月，Google发布论文《Attention is all you need》​，首次提出Transformer模型，成为GPT发展的基础。 论文地址： https://arxiv.org/abs/1706.03762
@@ -117,20 +99,7 @@ GPT从开始至今，其发展历程如下：
 Heroku替代方案：在DigitalOcean上使用Dokku部署应用程序
 
 []
-STC-AOG
-STC-PG
-
-[]
 neo4j browser 有点类似于 mysql 里面的 workbench 或者 mongo 里面的 RoboMongo
-
-[945GCMX-S2]
-
-[]
-https://item.jd.com/10047756023223.html
-磐镭rtx2060/2060super/3050台式机游戏光追ddr6智能学习4K独立显卡 RTX2060S 8G
-
-https://item.jd.com/68451273582.html
-磐镭gtx1080ti 11g台式机专业电脑游戏显卡 gtx1080ti 11g
 
 [http security]
 navigator.mediaDevices.getUserMedia 目前支持的url：
@@ -283,8 +252,6 @@ lanproxy@github
 []
 V2Ray是近几年兴起的科学上网技术，采用新的协议，因功能强大、能有效抵抗墙的干扰而广受好评。V2Ray官网是 https://v2ray.com，目前已无法直接打开。V2Ray安装部署及流量伪装请参考：V2Ray教程 和 V2Ray高级技巧：流量伪装。
 
-[Focus]
-原地空挡加油试试看，如果感觉声音震动大，考虑换发动机机脚胶。
 
 [samba]
 smbclient --socket-options='TCP_NODELAY IPTOS_LOWDELAY SO_KEEPALIVE SO_RCVBUF=131072 SO_SNDBUF=131072'
