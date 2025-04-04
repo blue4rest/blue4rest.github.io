@@ -12,9 +12,13 @@ collect info for future
 对具身智能、大模型及AGI的一些思考[QQ](https://new.qq.com/rain/a/20231107A07QZB00)
 
 # Links
-english words memory https://wordeffy.top
+english words learning https://wordeffy.top or https://shanhelu.com
 
 # 随笔
+
+## 语言忽悠
+
+无法量化，没有时间节点的观点都可能是忽悠。
 
 ## 缩表是怎么回事
 
